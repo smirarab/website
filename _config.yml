@@ -1,0 +1,12 @@
+# Site settings
+title: Siavash Mirarab
+email: smirarab@ucsd.edu
+description: # > this means to ignore newlines until "baseurl:"
+  Homepage of Siavash Mirarab at ECE department of UC San Diego (UCSD)
+baseurl: "/~smirarab" # the subpath of your site, e.g. /blog/
+url: "http://eceweb.ucsd.edu/~smirarab" # the base hostname & protocol for your site
+twitter_username: smirarab
+github_username:  smirarab
+
+# Build settings
+markdown: kramdown
