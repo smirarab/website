@@ -6,7 +6,7 @@ title: Publications
 Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ&hl=en) for citation statistics (and more).
 
 
-0. **Siavash Mirarab**, Tandy Warnow. “ASTRAL-II: Coalescent-Based Species Tree Estimation with Many Hundreds of Taxa and Thousands of Genes.”. Bioinformatics 31, no. 12 (2015): i44–i52. [doi:10.1093/bioinformatics/btv234](http://bioinformatics.oxfordjournals.org/content/31/12/i44)
+0. **Mirarab, Siavash**, Tandy Warnow. “ASTRAL-II: Coalescent-Based Species Tree Estimation with Many Hundreds of Taxa and Thousands of Genes.”. Bioinformatics 31, no. 12 (2015): i44–i52. [doi:10.1093/bioinformatics/btv234](http://bioinformatics.oxfordjournals.org/content/31/12/i44)
 
 0. Shamsuzzoha Md Bayzid, **Siavash Mirarab**, Bastien Boussau, and Tandy Warnow. “Weighted Statistical Binning: Enabling Statistically Consistent Genome-Scale Phylogenetic Analyses.” PLoS ONE 10, no. 6 (2015): e0129183. [doi:10.1371/journal.pone.0129183](http://dx.doi.org/10.1371/journal.pone.0129183).
 

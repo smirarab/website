@@ -14,3 +14,7 @@ I work in the area of **computational biology**, more specifically large scale p
 
 Here is my (hopefully up-to-date) [**CV**](resume-mirarab.pdf).
 
+
+And my calendar:
+
+<iframe src="https://www.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=smirarab%40gmail.com&amp;color=%232952A3&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%23125A12&amp;src=smirarabbaygi%40eng.ucsd.edu&amp;color=%13125C12&amp;ctz=America%2FLos_Angeles;" style=" border-width:0 " width="800" height="600" frameborder="1" scrolling="yes"></iframe>
