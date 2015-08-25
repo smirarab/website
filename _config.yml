@@ -11,4 +11,4 @@ github_username:  smirarab
 # Build settings
 markdown: kramdown
 
-exclude: ['*.sh']
+exclude: ['*.sh','resume']

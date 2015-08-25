@@ -1,0 +1,45 @@
+\documentclass[11pt]{article}
+\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+\usepackage{setspace}
+
+\title{List of publications}
+\author{Siavash Mirarab}
+%\date{}                                           % Activate to display a given date or no date
+\makeatletter
+\renewcommand\@biblabel[1]{#1.}
+\makeatother
+\begin{document}
+\maketitle
+%\section{}
+%\subsection{}
+
+\renewcommand*{\refname}{\vspace*{-2em}}
+
+
+\nocite{astral-hgt,Chou2015,astral2,upp,wsb,avian, binning,1kp-pilot,mrl-sysbio,pasta-jcb,pasta,astral,tipp, bbca,Stoltzfus2013,Bayzid2013b,mrl,sepp,Mirarab2012a,fastsp,Do2010,Mirarab2008a,Mirarab2008,Do2008,Amoui2008,Mirarab2007a,Mirarab2007,Amoui2006}
+    
+\def\FormatName#1{%
+  \def\myname{Siavash Mirarab}
+  \def\mynamee{Siavash Mirarab)*}%
+  \edef\name{#1}%
+  \ifx\name\myname
+    \textbf{#1}%
+  \else
+    \ifx\name\mynamee
+       \textbf{Siavash Mirarab})*%
+    \else
+      #1%and
+    \fi
+  \fi
+}
+
+
+%\setstretch{0.8}
+\begin{spacing}{1.2}
+\bibliographystyle{resbib}
+%\setlength\bibitemsep{10pt} Fourth International Conference on
+\bibliography{pub}
+\end{spacing}
+
+\end{document}  
