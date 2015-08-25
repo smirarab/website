@@ -1,0 +1,313 @@
+%______________________________________________________________________________________________________________________
+% @brief    LaTeX2e Resume for Siavash Mirarab
+\documentclass[margin,line,letterpaper]{resume}
+\usepackage{setspace}
+\usepackage{hyperref}
+
+\makeatletter
+\renewenvironment{thebibliography}[1]
+     {\list{\@biblabel{\@arabic\c@enumiv}}%
+           {\settowidth\labelwidth{\@biblabel{#1}}%
+            \leftmargin\labelwidth
+            \advance\leftmargin\labelsep
+            \@openbib@code
+            \usecounter{enumiv}%
+            \let\p@enumiv\@empty
+            \renewcommand\theenumiv{\@arabic\c@enumiv}}%
+      \sloppy
+      \clubpenalty4000
+      \@clubpenalty \clubpenalty
+      \widowpenalty4000%
+      \sfcode`\.\@m}
+     {\def\@noitemerr
+       {\@latex@warning{Empty `thebibliography' environment}}%
+      \endlist}
+\makeatother
+
+\makeatletter
+\renewcommand\@biblabel[1]{#1.}
+\makeatother
+
+
+%_______________________________________________________________________________________
+\begin{document}
+\name{\Large Siavash Mirarab}
+\begin{resume}
+
+    %_______________________________________________________________________________________    % Contact Information
+%TODO: update address
+    \section{\mysidestyle Contact\\Information}
+    ~Department of Electrical and Computer Engineering 				\hfill mobile: 512 698 2967   \vspace{0mm}\\\vspace{0mm} 
+    \vspace{0mm} UC San Diego   \hfill  e-mail: \url{smirarab@ucsd.edu}   \vspace{0mm}\\\vspace{0mm}
+   9500 Gilman Drive, Mail code 0407  \hfill website: \url{eceweb.ucsd.edu/~smirarab/} \vspace{0mm}\\\vspace{-4.5mm}%
+   ~La Jolla, CA 92093-0407   	\hfill google scholar: \url{http://goo.gl/gEswQ5} \vspace{0mm}\\\vspace{-4.5mm}
+    %__________________________________________________________________________________________________________________
+    % Research Interests
+    \section{\mysidestyle Research\\Interests}
+
+      Computational biology and Bioinformatics, Large-scale phylogenetics, Phylogenomics, Multiple sequence alignment,  Metagenomics, Parallel computing, Big Data
+      
+%__________________________________________________________________________________________________________________
+    % Research Interests
+    \section{\mysidestyle Academic\\Positions}
+
+    \textbf{UC San Diego}, San Diego, CA, United States\\
+    Department of Electrical and Computer Engineering\vspace{2mm}\\\vspace{1mm}%
+    \textsl{Assistant Professor} \hfill \textbf{ July 2015 -- present}\vspace{-3mm}\\\vspace{-1mm}%          
+    %__________________________________________________________________________________________________________________
+    % Education
+    \section{\mysidestyle Education}
+
+    \textbf{University of Texas at Austin}, Austin, Texas, United States\\
+    Department of Computer Science\vspace{2mm}\\\vspace{1mm}%
+    \textsl{Ph.D} \hfill \textbf{ January 2011 -- July 2015}\vspace{-3mm}\\\vspace{-1mm}%
+    \begin{list2}
+        \item GPA: 3.97
+        \item Advisors:  Prof. Tandy Warnow, Prof. Keshav Pingali
+        \item Thesis: Novel scalable approaches for multiple sequence
+alignment and phylogenetic reconstruction
+        %\item Research topics: large scale phylogenetics, metagenomics.
+    \end{list2}\vspace{-1.5mm}
+    
+    \textbf{University of Waterloo}, Waterloo, Ontario, Canada\\
+    Department of Electrical and Computer Engineering\vspace{2mm}\\\vspace{1mm}%
+    \textsl{Master of Science} \hfill \textbf{ September 2006 -- September 2008}\vspace{-3mm}\\\vspace{-1mm}%
+    \begin{list2}
+ %       \item GPA: 91.6/100
+        \item Advisors:  Prof. Ladan Tahvildari
+        \item Thesis: A Bayesian Framework for Software Regression Testing
+    \end{list2}\vspace{-1.5mm}
+    \textbf{University of Tehran}, Tehran, Iran\\
+    Department of Electrical and Computer Engineering \vspace{2mm}\\\vspace{1mm}%
+    \textsl{Bachelor of Science} \hfill \textbf{ September 2001 -- December 2005}\vspace{-3mm}\\\vspace{-1mm}%
+    \begin{list2}
+%        \item GPA: 79/100
+        \item Computer engineering, specialized in software engineering.
+        %\item Autonomous rescue agents: participation in 2003 Robocup simulation league.
+    \end{list2}\vspace{-1.5mm}
+
+%    %__________________________________________________________________________________________________________________
+%    % Test Score
+%    \section{\mysidestyle GRE Scores}
+%	Verbal: 640 (92\%); Quantitative: 800 (94\%); Analytical Writing: 4 (41\%).
+
+    %__________________________________________________________________________________________________________________
+     %Honours and Awards
+    \section{\mysidestyle Major \\Awards}
+%TODO: add hackaton    
+    %\begin{itemize}
+     Howard Hughes Medical Institute International Student Fellowship. \textbf{ 2012 - present}\vspace{2mm}
+     \\ National Science and Engineering Research Council of Canada (NSERC), 
+     %Alexander Graham Bell 
+     Canada Graduate Scholarship (CGS-D) converted to PGS-D outside Canada. \hfill \textbf{2011- 2012} \vspace{2mm}
+     \\ University of Texas at Austin, MCD fellowship (I declined to take CGS instead) 
+     
+     \section {\mysidestyle Other \\Awards}
+     University of Texas at Austin, College of Natural Sci., Dean's Excellence Award, 2011\vspace{2mm}\\
+     University of Texas at Austin, Graduate Dean's Prestigious Fellowship Supplement Award, 2011, 2012, 2013, 2014 \vspace{2mm}\\ 
+%     Travel awards from International Society for Computational Biology (ISCB) for ECCB, ISMB (2014, 2015),
+%     National Science Foundation (NSF) for RECOMB (2014), 
+%     National Library of Medicine/National Institutes of Health for PSB (2011, 2102),
+%     Institute for Pure and Applied Mathematics (IPAM) for Mathematical and Computational Approaches in High-Throughput Genomic (2011),
+%     and University of Texas at Austin, Dept. of Computer Science, for conference presentations (2011, 2012, 2013, 2014)
+    
+%\end{itemize}
+    %__________________________________________________________________________________________________________________
+    % Publications
+    \renewcommand*{\thefootnote}{\fnsymbol{footnote}}
+    \section{\mysidestyle Publications}
+
+\newcommand\blfootnote[1]{%
+  \begingroup
+  \renewcommand\thefootnote{}\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \endgroup
+}
+    
+\def\FormatName#1{%
+  \def\myname{Siavash Mirarab}
+  \def\mynamee{Siavash Mirarab)*}%
+  \edef\name{#1}%
+  \ifx\name\myname
+    \textbf{#1}%
+  \else
+    \ifx\name\mynamee
+       \textbf{Siavash Mirarab})*%
+    \else
+      #1%and
+    \fi
+  \fi
+}
+
+\vspace{-26pt}
+\blfootnote{* co-first authorship}
+%\renewcommand*{\refname}{\vspace*{-2em}}
+\begin{spacing}{1.2}
+\input{publications.bbl}
+\end{spacing}
+
+\vspace{-10pt}
+
+\section{\mysidestyle Software\\(Publicly\\available)}
+\textbf{ASTRAL} (\url{https://github.com/smirarab/ASTRAL})\\
+Coalescent-based species tree estimation from  gene trees\vspace{2mm}\\
+\textbf{PASTA} (\url{https://github.com/smirarab/pasta})\\ 
+Multiple sequence alignment of ultra-large datasets (up to a million sequences)\vspace{2mm}\\
+\textbf{SEPP} (\url{https://github.com/smirarab/sepp})\\
+Phylogenetic placement of metagenomic reads using families of HMMs\vspace{2mm}\\
+\textbf{TIPP} (\url{https://github.com/smirarab/sepp/blob/master/README.TIPP.md})\\
+Taxonomic profiling of metagenomic samples using phylogenetic placement\vspace{2mm}\\
+\textbf{UPP} (\url{https://github.com/smirarab/sepp/blob/master/README.UPP.md})\\
+Multiple sequences alignment using families of HMMs for ultra-large datasets\vspace{2mm}\\
+\textbf{FastSP} (\url{https://github.com/smirarab/FastSP})\\
+Fast comparison of very large multiple sequence alignments  
+
+See \url{https://github.com/smirarab/?tab=repositories} for more. 
+    %__________________________________________________________________________________________________________________
+    % Professional Experience
+    \section{\mysidestyle Professional\\Experience}
+
+    \textbf{International Business Machines (IBM)}, Vancouver, British Columbia, Canada
+  %  Global Business Services (GBS) - Pacific Development Center (PDC)
+\vspace{2mm}\\\vspace{1mm}%
+    \textsl{IT Specialist} \hfill \textbf{September 2008 -- December 2010}\\
+    Worked on a software platform for wireless pace-maker devices
+%     Enterprise web application development using J2EE for health-care industry.                 \vspace{1mm}\\
+%     Enterprise integration development using IBM WebSphere MQ and Massage Broker.               \vspace{1mm}\\
+%     Database development in Oracle.
+
+    \textbf{Research In Motion (RIM)}, Waterloo, Ontario, Canada \vspace{2mm}\\\vspace{1mm}%
+    \textsl{Research Associate (part-time)} \hfill \textbf{September 2007 -- September 2008}  
+%    Joint research project between RIM and University of Waterloo on methods of improving the testing process. \vspace{1mm}\\
+%     Developed a probabilistic model for prioritizing regression test cases based on statistical information and requirement coverage data.
+
+%    \textbf{Cisco Systems, ISBU}, San Jose, California, US \vspace{2mm}\\\vspace{1mm}%
+%    \textsl{College Intern as Software Engineer} \hfill \textbf{May 2007 -- September 2007}
+%     Research on challenges of introducing service provider features in L2 switching devices.\vspace{1mm}\\
+%     Learned Cisco�s platform, including IOS, and developed a new feature for Spanning Tree Protocol in order to improve its functionality for provider networks.
+
+
+%    \textbf{Persian Java}, Tehran, Iran \vspace{2mm}\\\vspace{1mm}%
+%    \textsl{Software Engineer (part-time)} \hfill \textbf{January 2005 -- June 2005}
+%     Requirement analysis and design using Rational Rose and UML.                \vspace{1mm}\\
+%     Software architecture, focusing chiefly on Service Oriented Architecture
+%     (SOA), integration with legacy systems, and work-flow engines.      
+%     \vspace{1mm}\\ Built a web framework for rapid development of
+%     workflow-backed JSP pages through a Struts-based control layer.
+
+%    \textbf{Aviensystem}, Tehran, Iran \vspace{2mm}\\\vspace{1mm}%
+%    \textsl{Software Engineer (part-time)} \hfill \textbf{July 2003 -- June 2005}       \\
+%     Application development using Java, C\#, and PL/SQL, and J2EE web development.        \\
+%     Built a framework for rapid application development in Java, following MVC paradigm, providing means of easily binding GUI (Swing) components to various data sources.                     \vspace{1mm}\\
+%     R\&D: studying business rule engines, S.O.A, Aspect-Oriented Programming,
+%     and BPEL; prototyping these technologies for the management.
+
+%    \textbf{Kish Khodro}, Tehran, Iran \vspace{2mm}\\\vspace{1mm}%
+%    \textsl{Software Development (project contract)} \hfill \textbf{September 2001 -- June 2003}\\
+%    Full development and maintenance of a total system for supply chain management.
+
+%_______________________________________________________________________________________    %  Teaching Experience
+    \section{\mysidestyle Teaching Experience}
+
+    \textbf{Teaching  Assistance:}\vspace{2mm}\\\vspace{1mm}%
+    University of Waterloo, Software Testing and Quality Assurance  \hfill \textbf{Winter 2007}\vspace{1mm}\\
+    University of Tehran, Scientific \& Technical Communication  \hfill \textbf{Fall 2005}
+
+
+    \textbf{Workshops, Tutorials, and  Short Courses:}\vspace{2mm}\\\vspace{1mm}%
+    Ann Arbor, Michigan, Phylogenomics Symposium and Software School \hfill \textbf{2015}\\
+    UT Austin, Summer school on Phylogenomics and Metagenomics \hfill \textbf{Summer 2014}\\
+    Evolution meetings (NC), Software School on ASTRAL and PASTA \hfill \textbf{Summer 2014}\\
+    UT Austin, Workshop on New Methods for Phylogeny and Alignment Estimation, 
+    Tutorials on SEPP and SATe \hfill \textbf{Winter 2013}
+%
+%    \textbf{Guest Lecturer:}\vspace{2mm}\\\vspace{1mm}%
+%University of Texas at Austin (Biology) Computation Biology \hfill \textbf{2014}\\
+%University of Texas at Austin (CCBB) Introduction to Biological Computing \hfill \textbf{2014}\\
+%University of Texas at Austin (Computer Science) Algorithm of Comp. Biology \textbf{2013}
+
+%    \textbf{Volunteer Teaching:}\vspace{2mm}\\\vspace{1mm}%
+%    Tehran, Iran, 12th grade mathematics and physics. \hfill \textbf{2001}
+    
+    
+        \section{\mysidestyle Highlights Talks}
+         RECOMB, Warsaw, Poland, ``Statistical binning enables an accurate ...''   \hfill \textbf{2015}\vspace{1mm}\\
+         IPAM, UCLA, ``Ultra-large multiple sequence alignments''.\hfill \textbf{2015}
+%_______________________________________________________________________________________
+    %  Professional Services
+    \section{\mysidestyle Professional Services}
+    %TODO: add summer schools. 
+    Program Committee: ISMB/ECCB  \hfill \textbf{2015}\vspace{1mm}\\
+    Paper Review: 
+Trans. on Comp. Bio. and Bioinform. (TCBB) , Bioinformatics, ISMB, RECOMB-CG, Theoretical Population Genetics, Trans. on Software Engineering (TSE), Intern. Conf. on Program Comprehension     \hfill \textbf{2007-2015}\vspace{1mm}\\
+    Mentorship: Undergrad Research Assistants at University of Texas at Austin   \hfill \textbf{2013}
+    Mentorship: Undergrad Research Assistants at University of Waterloo   \hfill \textbf{2008}%
+
+%\section{\mysidestyle Nationality}
+%Citizen of Canada and Iran
+%__________________________________________________________________________________________________________________
+    % Computer Skills
+%     \section{\mysidestyle Skills}
+% 
+%     \textbf{Programming:}\vspace{2mm}\\\vspace{1mm}%
+%     Proficient: Java, J2EE Web Programming, C, and C++.         \vspace{1mm}\\%
+%     Experienced: UNIX Shell Scripting, Python, MATHLAB, R statistical package, .Net (e.g. C\#), Visual C and Basic, x86 Assembly, SQL and XML (XSLT, XSD, etc.)                     \vspace{1mm}\\%
+%     Familiar with: Prolog, Lisp, and Perl.
+% 
+%     \textbf{Frameworks and Databases:}\vspace{2mm}\\\vspace{1mm}%
+% 	RDBMS: Oracle, IBM DB2, Microsoft SQL Server, MySQL.       \vspace{1mm}\\%
+% 	Enterprise Technologies: Oracle BPEL, IBM WebShpere MQ, IBM Massage Broker, and application servers such as OAS, IBM WebShere, JBoss, and more.                                      \vspace{1mm}\\%
+% 	Development frameworks: Hibernate, Spring, Struts, IBM RSA, Oracle ADF, Liquibase, Yahoo YUI, and more.
+% 
+%     \textbf{Software Methodologies:}\vspace{2mm}\\\vspace{1mm}%
+%     Process Models:	Experienced in RUP, Waterfall, and Agile; Trained for CMMI.        \vspace{1mm}\\%
+%     Proficient in Object-Oriented paradigm (including analysis and design)
+%     and related areas including design patterns and framework development.             \vspace{1mm}\\%
+% 	Experienced in requirement analysis and software architecture.                     \vspace{1mm}\\%
+%     Thorough knowledge of software testing (esp. regression testing).
+% 
+%     \section{\mysidestyle Misc.}
+%     \textbf{Language:} fluent in English and Farsi, familiar with Arabic.       \\%
+%     \textbf{Nationality:} citizen of Iran, permanent resident of Canada (applied
+%     for citizenship).\\ % 
+%     \textbf{Hobbies:} reading layman's science and history, sports, hiking, and
+%     music.%
+
+%__________________________________________________________________________________________________________________
+    % Referees
+%    \section{\mysidestyle Referees}
+%    {\sl Available on request.}
+
+
+
+%%______________________________________________________________________________________________________________________
+%\section{\mysidestyle Referees}
+%
+%\begin{tabular}{@{}p{6cm}p{6cm}}
+%\textbf{Professor Kuldip Paliwal}       &  \textbf{Dr Stephen So}                   \\
+%Professor                               &  Associate Lecturer                       \\
+%Griffith University                     &  Griffith University                      \\
+%Nathan, Queensland, Australia           &  Gold Coast, Queensland, Australia        \\
+%phone: \textsl{available on request}    &  phone: \textsl{available on request}     \\
+%e-mail: \textsl{available on request}   &  e-mail: \textsl{available on request}    \\
+%\end{tabular}
+%
+%\begin{tabular}{@{}p{6cm}p{6cm}}
+%\textbf{Dr Conrad Sanderson}            &  \textbf{Mr Sean Loye}                    \\
+%Researcher                              &  Systems Engineer                         \\
+%National ICT Australia                  &  Hewlett Packard                          \\
+%St Lucia, Queensland, Australia         &  Milton, Queensland, Australia            \\
+%phone: \textsl{available on request}    &  phone: \textsl{available on request}     \\
+%e-mail: \textsl{available on request}   &  e-mail: \textsl{available on request}    \\
+%\end{tabular}
+%
+
+
+%______________________________________________________________________________________________________________________
+\end{resume}
+\end{document}
+
+
+%______________________________________________________________________________________________________________________
+% EOF
+
