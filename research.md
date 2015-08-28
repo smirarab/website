@@ -7,9 +7,9 @@ I am broadly interested in using computational methods to answer important quest
 My focus currently is on using very large datasets that are becoming rapidly common as the cost of sequencing drops. 
 What interests me is not only the computational challenges that handling large scale datasets leads to, 
 but also the under-appreciated problem of accuracy:
-methods developed and tested on small datasets are always have highly accurate when applied to large-scale data. 
+methods developed and tested on small datasets do not always have highly accurate when applied to large-scale data. 
 My aim is to develop methods that can handle very large datasets, 
-but also can have high accuracy and model complicated biological processes that could not have been understood with less data. 
+while maintaining high accuracy; this sometimes requires modeling complicated biological processes, which in turns often requires large datasets. 
 
 
 ## Research Projects
@@ -34,8 +34,8 @@ I briefly summarize my contributions in each area.
 
 ## Research outcome
 
-The main outcomes of these projects are the [publications](publications.html) that describe the new algorithms and apply them to real biological datasets, in addition to [tools](software.html) that have implemented these algorithms and have made the available for public use. 
-In addition, our work has been covered in press, and we have been presenting the work. 
+The main outcomes of these projects are the [publications](publications.html) that describe the new algorithms and apply them to real biological datasets, in addition to [tools](software.html) that have implemented these algorithms and have been made  available for public use. 
+In addition, our work has been covered in press, and we have been presenting the work at various venues. 
 
 ### My work in press
 
