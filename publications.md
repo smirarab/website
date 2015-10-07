@@ -5,6 +5,12 @@ title: Publications
 
 Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ&hl=en) for citation statistics (and more).
 
+0. Cracraft, Joel, Peter Houde, Simon Y W Ho, David P Mindell, Jon Fjeldså, Bent Lindow, Scott V Edwards, Carsten Rahbek, **Siavash Mirarab**,
+Tandy Warnow, M Thomas P Gilbert, Guojie Zhang, Edward L Braun, Erich D Jarvis. “Response to Comment on ‘Whole-Genome Analyses Resolve Early Branches in the Tree of Life of Modern Birds.’” Science 349, no. 6255 (2015): 1460. [doi:10.1126/science.aab1578](http://www.sciencemag.org/content/349/6255/1460.2.abstract).
+
+0. Davidson, Ruth, Pranjal Vachaspati, **Siavash Mirarab**, and Tandy Warnow. “Phylogenomic Species Tree Estimation in the Presence of Incomplete Lineage Sorting and Horizontal Gene Transfer.” BMC Genomics 16, Suppl 10 (2015): S1. [doi:10.1186/1471-2164-16-S10-S1](http://www.biomedcentral.com/1471-2164/16/S10/S1).
+
+0. Chou, Jed, Ashu Gupta, Shashank Yaduvanshi, Ruth Davidson, Mike Nute, **Siavash Mirarab**, and Tandy Warnow. “A Comparative Study of SVDquartets and Other Coalescent-Based Species Tree Estimation Methods.” BMC Genomics 16, Suppl 10 (2015): S2. [doi:10.1186/1471-2164-16-S10-S2](http://www.biomedcentral.com/1471-2164/16/S10/S2).
 
 0. **Mirarab, Siavash**, Tandy Warnow. “ASTRAL-II: Coalescent-Based Species Tree Estimation with Many Hundreds of Taxa and Thousands of Genes.”. Bioinformatics 31, no. 12 (2015): i44–i52. [doi:10.1093/bioinformatics/btv234](http://bioinformatics.oxfordjournals.org/content/31/12/i44)
 
