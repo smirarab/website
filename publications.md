@@ -5,6 +5,8 @@ title: Publications
 
 Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ&hl=en) for citation statistics (and more).
 
+0. **Mirarab, Siavash**, Md. Shamsuzzoha Bayzid, Bastien Boussau, and Tandy Warnow. 2015. “Response to Comment on ‘Statistical Binning Enables an Accurate Coalescent-Based Estimation of the Avian Tree.’” Science 350, no. 6257 (2015): 171. [doi:10.1126/science.aaa7719](http://www.sciencemag.org/content/350/6257/171.2.abstract).
+
 0. Cracraft, Joel, Peter Houde, Simon Y W Ho, David P Mindell, Jon Fjeldså, Bent Lindow, Scott V Edwards, Carsten Rahbek, **Siavash Mirarab**,
 Tandy Warnow, M Thomas P Gilbert, Guojie Zhang, Edward L Braun, Erich D Jarvis. “Response to Comment on ‘Whole-Genome Analyses Resolve Early Branches in the Tree of Life of Modern Birds.’” Science 349, no. 6255 (2015): 1460. [doi:10.1126/science.aab1578](http://www.sciencemag.org/content/349/6255/1460.2.abstract).
 
