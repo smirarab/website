@@ -7,22 +7,27 @@ I am broadly interested in using computational methods to answer important quest
 My focus currently is on using very large datasets that are becoming rapidly common as the cost of sequencing drops. 
 What interests me is not only the computational challenges that handling large scale datasets leads to, 
 but also the under-appreciated problem of accuracy:
-methods developed and tested on small datasets do not always have highly accurate when applied to large-scale data. 
+methods developed and tested on small datasets are not always  highly accurate when applied to large-scale data. 
 My aim is to develop methods that can handle very large datasets, 
 while maintaining high accuracy; this sometimes requires modeling complicated biological processes, which in turns often requires large datasets. 
+
+Our research includes:
+
+* Algorithm development
+* Implementation (e.g., coding) and optimization
+* Statistics and probability
+* Data analysis
 
 
 ## Research Projects
 
-### Current projects
 
-Under construction ...
+### Phylogenetics
+Our lab specializes in reconstructing and utilizing phylogenetic trees. A phylogeny is a tree that models how various species have evolved from a common ancestor through evolutionary time. Our goal is to reconstruct these trees from sequencing data.
 
-### Past Projects
+We collaborate with international teams of biologists, computer scientists, and statisticians on large scale data-driven projects. The specific problems I  studied, motivated by these large-scale projects, were large scale phylogenomics, large scale multiple sequence alignment, and metagenomics. We developed multiple scalable and highly accurate algorithms in each of these fields. You can see the tools that implement these algorithms under the [Software](software.html) page and corresponding papers can be seen under the [Publications](publications.html) page. 
 
-My PhD lab specialized in reconstructing and utilizing phylogenetic trees. A phylogeny is a tree that models how various species have evolved from a common ancestor through evolutionary time. During my PhD, we collaborated with international teams of biologists, computer scientists, and statisticians on large scale data-driven projects. The specific problems I  studied, motivated by these large-scale projects, were large scale phylogenomics, large scale multiple sequence alignment, and metagenomics. We developed multiple scalable and highly accurate algorithms in each of these fields. You can see the tools that implement these algorithms under the [Software](software.html) page and corresponding papers can be seen under the [Publications](publications.html) page. 
-
-I briefly summarize my contributions in each area.
+I briefly summarize some of my contributions in each area.
 
 * **Phylogenomics**: phylogenomics, as I use the term, refers to phylogenetic studies that use a large number of genes sampled from across the genome. The evolutionary histories of individual genes (i.e., gene trees) can be different from each other and from relationships between species as a whole (i.e., the species tree). When such discordances are due to a prevalent biological process called Incomplete Lineage Sorting (ILS), the species tree is statistically identifiable from the distribution of gene trees. Large-scale phylogenomic studies, made possible only recently, are important not only because more data leads to more statistical power, but also because they enable us to study gene tree distributions. 
 
@@ -83,6 +88,7 @@ My PhD work has been covered in various venus.
 
 ### Highlights and invited talks
 
+* INFORMS, 2015, Philadelphia, “Reconstruction of species histories using genomic data”.
 * RECOMB, 2015, Warsaw, “Statistical binning enables an accurate coalescent-based estimation of the avian tree”.
 * IPAM, 2015, Los Angels, “Ultra-large multiple sequence alignments”.
 

@@ -5,6 +5,9 @@ title: Publications
 
 Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ&hl=en) for citation statistics (and more).
 
+0. Tarver, James E, Mario Dos Reis, **Siavash Mirarab**, Raymond J Moran, Sean Parker, Joseph E O’Reilly, Benjamin L King, Mary J O’Connell, Robert J Asher, Tandy Warnow, Kevin J Peterson, Philip C J Donoghue, and Davide Pisani. “The Interrelationships of Placental Mammals and the Limits of Phylogenetic Inference.” Genome Biology and Evolution (2016): evv261. [doi:10.1093/gbe/evv261](http://gbe.oxfordjournals.org/cgi/content/long/evv261v1).
+
+
 0. **Mirarab, Siavash**, Md. Shamsuzzoha Bayzid, Bastien Boussau, and Tandy Warnow. 2015. “Response to Comment on ‘Statistical Binning Enables an Accurate Coalescent-Based Estimation of the Avian Tree.’” Science 350, no. 6257 (2015): 171. [doi:10.1126/science.aaa7719](http://www.sciencemag.org/content/350/6257/171.2.abstract).
 
 0. Cracraft, Joel, Peter Houde, Simon Y W Ho, David P Mindell, Jon Fjeldså, Bent Lindow, Scott V Edwards, Carsten Rahbek, **Siavash Mirarab**,
