@@ -43,6 +43,10 @@ See the [MSA section](#msa) for more on this.
 Metagenomics is the study of whole communities of micro-organisms. A main challenge in metagenomics is identifying the unknown taxonomic composition of the community given millions of fragmentary sequences. We have developed [SEPP](https://github.com/smirarab/sepp), a new algorithm that combines the idea of ensembles of HMMs and existing phylogenetic tools to place fragmentary metagenomic sequences on a reference phylogeny. We have also extended SEPP to a new tool called [TIPP](https://github.com/smirarab/sepp/blob/master/README.TIPP.md) that estimates taxonomic profiles for metagenomic datasets. TIPP accounts for the uncertainty inherent in various steps of the phylogenetic placement for fragmentary data. 
 
 
+## HIV
+
+We have ongoing projects on various aspects of understanding the spread of HIV, its integration inside human genome, among other topics. These works are in collaboration with the [CFAR](http://cfar.ucsd.edu/) center at UCSD. 
+
 ## <a name="msa"></a> Multiple Sequence Alignment:
 
 Before a set of related molecular sequences can be analyzed for various purposes, they need to be first aligned so that letters with common origin (called homologous) are lined up. Many formulations of this problem, mostly NP-complete, have been studied, and accurate MSA estimation for few hundred sequences has been made doable by various heuristics. However, accurately aligning thousands to millions of sequences has remained challenging. Partly in response to the needs of the 1KP project (where some gene families have more than 100,000 sequences), we have developed two new MSA methods, [PASTA](https://github.com/smirarab/pasta) and [UPP](https://github.com/smirarab/sepp/blob/master/README.UPP.md), both of which have been able to produce highly accurate alignments for up to a million sequences. 
