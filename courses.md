@@ -5,7 +5,7 @@ title: Courses
 
 ### ECE 30:
 
-* [Winter, 2016](https://sites.google.com/a/eng.ucsd.edu/ece30wi2016/)
+* [Course webpage](https://sites.google.com/a/eng.ucsd.edu/ece-30/)
 
 ### BNFO 285:
 
