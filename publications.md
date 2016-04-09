@@ -5,6 +5,8 @@ title: Publications
 
 Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ&hl=en) for citation statistics (and more).
 
+0. Erfan Sayyari, **Siavash Mirarab**, “Fast coalescent-based computation of local branch support from quartet frequencies.” Molecular Biology and Evolution (2016): [in press](arxiv.org/abs/1601.07019).
+
 0. Tarver, James E, Mario Dos Reis, **Siavash Mirarab**, Raymond J Moran, Sean Parker, Joseph E O’Reilly, Benjamin L King, Mary J O’Connell, Robert J Asher, Tandy Warnow, Kevin J Peterson, Philip C J Donoghue, and Davide Pisani. “The Interrelationships of Placental Mammals and the Limits of Phylogenetic Inference.” Genome Biology and Evolution (2016): evv261. [doi:10.1093/gbe/evv261](http://gbe.oxfordjournals.org/cgi/content/long/evv261v1).
 
 
