@@ -37,7 +37,7 @@ Phylogenomics, as we use the term, refers to phylogenetic studies that use a lar
 
 * **[ASTRAL](https://github.com/smirarab/astral)**: a tool for estimating species trees from gene trees; ASTRAL improved both the accuracy and scalability of species tree estimation from gene trees compared to the state-of-the-art. It has been used by a [rapidly](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uxSj18QAAAAJ&citation_for_view=uxSj18QAAAAJ:Ak0FvsSvgGUC) growing [number](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uxSj18QAAAAJ&citation_for_view=uxSj18QAAAAJ:kVjdVfd2voEC) of biological studies. In 2016, we published a paper (number 32 in [Publications](publications.html)) that extended ASTRAL's features to estimation of branch support and branch length. 
 
-* **[statistical binning](https://github.com/smirarab/binning)**: improves the accuracy of gene tree estimation.
+* **[Statistical binning](https://github.com/smirarab/binning)**: improves the accuracy of gene tree estimation.
 
 *  We have been involved in two of the largest phylogenomic projects to date: the [avian phylogenomics project](http://avian.genomics.cn/en/), which sequenced genomes of 48 birds, and the [1KP](http://www.onekp.com), which sequenced the transcriptomes of 103 plants species. We first developed ASTRAL and statistical binning for analyzing the data generated in each of these two projects. 
 
