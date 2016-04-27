@@ -35,7 +35,7 @@ Phylogenomics, as we use the term, refers to phylogenetic studies that use a lar
 
 * **[NSF grant 1565862]({{ site.url }}/2016/01/27/genetrees.html)**: We will study gene tree estimation under a scenario when the true species tree is known, but discordances due to ILS are likely. 
 
-* **[ASTRAL](https://github.com/smirarab/astral)**: a tool for estimating species trees from gene trees; ASTRAL improved both the accuracy and scalability of species tree estimation from gene trees compared to the state-of-the-art. It has been used by a [rapidly](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uxSj18QAAAAJ&citation_for_view=uxSj18QAAAAJ:Ak0FvsSvgGUC) growing [number](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uxSj18QAAAAJ&citation_for_view=uxSj18QAAAAJ:kVjdVfd2voEC) of biological studies. In 2016, we published a paper (number 32 in [Publications](publications.html)) that extended ASTRAL's features to estimation of branch support and branch length. 
+* **[ASTRAL](https://github.com/smirarab/astral)**: a tool for estimating species trees from gene trees; ASTRAL improved both the accuracy and scalability of species tree estimation from gene trees compared to the state-of-the-art. It has been used by a [rapidly](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uxSj18QAAAAJ&citation_for_view=uxSj18QAAAAJ:Ak0FvsSvgGUC) growing [number](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uxSj18QAAAAJ&citation_for_view=uxSj18QAAAAJ:kVjdVfd2voEC) of biological studies. In 2016, we published a paper (number 32 in [Publications](publications.html)) that added a feature to ASTRAL for estimating branch support and branch length. 
 
 * **[Statistical binning](https://github.com/smirarab/binning)**: improves the accuracy of gene tree estimation.
 
@@ -49,7 +49,8 @@ See the [MSA section](#msa) for more on this.
 
 ### 2. Metagenomics
 
-Metagenomics is the study of whole communities of micro-organisms. A main challenge in metagenomics is identifying the unknown taxonomic composition of the community, given millions of fragmentary sequences. We have developed [SEPP](https://github.com/smirarab/sepp), a new algorithm that combines the idea of ensembles of HMMs and existing phylogenetic tools to place fragmentary metagenomic sequences on a reference phylogeny. We have also extended SEPP to a new tool called [TIPP](https://github.com/smirarab/sepp/blob/master/README.TIPP.md) that estimates taxonomic profiles for metagenomic datasets. TIPP accounts for the uncertainty inherent in various steps of the phylogenetic placement for fragmentary data. 
+Metagenomics is the study of whole communities of micro-organisms. 
+The main challenge in metagenomics is identifying the unknown taxonomic composition of the community, given millions of fragmentary sequences. We have developed [SEPP](https://github.com/smirarab/sepp), a new algorithm that combines the idea of ensembles of HMMs and existing phylogenetic tools to place fragmentary metagenomic sequences on a reference phylogeny. We have also extended SEPP to a new tool called [TIPP](https://github.com/smirarab/sepp/blob/master/README.TIPP.md) that estimates taxonomic profiles for metagenomic datasets. TIPP accounts for the uncertainty inherent in various steps of the phylogenetic placement for fragmentary data. 
 
 
 ### 3. HIV
@@ -64,7 +65,7 @@ Before a set of related molecular sequences can be analyzed for various purposes
 ## Research outcome
 
 The main outcomes of these projects are the [publications](publications.html) that describe the new algorithms and apply them to real biological datasets, in addition to [tools](software.html) that have implemented these algorithms and have been made  available for public use. 
-In addition, our work has been covered in press, and we have been presenting the work at various venues. 
+In addition, our work has been covered in the press, and we have been presenting the work at various venues. 
 
 ### Our work in press
 
