@@ -9,9 +9,11 @@ title: About
        
      
 I am an assistant professor at the [ECE](http://ece.ucsd.edu) department, [University of California, San Diego](http://ucsd.edu), where I have been a faculty member since the summer of 2015. Before that, I was a Ph.D. student advised by [Prof. Tandy Warnow](http://tandy.cs.illinois.edu) and [Prof. Keshav Pingali](http://www.cs.utexas.edu/~pingali/), working on large-scale phylogenetics. My Ph.D. research was supported by an NSERC PGS award and [Howard Hughes Medical Institute international student fellowship](http://www.hhmi.org/news/20120725.html), 
-and my [dissertation]() won the [honorable mention for the 2015 ACM Doctoral Dissertation Award](http://www.acm.org/awards/2015-doctoral-dissertation).
+and my [dissertation](https://repositories.lib.utexas.edu/bitstream/handle/2152/31377/MIRARABBAYGI-DISSERTATION-2015.pdf) won the [honorable mention for the 2015 ACM Doctoral Dissertation Award](http://www.acm.org/awards/2015-doctoral-dissertation).
 
 I work on **computational biology**, developing methods that target large-scale datasets. My specific areas of research spans many topics, in particular, estimation of species trees from gene trees (phylogenomics), large-scale multiple sequence alignment, and metagenomic analysis using phylogenetic placement. 
+
+In addition to my home department of ECE, I am also affiliated with the [CSE department](http://cse.ucsd.edu/), [Bioinformatics](http://bioinformatics.ucsd.edu/faculty_bisb), and [Center for Microbiome Innovation](http://jacobsschool.ucsd.edu/microbiome/faculty.sfe). 
 
 Here is my (hopefully up-to-date) [**CV**]({{ site.url }}/assets/resume-mirarab.pdf).
 
