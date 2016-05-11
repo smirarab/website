@@ -8,9 +8,10 @@ title: About
     
        
      
-I am an assistant professor at the [ECE](http://ece.ucsd.edu) department, [University of California, San Diego](http://ucsd.edu), where I have been a faculty member since the summer of 2015. Before that, I was a PhD student advised by [Prof. Tandy Warnow](http://tandy.cs.illinois.edu) and [Prof. Keshav Pingali](http://www.cs.utexas.edu/~pingali/), working on large-scale phylogenetics. My PhD research was supported through a NSERC PGS award and [Howard Hughes Medical Institute international student fellowship](http://www.hhmi.org/news/20120725.html).
+I am an assistant professor at the [ECE](http://ece.ucsd.edu) department, [University of California, San Diego](http://ucsd.edu), where I have been a faculty member since the summer of 2015. Before that, I was a Ph.D. student advised by [Prof. Tandy Warnow](http://tandy.cs.illinois.edu) and [Prof. Keshav Pingali](http://www.cs.utexas.edu/~pingali/), working on large-scale phylogenetics. My Ph.D. research was supported by an NSERC PGS award and [Howard Hughes Medical Institute international student fellowship](http://www.hhmi.org/news/20120725.html), 
+and my [dissertation]() won the [honorable mention for the 2015 ACM Doctoral Dissertation Award](http://www.acm.org/awards/2015-doctoral-dissertation).
 
-I work in the area of **computational biology**, more specifically large scale phylogenetics. My research spans many topics, in particular estimation of species trees from gene trees (phylogenomics), large scale multiple sequence alignment, and metagenomic analysis using phylogenetic placement. 
+I work on **computational biology**, developing methods that target large-scale datasets. My specific areas of research spans many topics, in particular, estimation of species trees from gene trees (phylogenomics), large-scale multiple sequence alignment, and metagenomic analysis using phylogenetic placement. 
 
 Here is my (hopefully up-to-date) [**CV**]({{ site.url }}/assets/resume-mirarab.pdf).
 
