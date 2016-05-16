@@ -10,7 +10,7 @@ Here is some background reading material that can help:
 give you an idea. 
 
 * This evolving [textbook](http://tandy.cs.illinois.edu/textbook-v2.pdf) from my former advisor, [Tandy Warnow](http://tandy.cs.illinois.edu/) is
-a good resource to understand phylogeetics and multiple sequence alignment, two of the main topics of my work. 
+a good resource to understand phylogenetics and multiple sequence alignment, two of the main topics of my work. 
 
 * I also recommend the following two textbooks for understanding more about computational biology and bininformatics.
     * Jones, Neil C., and Pavel Pevzner. An introduction to bioinformatics algorithms. MIT press, 2004.
