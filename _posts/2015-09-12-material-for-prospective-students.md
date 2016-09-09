@@ -9,7 +9,7 @@ Here is some background reading material that can help:
 * Read the first and second chapters from dissertation available at [UT library](https://repositories.lib.utexas.edu/bitstream/handle/2152/31377/MIRARABBAYGI-DISSERTATION-2015.pdf). Also have a quick look at the reminder of the dissertation; should
 give you an idea. 
 
-* This evolving [textbook](http://tandy.cs.illinois.edu/textbook-v2.pdf) from my former advisor, [Tandy Warnow](http://tandy.cs.illinois.edu/) is
+* This evolving [textbook](http://tandy.cs.illinois.edu/textbook.pdf) from my former advisor, [Tandy Warnow](http://tandy.cs.illinois.edu/) is
 a good resource to understand phylogenetics and multiple sequence alignment, two of the main topics of my work. 
 
 * I also recommend the following two textbooks for understanding more about computational biology and bininformatics.
