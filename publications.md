@@ -5,11 +5,11 @@ title: Publications
 
 Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ&hl=en) for citation statistics (and more).
 
-0. Sayyari, Erfan and **Siavash Mirarab**. “Anchoring quartet-based phylogenetic distances and applications to species tree reconstruction”. BMC Genomics, RECOMB-CG issue [(in press)](http://www.crm.umontreal.ca/2016/Genomics16/appel_e.php) (2016). 
+0. Sayyari, Erfan and **Siavash Mirarab**. “Anchoring quartet-based phylogenetic distances and applications to species tree reconstruction”. BMC Genomics 17, no. 10  (2016):  101–113. [doi:10.1186/s12864-016-3098-z](http://doi.org/10.1186/s12864-016-3098-z) 
 
 0. Nguyen, Nam, Michael Nute, **Siavash Mirarab** and Tandy Warnow.  “HIPPI: Highly Accurate Protein Family Classification with Ensembles of HMMs”. BMC Genomics, RECOMB-CG issue [(in press)](http://www.crm.umontreal.ca/2016/Genomics16/appel_e.php) (2016).
 
-0. Sayyari, Erfan and **Siavash Mirarab**. “Fast coalescent-based computation of local branch support from quartet frequencies”. Molecular Biology and Evolution (2016). [doi:10.1093/molbev/msw079](http://mbe.oxfordjournals.org/cgi/content/abstract/msw079?ijkey=OTHYAZPfjJsY2Ce&keytype=ref)
+0. Sayyari, Erfan and **Siavash Mirarab**. “Fast coalescent-based computation of local branch support from quartet frequencies”. Molecular Biology and Evolution 33, no. 7 (2016): 1654-1668. [doi:10.1093/molbev/msw079](http://mbe.oxfordjournals.org/cgi/content/abstract/msw079?ijkey=OTHYAZPfjJsY2Ce&keytype=ref)
 
 0. Tarver, James E, Mario Dos Reis, **Siavash Mirarab**, Raymond J Moran, Sean Parker, Joseph E O’Reilly, Benjamin L King, Mary J O’Connell, Robert J Asher, Tandy Warnow, Kevin J Peterson, Philip C J Donoghue, and Davide Pisani. “The Interrelationships of Placental Mammals and the Limits of Phylogenetic Inference.” Genome Biology and Evolution (2016): evv261. [doi:10.1093/gbe/evv261](http://gbe.oxfordjournals.org/cgi/content/long/evv261v1).
 

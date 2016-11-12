@@ -17,3 +17,8 @@ See my [gitub page](https://github.com/smirarab) to see all my publicly availabl
 
 * I also work on and contribute code to [SATé](http://phylo.bio.ku.edu/software/sate/sate.html). 
 
+Also checkout the following github pages from current students in the lab.
+
+* [Erfan](https://github.com/esayyari) and especially, [DISTIQUE](https://esayyari.github.io/DISTIQUE.html)
+* [Niema](https://github.com/niemasd/)
+
