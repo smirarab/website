@@ -5,9 +5,13 @@ title: Publications
 
 Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ&hl=en) for citation statistics (and more).
 
+0. **Mirarab, Siavash**. “Phylogenomics: Constrained Gene Tree Inference”. Nature Ecology & Evolution 1 (2017): 56. [doi:10.1038/s41559-016-0056](http://www.nature.com/articles/s41559-016-0056).
+
+0. Shekhar, Shubhanshu, Sebastien Roch, and **Siavash Mirarab**. “Species Tree Estimation Using ASTRAL: How Many Genes Are Enough?” Proceedings of International Conference on Research in Computational Molecular Biology (RECOMB), (to appear) (2017).
+
 0. Sayyari, Erfan and **Siavash Mirarab**. “Anchoring quartet-based phylogenetic distances and applications to species tree reconstruction”. BMC Genomics 17, no. 10  (2016):  101–113. [doi:10.1186/s12864-016-3098-z](http://doi.org/10.1186/s12864-016-3098-z) 
 
-0. Nguyen, Nam, Michael Nute, **Siavash Mirarab** and Tandy Warnow.  “HIPPI: Highly Accurate Protein Family Classification with Ensembles of HMMs”. BMC Genomics, RECOMB-CG issue [(in press)](http://www.crm.umontreal.ca/2016/Genomics16/appel_e.php) (2016).
+0. Nguyen, Nam, Michael Nute, **Siavash Mirarab** and Tandy Warnow.  “HIPPI: Highly Accurate Protein Family Classification with Ensembles of HMMs”. BMC Genomics 17, no. 10 (2016): 89-100. [doi:10.1186/s12864-016-3097-0](http://doi.org/10.1186/s12864-016-3097-0).
 
 0. Sayyari, Erfan and **Siavash Mirarab**. “Fast coalescent-based computation of local branch support from quartet frequencies”. Molecular Biology and Evolution 33, no. 7 (2016): 1654-1668. [doi:10.1093/molbev/msw079](http://mbe.oxfordjournals.org/cgi/content/abstract/msw079?ijkey=OTHYAZPfjJsY2Ce&keytype=ref)
 
