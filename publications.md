@@ -44,7 +44,7 @@ Tandy Warnow, M Thomas P Gilbert, Guojie Zhang, Edward L Braun, Erich D Jarvis. 
 
 0. **Mirarab, Siavash**, Shamsuzzoha Bayzid, and Tandy Warnow. “Evaluating Summary Methods for Multi-Locus Species Tree Estimation in the Presence of Incomplete Lineage Sorting.” Systematic Biology (2014): [doi: 10.1093/sysbio/syu063](http://sysbio.oxfordjournals.org/content/early/2014/10/13/sysbio.syu063).
 
-0. **Mirarab, Siavash**, Rezwana Reaz, Md. Shamsuzzoha Bayzid, Theo Zimmermann, M Shel Swenson, and Tandy Warnow. “ASTRAL: Genome-Scale Coalescent-Based Species Tree.” Bioinformatics 30, no. 17 (2014): i541–i548. [doi:10.1093/bioinformatics/btu462](http://bioinformatics.oxfordjournals.org/cgi/content/full/btu462?ijkey=U8qRWnpC7BM4Syn&keytype=ref).
+0. **Mirarab, Siavash**, Rezwana Reaz, Md. Shamsuzzoha Bayzid, Theo Zimmermann, M Shel Swenson, and Tandy Warnow. “ASTRAL: Genome-Scale Coalescent-Based Species Tree.” Bioinformatics 30, no. 17 (2014): i541–i548. [doi:10.1093/bioinformatics/btu462](https://doi.org/10.1093/bioinformatics/btu462).
 	* presented at ECCB - 2014, Strasbourg, France 
 
 0. **Mirarab, Siavash**, Nam Nguyen, and Tandy Warnow. “PASTA: Ultra-Large Multiple Sequence Alignment.” Proceedings of RECOMB (2014): 177–191. [doi:10.1007/978-3-319-05269-4_15](http://dx.doi.org/10.1007/978-3-319-05269-4_15).

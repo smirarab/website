@@ -5,6 +5,7 @@ title: Presentations
 
 ### 2017
 
+* May, 8, M3; [slides]({{ site.url }}/assets/tutorial-slides.pdf) and the [tutorial](https://github.com/smirarab/tutorials/blob/master/sepp-tipp-upp-pasta-short.md)
 * Feb, 17, Broad Institute, Boston: [pdf]({{ site.url }}/assets/sepp-tipp.pdf)
 
 ### 2016
