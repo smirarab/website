@@ -22,7 +22,7 @@ Here is my (hopefully up-to-date) [**CV**]({{ site.url }}/assets/resume-mirarab.
 
 * Prospective students are generally discouraged from contacting me directly regarding addmissions; those decisions are made by a committee in our department.  In rare circumistances, if you have done work that is very closely related to my work, you can write to me and bring that to my attention.  
 * Incoming and new students are encouraged to check out [this page]({{ site.url }}/2015/09/12/material-for-prospective-students.html) to learn about the background used in my work 
-* ECE students without sufficient programming backgrond my find [this page]({{ site.url }}/2017/03/26/programming.html) useful. 
+* ECE students without sufficient programming backgrond may find [this page]({{ site.url }}/2017/03/26/programming.html) useful. 
 
 And my calendar:
 
