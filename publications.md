@@ -5,6 +5,9 @@ title: Publications
 
 Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ&hl=en) for citation statistics (and more).
 
+0. Uyen, Mai, Erfan Sayyari, and **Siavash Mirarab**. “Minimum Variance Rooting of Phylogenetic Trees and Implications for Species Tree Reconstruction.” Great Lakes Bioinformatics. 2017. 
+   * Won the best paper award
+
 0. **Mirarab, Siavash**. “Phylogenomics: Constrained Gene Tree Inference”. Nature Ecology & Evolution 1 (2017): 56. [doi:10.1038/s41559-016-0056](http://www.nature.com/articles/s41559-016-0056).
 
 0. Shekhar, Shubhanshu, Sebastien Roch, and **Siavash Mirarab**. “Species Tree Estimation Using ASTRAL: How Many Genes Are Enough?” Proceedings of International Conference on Research in Computational Molecular Biology (RECOMB), (to appear) (2017).
