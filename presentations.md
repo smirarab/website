@@ -5,6 +5,7 @@ title: Presentations
 
 ### 2017
 
+* June, 25, Evlution: [pdf]({{ site.url }}/assets/2017-astral-evolution.pdf)
 * May, 15, GLBIO: [pdf]({{ site.url }}/assets/astral-locapp-glbio.pdf)
 * May, 11, UIUC; slides for [ECE]({{ site.url }}/assets/astral-ece.pdf) and for [PEEC]({{ site.url }}/assets/astral-bio.pdf)
 * May, 8, M3; [slides]({{ site.url }}/assets/tutorial-slides.pdf) and the [tutorial](https://github.com/smirarab/tutorials/blob/master/sepp-tipp-upp-pasta-short.md)
