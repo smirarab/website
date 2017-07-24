@@ -10,7 +10,7 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 
 0. **Mirarab, Siavash**. “Phylogenomics: Constrained Gene Tree Inference”. Nature Ecology & Evolution 1 (2017): 56. [doi:10.1038/s41559-016-0056](http://www.nature.com/articles/s41559-016-0056).
 
-0. Shekhar, Shubhanshu, Sebastien Roch, and **Siavash Mirarab**. “Species Tree Estimation Using ASTRAL: How Many Genes Are Enough?” Proceedings of International Conference on Research in Computational Molecular Biology (RECOMB), (to appear) (2017).
+0. Shekhar, Shubhanshu, Sebastien Roch, and **Siavash Mirarab**. “Species Tree Estimation Using ASTRAL: How Many Genes Are Enough?” International Conference on Research in Computational Molecular Biology (RECOMB), (to appear) (2017). [prePrint](https://arxiv.org/abs/1704.06831)
 
 0. Sayyari, Erfan and **Siavash Mirarab**. “Anchoring quartet-based phylogenetic distances and applications to species tree reconstruction”. BMC Genomics 17, no. 10  (2016):  101–113. [doi:10.1186/s12864-016-3098-z](http://doi.org/10.1186/s12864-016-3098-z) 
 

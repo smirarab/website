@@ -26,7 +26,7 @@ title: Software
         * [FAVITES](https://github.com/niemasd/FAVITES)
         * [Dual-birth](https://github.com/niemasd/Dual-Birth-Model): a set of scripts used in our draft paper that introduced a dual-birth evolutionary process
 * Finally, ASTRAL is always being improved in various ways on forked github repositories of various students:
-    * [Maryam Rabiee Hashemi](multi-individual ](https://github.com/maryamrabiee/): the latest work on the [multi-individual ](https://github.com/maryamrabiee/ASTRAL) ASTRAL 
+    * [Maryam Rabiee Hashemi](https://github.com/maryamrabiee/): the latest work on the [multi-individual ](https://github.com/maryamrabiee/ASTRAL) ASTRAL 
     * John Yin: GPU and multi-threaded ASTRAL (to be added)
     * Chao Zhang: [ASTRAL-III](https://github.com/chaoszhang/ASTRAL)
     
