@@ -5,20 +5,24 @@ title: Publications
 
 Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ&hl=en) for citation statistics (and more).
 
+### UCSD
 
+{:start="39"}
 0. Zhang, Chao, Erfan Sayyari, and **Siavash Mirarab**.  “ASTRAL-III: increased scalability and impacts of contracting low support branches”. accepted to the proceedings of RECOMB-CG. 2017
 0. Uyen, Mai, and **Siavash Mirarab**.  “TreeShrink: efficient detection of outlier tree leaves”. accepted to the proceedings of RECOMB-CG. 2017
-0. Uyen, Mai, Erfan Sayyari, and **Siavash Mirarab**. “Minimum Variance Rooting of Phylogenetic Trees and Implications for Species Tree Reconstruction.” PLOS ONE. in press. 2017. 
 0. Mai, Uyen, Erfan Sayyari, and **Siavash Mirarab**. “Minimum Variance Rooting of Phylogenetic Trees and Implications for Species Tree Reconstruction.” Edited by Gabriel Moreno-Hagelsieb. PLOS ONE 12, no. 8 (2017): e0182238. [doi:10.1371/journal.pone.0182238](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182238).
-   * Presented at GLBIO 2017, where it won the best paper award
+   * **Best paper award** at GLBIO 2017.
 0. **Mirarab, Siavash**. “Phylogenomics: Constrained Gene Tree Inference”. Nature Ecology & Evolution 1 (2017): 56. [doi:10.1038/s41559-016-0056](http://www.nature.com/articles/s41559-016-0056).
 0. Shekhar, Shubhanshu, Sebastien Roch, and **Siavash Mirarab**. “Species Tree Estimation Using ASTRAL: How Many Genes Are Enough?” Proceedings of International Conference on Research in Computational Molecular Biology (RECOMB), (2017).
    * Journal version under review and available on [arxiv](https://arxiv.org/abs/1704.06831)
 0. Sayyari, Erfan and **Siavash Mirarab**. “Anchoring quartet-based phylogenetic distances and applications to species tree reconstruction”. BMC Genomics 17, no. 10  (2016):  101–113. [doi:10.1186/s12864-016-3098-z](http://doi.org/10.1186/s12864-016-3098-z) 
-0. Nguyen, Nam, Michael Nute, **Siavash Mirarab** and Tandy Warnow.  “HIPPI: Highly Accurate Protein Family Classification with Ensembles of HMMs”. BMC Genomics 17, no. 10 (2016): 89-100. [doi:10.1186/s12864-016-3097-0](http://doi.org/10.1186/s12864-016-3097-0).
 0. Sayyari, Erfan and **Siavash Mirarab**. “Fast coalescent-based computation of local branch support from quartet frequencies”. Molecular Biology and Evolution 33, no. 7 (2016): 1654-1668. [doi:10.1093/molbev/msw079](http://mbe.oxfordjournals.org/cgi/content/abstract/msw079?ijkey=OTHYAZPfjJsY2Ce&keytype=ref)
+{: reversed="reversed"}
 
-## PhD work
+### PhD work
+
+{:start="32"}
+0. Nguyen, Nam, Michael Nute, **Siavash Mirarab** and Tandy Warnow.  “HIPPI: Highly Accurate Protein Family Classification with Ensembles of HMMs”. BMC Genomics 17, no. 10 (2016): 89-100. [doi:10.1186/s12864-016-3097-0](http://doi.org/10.1186/s12864-016-3097-0).
 0. Tarver, James E, Mario Dos Reis, **Siavash Mirarab**, Raymond J Moran, Sean Parker, Joseph E O’Reilly, Benjamin L King, Mary J O’Connell, Robert J Asher, Tandy Warnow, Kevin J Peterson, Philip C J Donoghue, and Davide Pisani. “The Interrelationships of Placental Mammals and the Limits of Phylogenetic Inference.” Genome Biology and Evolution (2016): evv261. [doi:10.1093/gbe/evv261](http://gbe.oxfordjournals.org/cgi/content/long/evv261v1).
 
 0. **Mirarab, Siavash**, Md. Shamsuzzoha Bayzid, Bastien Boussau, and Tandy Warnow. 2015. “Response to Comment on ‘Statistical Binning Enables an Accurate Coalescent-Based Estimation of the Avian Tree.’” Science 350, no. 6257 (2015): 171. [doi:10.1126/science.aaa7719](http://www.sciencemag.org/content/350/6257/171.2.abstract).
@@ -65,9 +69,12 @@ Tandy Warnow, M Thomas P Gilbert, Guojie Zhang, Edward L Braun, Erich D Jarvis. 
 
 0. Nguyen, Nam, **Siavash Mirarab**, and Tandy Warnow. “MRL and SuperFine+ MRL: New Supertree Methods.” Algorithms for Molecular Biology 7, no. 1 (2012): 3. [doi:10.1186/1748-7188-7-3](http://www.almob.org/content/7/1/3/abstract).
 
-0. **Mirarab, Siavash**, Soroush Akhlaghi, and Ladan Tahvildari. “Size-Constrained Regression Test Case Selection Using Multicriteria Optimization.” Software Engineering, IEEE Transactions on 38, no. 4 (2012): 936–956.
-
 0. **Mirarab, Siavash**, and Tandy Warnow. “FastSP: Linear Time Calculation of Alignment Accuracy.” Bioinformatics 27 (2011): 3250–8. [doi:10.1093/bioinformatics/btr553](http://bioinformatics.oxfordjournals.org/content/27/23/3250.long).
+{:start="32"}
+{: reversed="reversed"}
+
+### MS work
+0. **Mirarab, Siavash**, Soroush Akhlaghi, and Ladan Tahvildari. “Size-Constrained Regression Test Case Selection Using Multicriteria Optimization.” Software Engineering, IEEE Transactions on 38, no. 4 (2012): 936–956.
 
 0. Do, Hyunsook, **Siavash Mirarab**, Ladan Tahvildari, and Gregg Rothermel. “The Effects of Time Constraints on Test Case Prioritization: A Series of Controlled Experiments.” Software Engineering, IEEE Transactions on 36, no. 5 (2010): 593–617.
 
@@ -85,4 +92,5 @@ ash Mirarab**, and Ladan Tahvildari. “Adaptive Action Selection in Autonomic S
 0. **Mirarab, Siavash**, and Ladan Tahvildari. “A Prioritization Approach for Software Test Cases Based on Bayesian Networks.” In Fundamental Approaches to Software Engineering, 276–290. Springer Berlin Heidelberg, 2007.
 
 0. Amoui, Mehdi, **Siavash Mirarab**, Sepand Ansari, and Caro Lucas. “A Genetic Algorithm Approach to Design Evolution Using Design Pattern Transformation.” International Journal of Information Technology and Intelligent Computing 1, no. 2 (2006): 235–244.
+{:start="9"}
 {: reversed="reversed"}
