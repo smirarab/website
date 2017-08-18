@@ -9,6 +9,7 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 0. Zhang, Chao, Erfan Sayyari, and **Siavash Mirarab**.  “ASTRAL-III: increased scalability and impacts of contracting low support branches”. accepted to the proceedings of RECOMB-CG. 2017
 0. Uyen, Mai, and **Siavash Mirarab**.  “TreeShrink: efficient detection of outlier tree leaves”. accepted to the proceedings of RECOMB-CG. 2017
 0. Uyen, Mai, Erfan Sayyari, and **Siavash Mirarab**. “Minimum Variance Rooting of Phylogenetic Trees and Implications for Species Tree Reconstruction.” PLOS ONE. in press. 2017. 
+0. Mai, Uyen, Erfan Sayyari, and **Siavash Mirarab**. “Minimum Variance Rooting of Phylogenetic Trees and Implications for Species Tree Reconstruction.” Edited by Gabriel Moreno-Hagelsieb. PLOS ONE 12, no. 8 (2017): e0182238. [doi:10.1371/journal.pone.0182238](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182238).
    * Presented at GLBIO 2017, where it won the best paper award
 0. **Mirarab, Siavash**. “Phylogenomics: Constrained Gene Tree Inference”. Nature Ecology & Evolution 1 (2017): 56. [doi:10.1038/s41559-016-0056](http://www.nature.com/articles/s41559-016-0056).
 0. Shekhar, Shubhanshu, Sebastien Roch, and **Siavash Mirarab**. “Species Tree Estimation Using ASTRAL: How Many Genes Are Enough?” Proceedings of International Conference on Research in Computational Molecular Biology (RECOMB), (2017).
