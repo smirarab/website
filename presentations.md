@@ -5,6 +5,8 @@ title: Presentations
 
 ### 2017
 
+
+* Oct, 6, RECOMB-CG: ASTRAL-3 [pdf]({{ site.url }}/assets/2017-astral3.pdf)
 * Oct, 5, RECOMB-CG: TreeShrink [pdf]({{ site.url }}/assets/2017-treeshrink.pdf)
 * August, 22, Copenhagen: ASTRAL+Fragmentary+DiscoVista [pdf]({{ site.url }}/assets/2017-copen-astral.pdf)
 * June, 25, Evolution: [pdf]({{ site.url }}/assets/2017-astral-evolution.pdf)

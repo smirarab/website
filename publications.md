@@ -8,12 +8,14 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 ### UCSD
 
 {:start="39"}
-0. Zhang, Chao, Erfan Sayyari, and **Siavash Mirarab**.  “ASTRAL-III: increased scalability and impacts of contracting low support branches”. accepted to the proceedings of RECOMB-CG. 2017
-0. Uyen, Mai, and **Siavash Mirarab**.  “TreeShrink: efficient detection of outlier tree leaves”. accepted to the proceedings of RECOMB-CG. 2017
+0. Sayyari, Erfan, James B Whitfield, and **Siavash Mirarab**. “Fragmentary gene sequences negatively impact gene tree and species tree reconstruction”. Molecular Biology and Evolution (early access) (2017) msx261. [doi:10.1093/molbev/msx261](http://dx.doi.org/10.1093/molbev/msx261)
+0. Mai, Uyen, and **Siavash Mirarab**. “TreeShrink: Efficient Detection of Outlier Tree Leaves.” In RECOMB-CG 2017, Proceedings, 116–40. 2017. [doi:10.1007/978-3-319-67979-2_7](https://link.springer.com/chapter/10.1007/978-3-319-67979-2_7).
+0. Zhang, Chao, Erfan Sayyari, and **Siavash Mirarab**. “ASTRAL-III: Increased Scalability and Impacts of Contracting Low Support Branches.” In RECOMB-CG 2017, Proceedings, 53–75. 2017. [doi:10.1007/978-3-319-67979-2_4](https://link.springer.com/chapter/10.1007/978-3-319-67979-2_4).
 0. Mai, Uyen, Erfan Sayyari, and **Siavash Mirarab**. “Minimum Variance Rooting of Phylogenetic Trees and Implications for Species Tree Reconstruction.” PLOS ONE 12, no. 8 (2017): e0182238. [doi:10.1371/journal.pone.0182238](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182238).
    * **Best paper award** at GLBIO 2017.
 0. **Mirarab, Siavash**. “Phylogenomics: Constrained Gene Tree Inference”. Nature Ecology & Evolution 1 (2017): 56. [doi:10.1038/s41559-016-0056](http://www.nature.com/articles/s41559-016-0056).
-0. Shekhar, Shubhanshu, Sebastien Roch, and **Siavash Mirarab**. “Species Tree Estimation Using ASTRAL: How Many Genes Are Enough?”  IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB), in press.  [arxiv](https://arxiv.org/abs/1704.06831)
+0. Shekhar, Shubhanshu, Sebastien Roch, and **Siavash Mirarab**. “Species Tree Estimation Using ASTRAL: How Many Genes Are Enough?”  IEEE/ACM Transactions on Computational Biology and Bioinformatics (2017). early access. [10.1109/TCBB.2017.2757930](http://ieeexplore.ieee.org/document/8053780/)  [arxiv](https://arxiv.org/abs/1704.06831)
+   * An earlier version was presented at RECOMB-2017.
 0. Sayyari, Erfan and **Siavash Mirarab**. “Anchoring quartet-based phylogenetic distances and applications to species tree reconstruction”. BMC Genomics 17, no. 10  (2016):  101–113. [doi:10.1186/s12864-016-3098-z](http://doi.org/10.1186/s12864-016-3098-z) 
 0. Sayyari, Erfan and **Siavash Mirarab**. “Fast coalescent-based computation of local branch support from quartet frequencies”. Molecular Biology and Evolution 33, no. 7 (2016): 1654-1668. [doi:10.1093/molbev/msw079](http://mbe.oxfordjournals.org/cgi/content/abstract/msw079?ijkey=OTHYAZPfjJsY2Ce&keytype=ref)
 {: reversed="reversed"}
