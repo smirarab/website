@@ -19,15 +19,18 @@
 
 \nocite{insects,Thompson2017,Mai2017,astral3,MVroot,Shekhar2017,Mirarab2017,distique,localpp,hippi,pisani-mam,bin-resp,Cracraft2015,astral-hgt,Chou2015,astral2,upp,wsb,Jarvis2015,avian, binning,Matasci2014,1kp-pilot,mrl-sysbio,pasta-jcb,pasta,astral,tipp, bbca,Stoltzfus2013,Bayzid2013b,mrl,sepp,Mirarab2012a,fastsp,Do2010,Mirarab2008a,Mirarab2008,Do2008,Amoui2008,Mirarab2007a,Mirarab2007,Amoui2006}
     
+    
+\renewcommand*{\thefootnote}{\fnsymbol{footnote}}
+    
 \def\FormatName#1{%
   \def\myname{Siavash Mirarab}
-  \def\mynamee{Siavash Mirarab)*}%
+  \def\mynamee{Siavash Mirarab*}%
   \edef\name{#1}%
   \ifx\name\myname
     \textbf{#1}%
   \else
     \ifx\name\mynamee
-       \textbf{Siavash Mirarab})*%
+       \textbf{Siavash Mirarab}\footnote{co-first author}%
     \else
       #1%and
     \fi
