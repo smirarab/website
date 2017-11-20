@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Software
+title: Software/Datasets
 ---
+
+## Software
 
 * See my [gitub page](https://github.com/smirarab) to see all my publicly available software programs.
   Many of these are from my days as a graduate student advised by [Tandy Warnow](http://tandy.cs.illinois.edu) 
@@ -25,11 +27,8 @@ title: Software
     * [Niema](https://github.com/niemasd/)
         * [FAVITES](https://github.com/niemasd/FAVITES)
         * [Dual-birth](https://github.com/niemasd/Dual-Birth-Model): a set of scripts used in our draft paper that introduced a dual-birth evolutionary process
-* Finally, ASTRAL is always being improved in various ways on forked github repositories of various students:
-    * [Maryam Rabiee Hashemi](https://github.com/maryamrabiee/): the latest work on the [multi-individual ](https://github.com/maryamrabiee/ASTRAL) ASTRAL 
-    * John Yin: GPU and multi-threaded ASTRAL (to be added)
-    * Chao Zhang: [ASTRAL-III](https://github.com/chaoszhang/ASTRAL)
     
-    
-    
-    
+
+## Datasets
+
+Refer to [this site](https://sites.google.com/eng.ucsd.edu/datasets/home) for most of the datasets we have published through years.     

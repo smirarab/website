@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Members
+title: Students
 ---
 
 ### PhD Students

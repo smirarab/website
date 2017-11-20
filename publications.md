@@ -7,7 +7,7 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 
 ### UCSD
 
-{:start="39"}
+{:start="42"}
 0. Moshiri, Niema, and **Siavash Mirarab**. “A Two-State Model of Tree Evolution and Its Applications to Alu Retrotransposition.” Systematic Biology (2017) syx088. [doi:10.1093/sysbio/syx088](https://doi.org/10.1093/sysbio/syx088).
 0. Luke R. Thompson, Jon G. Sanders, Daniel McDonald, Amnon Amir, Joshua Ladau, Kenneth J. Locey, Robert J. Prill, Anupriya Tripathi, Sean M. Gibbons, Gail Ackermann, Jose A. Navas-Molina, Stefan Janssen, Evguenia Kopylova, Yoshiki Vázquez-Baeza, Antonio González, James T. Morton, **Siavash Mirarab**, Zhenjiang Zech Xu, Lingjing Jiang, Mohamed F. Haroon, Jad Kanbar, Qiyun Zhu, Se Jin Song, Tomasz Kosciolek, Nicholas A. Bokulich, Joshua Lefler, Colin J. Brislawn, Gregory Humphrey, Sarah M. Owens, Jarrad Hampton-Marcell, Donna Berg-Lyons, Valerie McKenzie, Noah Fierer, Jed A. Fuhrman, Aaron Clauset, Rick L. Stevens, Ashley Shade, Katherine S. Pollard, Kelly D. Goodwin, Janet K. Jansson, Jack A. Gilbert, Rob Knight & The Earth Microbiome Project Consortium. “A communal catalogue reveals Earth’s multiscale microbial diversity”. Nature (2017). [doi:10.1038/nature24621](http://www.nature.com/doifinder/10.1038/nature24621)
 0. Sayyari, Erfan, James B Whitfield, and **Siavash Mirarab**. “Fragmentary gene sequences negatively impact gene tree and species tree reconstruction”. Molecular Biology and Evolution (early access) (2017) msx261. [doi:10.1093/molbev/msx261](http://dx.doi.org/10.1093/molbev/msx261)
