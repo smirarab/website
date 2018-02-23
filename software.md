@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software/Datasets
+title: Tools/Data
 ---
 
 ## Software
