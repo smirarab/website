@@ -7,11 +7,13 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 
 ### UCSD
 
-{:start="49"}
+{:start="50"}
 0. Janssen, Stefan, Daniel McDonald, Antonio Gonzalez, Jose A Navas-Molina, Lingjing Jiang, Zhenjiang Zech Xu, Kevin Winker, Deborah M Kado, Eric Orwoll, Mark Manary, **Siavash Mirarab**, Knight, Rob. “Phylogenetic Placement of Exact Amplicon Sequences Improves Associations with Clinical Information.” mSystems, 3 no. 3 (2018). [doi:10.1128/mSystems.00021-18](http://msystems.asm.org/content/3/3/e00021-18.abstract).
-0. Zhang, Chao, Maryam Rabiee, Erfan Sayyari, and **Siavash Mirarab**. “ASTRAL-III: Polynomial Time Species Tree Reconstruction from Partially Resolved Gene Trees.” BMC Bioinformatics (2018): in press.
-0. Mai, Uyen, and **Siavash Mirarab**. “TreeShrink: fast and accurate detection of outlier long branches in collections of phylogenetic trees.” BMC Genomics (2018): in press. 
+0. Zhang, Chao, Maryam Rabiee, Erfan Sayyari, and **Siavash Mirarab**. “ASTRAL-III: Polynomial Time Species Tree Reconstruction from Partially Resolved Gene Trees.” BMC Bioinformatics 19, no. S6 (2018): 153. [doi:10.1186/s12859-018-2129-y](https://doi.org/10.1186/s12859-018-2129-y).
+0. Mai, Uyen, and **Siavash Mirarab**. “TreeShrink: Fast and Accurate Detection of Outlier Long Branches in Collections of Phylogenetic Trees.” BMC Genomics 19, no. S5 (2018): 272. [doi:10.1186/s12864-018-4620-2](https://doi.org/10.1186/s12864-018-4620-2).
 0. Sayyari, Erfan, and **Siavash Mirarab**. “Testing for Polytomies in Phylogenetic Species Trees Using Quartet Frequencies.” Genes 9, no. 3 (2018): 132. [doi:10.3390/genes9030132](http://www.mdpi.com/2073-4425/9/3/132).
+0. 
+Eiserhardt, Wolf L., Alexandre Antonelli, Dominic J. Bennett, Laura R. Botigué, J. Gordon Burleigh, Steven Dodsworth, Brian J. Enquist, et al. “A Roadmap for Global Synthesis of the Plant Tree of Life.” American Journal of Botany 105, no. 3 (2018): 614–22. [doi:10.1002/ajb2.1041](https://doi.org/10.1002/ajb2.1041).
 0. Sayyari, Erfan, James B. Whitfield, and **Siavash Mirarab**. “DiscoVista: Interpretable Visualizations of Gene Tree Discordance.” Molecular Phylogenetics and Evolution 122 (2018): 110–15. [doi:10.1016/j.ympev.2018.01.019](https://doi.org/10.1016/j.ympev.2018.01.019).
 0. Sarmashghi, Shahab, Kristine Bohmann, M. Thomas P. Gilbert, Vineet Bafna, and **Siavash Mirarab**. “Assembly-Free and Alignment-Free Sample Identification Using Genome Skims.” accepted for RECOMB (2018). available at bioRxiv. [doi:10.1101/230409](https://doi.org/10.1101/230409).
 0. Akbari, Ali, Joseph J Vitti, Arya Iranmehr, Mehrdad Bakhtiari, Pardis C Sabeti, **Siavash Mirarab**, and Vineet Bafna. “Identifying the Favored Mutation in a Positive Selective Sweep.” Nature Methods 15, no 4 (2018): 279-282. [doi:10.1038/nmeth.4606](https://www.nature.com/articles/nmeth.4606).
