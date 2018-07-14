@@ -2,6 +2,10 @@
 layout: page
 title: Presentations
 ---
+### 2018
+
+* August, 17, [Evoluiton meetings](http://tandy.cs.illinois.edu/PhyloSynth-Symp2018.html). To be uploaded.
+* July 6, [ISMB](https://www.iscb.org/ismb2018-program/ismb2018-tutorials#am4) [pdf]({{ site.url }}/assets/2018-Lecture_Siavash_phylogenomics)
 
 ### 2017
 
