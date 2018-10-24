@@ -7,7 +7,8 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 
 ### UCSD
 
-{:start="51"}
+{:start="52"}
+0. Rabiee, Maryam, Erfan Sayyari, and **Siavash Mirarab**. “Multi-Allele Species Reconstruction Using ASTRAL.” MPE, in press, (2018): [bioRxiv: 439489](https://doi.org/10.1101/439489).
 0. McDonald, Daniel, Embriette Hyde, Justine W. Debelius, James T. Morton, Antonio Gonzalez, Gail Ackermann, Alexander A. Aksenov, et al. “American Gut: An Open Platform for Citizen Science Microbiome Research.” mSystems, 3, no. 3 (2018). [doi.org/10.1128/mSystems.00031-18](https://doi.org/10.1128/mSystems.00031-18).
 0. Janssen, Stefan, Daniel McDonald, Antonio Gonzalez, Jose A Navas-Molina, Lingjing Jiang, Zhenjiang Zech Xu, Kevin Winker, Deborah M Kado, Eric Orwoll, Mark Manary, **Siavash Mirarab**, Knight, Rob. “Phylogenetic Placement of Exact Amplicon Sequences Improves Associations with Clinical Information.” mSystems, 3 no. 3 (2018). [doi:10.1128/mSystems.00021-18](http://msystems.asm.org/content/3/3/e00021-18.abstract).
 0. Zhang, Chao, Maryam Rabiee, Erfan Sayyari, and **Siavash Mirarab**. “ASTRAL-III: Polynomial Time Species Tree Reconstruction from Partially Resolved Gene Trees.” BMC Bioinformatics 19, no. S6 (2018): 153. [doi:10.1186/s12859-018-2129-y](https://doi.org/10.1186/s12859-018-2129-y).
