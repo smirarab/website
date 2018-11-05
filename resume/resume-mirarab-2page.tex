@@ -1,0 +1,276 @@
+%______________________________________________________________________________________________________________________
+% @brief    LaTeX2e Resume for Siavash Mirarab
+\documentclass[margin,line,letterpaper]{resume}
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage{lipsum}
+
+\makeatletter
+\renewenvironment{thebibliography}[1]
+     {\list{\@biblabel{\@arabic\c@enumiv}}%
+           {\settowidth\labelwidth{\@biblabel{#1}}%
+            \leftmargin\labelwidth
+            \advance\leftmargin\labelsep
+            \@openbib@code
+            \usecounter{enumiv}%
+            \let\p@enumiv\@empty
+            \renewcommand\theenumiv{\@arabic\c@enumiv}}%
+      \sloppy
+      \clubpenalty4000
+      \@clubpenalty \clubpenalty
+      \widowpenalty4000%
+      \sfcode`\.\@m}
+     {\def\@noitemerr
+       {\@latex@warning{Empty `thebibliography' environment}}%
+      \endlist}
+\makeatother
+
+\makeatletter
+\renewcommand\@biblabel[1]{#1.}
+\makeatother
+
+
+
+\let\OLDthebibliography\thebibliography
+\renewcommand\thebibliography[1]{
+  \OLDthebibliography{#1}
+  \setlength{\parskip}{2pt}
+  \setlength{\itemsep}{2pt plus 0.3ex}
+}
+
+%_______________________________________________________________________________________
+\begin{document}
+\name{\Large Siavash Mirarab}
+\begin{resume}
+
+\begin{small}
+    %_______________________________________________________________________________________    % Contact Information
+%TODO: update address
+    \section{\mysidestyle Contact\\Information}
+    ~Department of Electrical and Computer Engineering 				\hfill phone: 858 822 6245   \vspace{0mm}\\\vspace{0mm} 
+    \vspace{0mm} UC San Diego   \hfill  e-mail: \url{smirarab@ucsd.edu}   \vspace{0mm}\\\vspace{0mm}
+   9500 Gilman Drive, Mail code 0407  \hfill  \url{http://eceweb.ucsd.edu/~smirarab/}\vspace{0mm}\\\vspace{-4.5mm}%
+   ~La Jolla, CA 92093-0407   	\hfill google scholar: \url{http://goo.gl/gEswQ5} \vspace{0mm}\\\vspace{-4.5mm}
+   
+      
+%__________________________________________________________________________________________________________________
+    % Research Interests
+    \section{\mysidestyle Academic\\Positions}
+
+    \textbf{UC San Diego}, San Diego, CA, United States\\
+    Department of Electrical and Computer Engineering\vspace{0mm}\\\vspace{0mm}%
+    \textsl{Assistant Professor} \hfill \textbf{ July 2015 -- present}\vspace{-3mm}\\\vspace{-5mm}%          
+%__________________________________________________________________________________________________________________
+    % Education
+    \section{\mysidestyle Education}
+    \textsl{Ph.D}  \hfill \textbf{ Jan. 2011 -- July 2015}\\
+    \textbf{University of Texas at Austin}, Austin, Texas, Department of Computer Science\\
+    %\vspace{-1mm}%
+%    \begin{list2}
+% %       \item GPA: 3.97
+%        \item Advisors:  Prof. Tandy Warnow, Prof. Keshav Pingali
+%        \item Novel scalable approaches for multiple sequence
+%alignment and phylogenetic reconstruction
+%        %\item Research topics: large scale phylogenetics, metagenomics.
+%    \end{list2}
+%\vspace{-1.5mm}
+%    
+    \textsl{Master of Science} \hfill \textbf{ Sept. 2006 -- Sept. 2008}\\\vspace{0mm}%
+    \textbf{University of Waterloo}, Waterloo
+    Department of Electrical and Computer Engineering\\%
+%    \begin{list2}
+% %       \item GPA: 91.6/100
+%        \item Advisors:  Prof. Ladan Tahvildari
+%        \item Thesis: A Bayesian Framework for Software Regression Testing
+%    \end{list2}
+\textsl{Bachelor of Science} \hfill \textbf{ Sept. 2001 -- Dec. 2005}\\
+   \textbf{University of Tehran}, Tehran, Iran
+    Department of Electrical and Computer Engineering
+\vspace{-1mm}
+%    \begin{list2}
+%%        \item GPA: 79/100
+%        \item Computer engineering, specialized in software engineering.
+%        %\item Autonomous rescue agents: participation in 2003 Robocup simulation league.
+%    \end{list2}
+
+%    %__________________________________________________________________________________________________________________
+%    % Test Score
+%    \section{\mysidestyle GRE Scores}
+%	Verbal: 640 (92\%); Quantitative: 800 (94\%); Analytical Writing: 4 (41\%).
+
+    %__________________________________________________________________________________________________________________
+     %Honours and Awards
+    \section{\mysidestyle Major \\Awards}
+%TODO: add hackaton    
+    %\begin{itemize}
+    Alfred P. Sloan Research Fellow.\hfill \textbf{ 2017}\\
+    Honorable Mention for the 2015 ACM Doctoral Dissertation Award.\hfill \textbf{ 2016}\\
+     Howard Hughes Medical Institute International Student Fellowship. \hfill \textbf{2012 - 2015}
+     \\ National Science and Engineering Research Council of Canada (NSERC), 
+     %Alexander Graham Bell 
+     Canada Graduate Scholarship (CGS-D) converted to PGS-D outside Canada. \hfill \textbf{2011- 2012} 
+     
+%     \section {\mysidestyle Other \\Awards}
+%     University of Texas at Austin, Computer Science, Bert Kay Dissertation Award, 2015\vspace{2mm}\\
+%     University of Texas at Austin, College of Natural Sci., Dean's Excellence Award, 2011\vspace{2mm}\\
+%     University of Texas at Austin, Graduate Dean's Prestigious Fellowship Supplement Award, 2011, 2012, 2013, 2014 \vspace{2mm}
+%          \\ University of Texas at Austin, MCD fellowship (I declined to take CGS instead)
+%%     Travel awards from International Society for Computational Biology (ISCB) for ECCB, ISMB (2014, 2015),
+%%     National Science Foundation (NSF) for RECOMB (2014), 
+%%     National Library of Medicine/National Institutes of Health for PSB (2011, 2102),
+%%     Institute for Pure and Applied Mathematics (IPAM) for Mathematical and Computational Approaches in High-Throughput Genomic (2011),
+%%     and University of Texas at Austin, Dept. of Computer Science, for conference presentations (2011, 2012, 2013, 2014)
+%    
+%%\end{itemize}
+%    
+    
+    %__________________________________________________________________________________________________________________
+    % Research Interests
+    \section{\mysidestyle Research\\Funding}
+      NSF-1815485 :  ``III: SMALL: New algorithms for genome skimming ...''
+ \hfill \$500k ~
+ \hfill 2018-2021\\
+ NSF-1565862:  ``CRII: III: Using genomic context to understand ...''
+ \hfill  \$170k ~
+ \hfill 2016-2019\\
+ UAB, NIH subaward:  ``Accuracy of HIV transmission network ...''
+ \hfill  \$439K ~
+ \hfill 2016-2018\\
+ Sloan foundation fellowship and other gifts and grants. 
+ \hfill  ~ \hfill \hfill ~  \hfill $\approx$\$150K  \hfill  ~2016--2020
+ 
+ \section{\mysidestyle Software\\(Publicly\\available)}
+\textbf{ASTRAL} (\url{https://github.com/smirarab/ASTRAL}):
+Phylogenomic species trees\vspace{1mm}\\
+\textbf{PASTA} (\url{https://github.com/smirarab/pasta}): 
+Multiple sequence alignment (MSA)\vspace{1mm}\\
+\textbf{SEPP,TIPP,UPP} (\url{https://github.com/smirarab/sepp}):
+MSA of ultra-large datasts, phylogenetic placement, and taxonomic identification of metagenomic reads
+%\textbf{TIPP} (\url{https://github.com/smirarab/sepp/blob/master/README.TIPP.md})\\
+%Taxonomic profiling of metagenomic samples using phylogenetic placement\vspace{2mm}\\
+%\textbf{UPP} (\url{https://github.com/smirarab/sepp/blob/master/README.UPP.md})\\
+%Multiple sequences alignment using families of HMMs for ultra-large datasets\vspace{2mm}\\
+%\textbf{FastSP} (\url{https://github.com/smirarab/FastSP}): Comparison of  ultra-large MSAs
+
+See \url{https://github.com/smirarab/?tab=repositories} for more. 
+ 
+   \section{\mysidestyle Professional Services}
+    %TODO: add summer schools. 
+    Program Committee: ISMB, ECCB, RECOMB-CG  \hfill \textbf{2015, 2017, 2018}\vspace{1mm}\\
+    Paper Review:  Nature Ecology and Evolution, GigaScience, Journal of ACM, IEEE Transaction on Computational Biology and Bioinformatics, Theoretical Population Genetics, Bioinformatics, BMC Bioinformatics, Journal of ACM, ISMB, RECOMB-CG, TSE   \hfill \textbf{2007-2016}. %\vspace{1mm}
+
+%__________________________________________________________________________________________________________________
+    % Publications
+    \renewcommand*{\thefootnote}{\fnsymbol{footnote}}
+    \section{\mysidestyle Publications}
+
+\newcommand\blfootnote[1]{%
+  \begingroup
+  \renewcommand\thefootnote{}\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \endgroup
+}
+    
+
+\begin{footnotesize}
+\vspace{-10pt}
+\begin{spacing}{-1.4}
+\input{publications-small.bbl}
+\end{spacing}
+\blfootnote{* co-first authorship}
+\end{footnotesize}
+
+%    %__________________________________________________________________________________________________________________
+%    % Professional Experience
+%    \section{\mysidestyle Professional\\Experience}
+%
+%    \textbf{International Business Machines (IBM)}, Vancouver, British Columbia, Canada
+%  %  Global Business Services (GBS) - Pacific Development Center (PDC)
+%\vspace{2mm}\\\vspace{1mm}%
+%    \textsl{IT Specialist} \hfill \textbf{Sept. 2008 -- Dec. 2010}\\
+%    Worked on a software platform for implementing implantable wireless pace-maker devices for a large US-based biomedical company. 
+%%     Enterprise web application development using J2EE for health-care industry.                 \vspace{1mm}\\
+%%     Enterprise integration development using IBM WebSphere MQ and Massage Broker.               \vspace{1mm}\\
+%%     Database development in Oracle.
+%
+%%    \textbf{Research In Motion (RIM)}, Waterloo, Ontario, Canada \vspace{2mm}\\\vspace{1mm}%
+%%    \textsl{Research Associate (part-time)} \hfill \textbf{Sept. 2007 -- Sept. 2008}  
+%%    Joint research project between RIM and University of Waterloo on methods of improving the testing process. \vspace{1mm}\\
+%%     Developed a probabilistic model for prioritizing regression test cases based on statistical information and requirement coverage data.
+%
+%%    \textbf{Cisco Systems, ISBU}, San Jose, California, US \vspace{2mm}\\\vspace{1mm}%
+%%    \textsl{College Intern as Software Engineer} \hfill \textbf{May 2007 -- Sept. 2007}
+%%     Research on challenges of introducing service provider features in L2 switching devices.\vspace{1mm}\\
+%%     Learned Cisco�s platform, including IOS, and developed a new feature for Spanning Tree Protocol in order to improve its functionality for provider networks.
+%
+%
+%%    \textbf{Persian Java}, Tehran, Iran \vspace{2mm}\\\vspace{1mm}%
+%%    \textsl{Software Engineer (part-time)} \hfill \textbf{Jan. 2005 -- June 2005}
+%%     Requirement analysis and design using Rational Rose and UML.                \vspace{1mm}\\
+%%     Software architecture, focusing chiefly on Service Oriented Architecture
+%%     (SOA), integration with legacy systems, and work-flow engines.      
+%%     \vspace{1mm}\\ Built a web framework for rapid development of
+%%     workflow-backed JSP pages through a Struts-based control layer.
+%
+%%    \textbf{Aviensystem}, Tehran, Iran \vspace{2mm}\\\vspace{1mm}%
+%%    \textsl{Software Engineer (part-time)} \hfill \textbf{July 2003 -- June 2005}       \\
+%%     Application development using Java, C\#, and PL/SQL, and J2EE web development.        \\
+%%     Built a framework for rapid application development in Java, following MVC paradigm, providing means of easily binding GUI (Swing) components to various data sources.                     \vspace{1mm}\\
+%%     R\&D: studying business rule engines, S.O.A, Aspect-Oriented Programming,
+%%     and BPEL; prototyping these technologies for the management.
+%
+%%    \textbf{Kish Khodro}, Tehran, Iran \vspace{2mm}\\\vspace{1mm}%
+%%    \textsl{Software Development (project contract)} \hfill \textbf{Sept. 2001 -- June 2003}\\
+%%    Full development and maintenance of a total system for supply chain management.
+%
+%%_______________________________________________________________________________________    %  Teaching Experience
+%    \section{\mysidestyle Teaching}
+%
+%    \textbf{Instructor (University of California, San Diego):}\vspace{2mm}\\\vspace{1mm}%
+%     Statistical learning in bioinformatics. \hfill \textbf{Winter 2016}\\
+%      Algorithms for biological data analysis. \hfill \textbf{Winter 2016}\\
+%    Introduction to Computer Engineering  \hfill \textbf{Winter, Spring 2016, Winter 2017}
+%
+%
+%    \textbf{Teaching  Assistance:}\vspace{2mm}\\\vspace{1mm}%
+%    Software Testing and Quality Assurance, University of Waterloo.  \hfill \textbf{Winter 2007}\\
+%    Scientific \& Technical Communication, University of Tehran.  \hfill \textbf{Fall 2005}
+%
+%
+%    \textbf{Workshops, Tutorials, and  Short Courses:}\vspace{2mm}\\\vspace{1mm}%
+%    Ann Arbor, Michigan, Phylogenomics Symposium and Software School \hfill \textbf{2015}\\
+%    UT Austin, Summer school on Phylogenomics and Metagenomics \hfill \textbf{Summer 2014}\\
+%    Evolution meetings (NC), Software School on ASTRAL and PASTA \hfill \textbf{Summer 2014}\\
+%    UT Austin, Workshop on New Methods for Phylogeny and Alignment Estimation, 
+%    Tutorials on SEPP and SATe \hfill \textbf{Winter 2013}
+%%
+%%    \textbf{Guest Lecturer:}\vspace{2mm}\\\vspace{1mm}%
+%%University of Texas at Austin (Biology) Computation Biology \hfill \textbf{2014}\\
+%%University of Texas at Austin (CCBB) Introduction to Biological Computing \hfill \textbf{2014}\\
+%%University of Texas at Austin (Computer Science) Algorithm of Comp. Biology \textbf{2013}
+%
+%%    \textbf{Volunteer Teaching:}\vspace{2mm}\\\vspace{1mm}%
+%%    Tehran, Iran, 12th grade mathematics and physics. \hfill \textbf{2001}
+%    
+%    
+%        \section{\mysidestyle Highlights and Invited Talks}
+%        Broad Inst., MA, ``Taxonomic Profiling using Scalable Phylogenetic Placement'' \hfill \textbf{2017}\\
+%         RECOMB, Warsaw, Poland, ``Statistical binning enables an accurate ...''   \hfill \textbf{2015}\\
+%         IPAM, UCLA, ``Ultra-large multiple sequence alignments''.\hfill \textbf{2015}\\
+%         INFORMS, Philadelphia, ``Reconstruction of species trees using genomic data''.   \hfill \textbf{2015}\\
+%         MolPhy-3, Moscow, Russia, ``SEPP and TIPP: phylogenetic placement and taxon identification methods for metagenomic''. \hfill \textbf{2012}\vspace{1mm}
+%_______________________________________________________________________________________
+    %  Professional Services
+ 
+    %Mentorship: Undergrad RA, University of Waterloo and UT Austin  \hfill \textbf{2008, 2013}
+    %Mentorship: Undergrad Research Assistants at University of Waterloo   \hfill \textbf{2008}%
+
+%______________________________________________________________________________________________________________________
+\end{small}
+\end{resume}
+\end{document}
+
+
+%______________________________________________________________________________________________________________________
+% EOF
+

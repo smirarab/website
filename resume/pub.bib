@@ -548,7 +548,6 @@ year = {2015}
 	author = {Zhang, Chao and Sayyari, Erfan and Mirarab, Siavash},
 	booktitle = {Lecture Notes in Computer Science},
 	doi = {10.1007/978-3-319-67979-2_4},
-	editor = {Meidanis, Joao and Nakhleh, Luay},
 	pages = {53--75},
 	title = {{ASTRAL-III: Increased Scalability and Impacts of Contracting Low Support Branches}},
 	url = {http://link.springer.com/10.1007/978-3-319-67979-2{\_}4 https://doi.org/10.1007/978-3-319-67979-2{\_}4},
@@ -576,7 +575,6 @@ year = {2015}
 	author = {Mai, Uyen and Mirarab, Siavash},
 	booktitle = {Lecture Notes in Computer Science},
 	doi = {10.1007/978-3-319-67979-2_7},
-	editor = {Meidanis, Joao and Nakhleh, Luay},
 	mendeley-groups = {mine},
 	pages = {116--140},
 	title = {{TreeShrink: Efficient Detection of Outlier Tree Leaves}},
@@ -607,7 +605,6 @@ year = {2015}
 @article{MVroot,
 	author = {Mai, Uyen and Sayyari, Erfan and Mirarab, Siavash},
 	doi = {10.1371/journal.pone.0182238},
-	editor = {Moreno-Hagelsieb, Gabriel},
 	isbn = {1111111111},
 	issn = {1932-6203},
 	journal = {PLOS ONE},
@@ -650,7 +647,6 @@ year = {2017}
 @article{dual-birth,
 	author = {Moshiri, Niema and Mirarab, Siavash},
 	doi = {10.1093/sysbio/syx088},
-	editor = {Holder, Mark},
 	file = {:Users/smirarab/Research/papers/alu-paper-systematic (1).pdf:pdf},
 	issn = {1063-5157},
 	journal = {Systematic Biology},
@@ -742,6 +738,22 @@ year = {2017}
 	year = {2018}
 }
 
+
+@article{Moshiri2018,
+	abstract = {Motivation: The ability to simulate epidemics as a function of model parameters allows for the gain of insights unobtainable from real datasets. Further, reconstructing transmission networks for fast-evolving viruses like HIV may have the potential to greatly enhance epidemic intervention, but transmission network reconstruction methods have been inadequately studied, largely because it is difficult to obtain "truth" sets on which to test them and properly measure their performance. Results: We introduce FAVITES, a robust framework for simulating realistic datasets for epidemics that are caused by fast-evolving pathogens like HIV. FAVITES creates a generative model that produces many items relevant to an epidemic, such as contact networks, transmission networks, phylogenetic trees, and error-prone sequence datasets. FAVITES is designed to be flexible and exhaustive by dividing the generative model into modules, each of which is expressed as a fixed API that can be implemented using various sub-models. We use FAVITES to simulate HIV datasets resembling the San Diego epidemic and show that the simulated datasets are realistic. We then use the simulated data to make inferences about the epidemic and how it is impact by increased treatment efforts. We also study two transmission network reconstruction methods and their effectiveness in detecting fast-growing clusters.},
+	author = {Moshiri, Niema and Ragonnet-Cronin, Manon and Wertheim, Joel O and Mirarab, Siavash},
+	doi = {10.1093/bioinformatics/bty921},
+	file = {:Users/smirarab/Research/papers/297267.full.pdf:pdf},
+	issn = {1367-4803},
+	journal = {Bioinformatics},
+	mendeley-groups = {mine,comprehensive},
+	title = {{FAVITES: simultaneous simulation of transmission networks, phylogenetic trees, and sequences}},
+	url = {https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty921/5161084},
+	year = {2018},
+	pages = {bty921}
+}
+
+
 @article{instral,
 	abstract = {Phylogenomic analyses have increasingly adopted species tree reconstruction using methods that account for gene tree discordance using pipelines that require both effort and computational resources. As the number of available genomes continues to increase, a new problem is facing researchers. Once new species become available, they have to repeat the whole costly process from the beginning because updating available species trees is currently not possible. Such de-novo inference can be prohibitively costly in human effort or machine time. In this paper, we introduce INSTRAL, a method that extends ASTRAL to enable phylogenetic placement. INSTRAL is designed to add a new species onto an existing species tree after sequences from the new species have already been added to gene trees; thus, INSTRAL is complementary to existing placement methods such as pplacer and EPA that update gene trees with new sequences.},
 	author = {Rabiee, Maryam and Mirarab, Siavash},
@@ -767,11 +779,9 @@ year = {2017}
 @article{McDonald2018,
 	author = {McDonald, Daniel and American Gut Consortium},
 	doi = {10.1128/mSystems.00031-18},
-	editor = {Greene, Casey S.},
 	issn = {2379-5077},
 	journal = {mSystems},
 	mendeley-groups = {mine},
-	month = {may},
 	number = {3},
 	pmid = {29795809},
 	title = {{American Gut: an Open Platform for Citizen Science Microbiome Research}},
@@ -801,7 +811,6 @@ year = {2017}
 	issn = {16113349},
 	journal = {bioRxiv (abstract appeared at RECOMB 2018)},
 	keywords = {alignment-free,assembly-free,corresponding authors,dna barcoding,dna reference databases,edu,genome-skimming,next generation sequencing,siavash mirarab,smirarab,ucsd},
-	mendeley-groups = {mine},
 	pages = {230409},
 	title = {{Assembly-free and alignment-free sample identification using genome skims}},
 	url = {https://www.biorxiv.org/content/early/2018/04/02/230409},
@@ -809,14 +818,21 @@ year = {2017}
 }
 
 @article{astral-multi,
+	abstract = {Genome-wide phylogeny reconstruction is becoming increasingly common, and one driving factor behind these phylogenomic studies is the promise that the potential discordance between gene trees and the species tree can be modeled. Incomplete lineage sorting is one cause of discordance that bridges population genetic and phylogenetic processes. ASTRAL is a species tree reconstruction method that seeks to find the tree with minimum quartet distance to an input set of inferred gene trees. However, the published ASTRAL algorithm only works with one sample per species. To account for polymorphisms in present-day species, one can sample multiple individuals per species to create multi-allele datasets. Here, we introduce how ASTRAL can handle multi-allele datasets. We show that the quartet-based optimization problem extends naturally, and we introduce heuristic methods for building the search space specifically for the case of multi-individual datasets. We study the accuracy and scalability of the multi-individual version of ASTRAL-III using extensive simulation studies and compare it to NJst, the only other scalable method that can handle these datasets. We do not find strong evidence that using multiple individuals dramatically improves accuracy. When we study the trade-off between sampling more genes versus more individuals, we find that sampling more genes is more effective than sampling more individuals, even under conditions that we study where trees are shallow (median length: ≈ 1Ne) and ILS is extremely high.},
+	archivePrefix = {arXiv},
+	arxivId = {bioRxiv: 439489},
 	author = {Rabiee, Maryam and Sayyari, Erfan and Mirarab, Siavash},
-	doi = {10.1101/439489},
-	journal = {MPE},
-	mendeley-groups = {mine},
-	pages = {(bioRxiv: 439489)},
+	doi = {10.1016/j.ympev.2018.10.033},
+	eprint = {bioRxiv: 439489},
+	issn = {10557903},
+	journal = {Molecular Phylogenetics and Evolution},
+	keywords = {Gene trees,ILS,Multi-allele,Multispecies coalescent,Phylogenomics,Species trees,Summary method},
+	pages = {286--296},
+	publisher = {Elsevier},
 	title = {{Multi-allele species reconstruction using ASTRAL}},
-	url = {http://biorxiv.org/content/early/2018/10/11/439489.abstract},
-	volume = {in press},
-	year = {2018}
+	url = {http://biorxiv.org/content/early/2018/10/11/439489.abstract https://linkinghub.elsevier.com/retrieve/pii/S1055790317308424},
+	volume = {130},
+	year = {2019}
 }
+
 
