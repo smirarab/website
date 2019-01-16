@@ -2,10 +2,17 @@
 layout: page
 title: Presentations
 ---
+
+### 2019
+
+* January 18, [PAG](https://pag.confex.com/pag/xxvii/meetingapp.cgi/Paper/36191) [pdf]({{ site.url}}/assets/2019-pag-advances.pdf). 
+
 ### 2018
 
-* August, 17, [Evoluiton meetings](http://tandy.cs.illinois.edu/PhyloSynth-Symp2018.html). To be uploaded.
-* July 6, [ISMB](https://www.iscb.org/ismb2018-program/ismb2018-tutorials#am4) [pdf]({{ site.url }}/assets/2018-Lecture_Siavash_phylogenomics)
+* December 18, [ENABLE]() [pdf]({{ site.url}}/assets/2018-enable.pdf)
+* November 07, [IPAM](http://www.ipam.ucla.edu/programs/workshops/workshop-iii-hpc-for-computationally-and-data-intensive-problems/?tab=speaker-list) [pdf]({{ site.url}}/assets/2018-ipam.pdf)
+* August, 17, [Evolution meetings](http://tandy.cs.illinois.edu/PhyloSynth-Symp2018.html). To be uploaded.
+* July 6, [ISMB](https://www.iscb.org/ismb2018-program/ismb2018-tutorials#am4) [pdf]({{ site.url }}/assets/2018-Lecture_Siavash_phylogenomics.pdf)
 
 ### 2017
 
