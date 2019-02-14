@@ -7,10 +7,17 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 
 ### UCSD
 
-{:start="56"}
+#### Preprints
 0. Balaban, Metin, Shahab Sarmashghi, and Siavash Mirarab. “APPLES: Fast Distance-Based Phylogenetic Placement.” BioRxiv 475566 (2018). [doi:10.1101/475566](https://doi.org/10.1101/475566).
-0. Moshiri, Niema, Manon Ragonnet-cronin, Joel O Wertheim, and Siavash Mirarab. “FAVITES: Simultaneous Simulation of Transmission Networks, Phylogenetic Trees, and Sequences.” Bioinformatics (2018). [10.1093/bioinformatics/bty921](https://doi.org/10.1093/bioinformatics/bty921).
+	* Accepted in RECOMB 2019. 
 0. Rabiee, Maryam, and Siavash Mirarab. “INSTRAL: Discordance-Aware Phylogenetic Placement Using Quartet Scores.” BioRxiv 432906 (2018). [doi:10.1101/432906](https://doi.org/10.1101/432906).
+
+#### Published (or in press)
+
+{:start="54"}
+0. Sarmashghi, Shahab, Kristine Bohmann, M. Thomas P. Gilbert, Vineet Bafna, and Siavash Mirarab. “Assembly-Free and Alignment-Free Sample Identification Using Genome Skims.” Genome biology (in press). available at bioRxiv. [doi:10.1101/230409](https://doi.org/10.1101/230409).
+	* Abstract appeared in [RECOMB 2018](https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf).
+0. Moshiri, Niema, Manon Ragonnet-cronin, Joel O Wertheim, and Siavash Mirarab. “FAVITES: Simultaneous Simulation of Transmission Networks, Phylogenetic Trees, and Sequences.” Bioinformatics (2018). [10.1093/bioinformatics/bty921](https://doi.org/10.1093/bioinformatics/bty921).
 0.  Rabiee, Maryam, Erfan Sayyari, and Siavash Mirarab. “Multi-Allele Species Reconstruction Using ASTRAL.” Molecular Phylogenetics and Evolution 130,  (2018): 286-96. [doi:10.1016/j.ympev.2018.10.033](https://doi.org/10.1016/j.ympev.2018.10.033).
 0. Gopalakrishnan, Shyam, Mikkel-Holger S. Sinding, Jazmín Ramos-Madrigal, Jonas Niemann, Jose A. Samaniego Castruita, Filipe G. Vieira, Christian Carøe, et al. “Interspecific Gene Flow Shaped the Evolution of the Genus Canis.” Current Biology (2018). [doi:10.1016/j.cub.2018.08.041](https://doi.org/10.1016/j.cub.2018.08.041).
 0. McDonald, Daniel, Embriette Hyde, Justine W. Debelius, James T. Morton, Antonio Gonzalez, Gail Ackermann, Alexander A. Aksenov, et al. “American Gut: An Open Platform for Citizen Science Microbiome Research.” mSystems, 3, no. 3 (2018). [doi.org/10.1128/mSystems.00031-18](https://doi.org/10.1128/mSystems.00031-18).
@@ -21,7 +28,6 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 0. 
 Eiserhardt, Wolf L., Alexandre Antonelli, Dominic J. Bennett, Laura R. Botigué, J. Gordon Burleigh, Steven Dodsworth, Brian J. Enquist, et al. “A Roadmap for Global Synthesis of the Plant Tree of Life.” American Journal of Botany 105, no. 3 (2018): 614–22. [doi:10.1002/ajb2.1041](https://doi.org/10.1002/ajb2.1041).
 0. Sayyari, Erfan, James B. Whitfield, and Siavash Mirarab. “DiscoVista: Interpretable Visualizations of Gene Tree Discordance.” Molecular Phylogenetics and Evolution 122 (2018): 110–15. [doi:10.1016/j.ympev.2018.01.019](https://doi.org/10.1016/j.ympev.2018.01.019).
-0. Sarmashghi, Shahab, Kristine Bohmann, M. Thomas P. Gilbert, Vineet Bafna, and Siavash Mirarab. “Assembly-Free and Alignment-Free Sample Identification Using Genome Skims.” accepted for RECOMB (2018). available at bioRxiv. [doi:10.1101/230409](https://doi.org/10.1101/230409).
 0. Akbari, Ali, Joseph J Vitti, Arya Iranmehr, Mehrdad Bakhtiari, Pardis C Sabeti, Siavash Mirarab, and Vineet Bafna. “Identifying the Favored Mutation in a Positive Selective Sweep.” Nature Methods 15, no 4 (2018): 279-282. [doi:10.1038/nmeth.4606](https://www.nature.com/articles/nmeth.4606).
 0. Moshiri, Niema, and Siavash Mirarab. “A Two-State Model of Tree Evolution and Its Applications to Alu Retrotransposition.” Systematic Biology 67, no. 3 (2017): 475-489. [doi:10.1093/sysbio/syx088](https://doi.org/10.1093/sysbio/syx088).
 0. Luke R. Thompson, Jon G. Sanders, Daniel McDonald, Amnon Amir, Joshua Ladau, Kenneth J. Locey, Robert J. Prill, Anupriya Tripathi, Sean M. Gibbons, Gail Ackermann, Jose A. Navas-Molina, Stefan Janssen, Evguenia Kopylova, Yoshiki Vázquez-Baeza, Antonio González, James T. Morton, Siavash Mirarab, Zhenjiang Zech Xu, Lingjing Jiang, Mohamed F. Haroon, Jad Kanbar, Qiyun Zhu, Se Jin Song, Tomasz Kosciolek, Nicholas A. Bokulich, Joshua Lefler, Colin J. Brislawn, Gregory Humphrey, Sarah M. Owens, Jarrad Hampton-Marcell, Donna Berg-Lyons, Valerie McKenzie, Noah Fierer, Jed A. Fuhrman, Aaron Clauset, Rick L. Stevens, Ashley Shade, Katherine S. Pollard, Kelly D. Goodwin, Janet K. Jansson, Jack A. Gilbert, Rob Knight & The Earth Microbiome Project Consortium. “A communal catalogue reveals Earth’s multiscale microbial diversity”. Nature 551 (2017): 457-463. [doi:10.1038/nature24621](http://www.nature.com/doifinder/10.1038/nature24621)
@@ -32,7 +38,7 @@ Eiserhardt, Wolf L., Alexandre Antonelli, Dominic J. Bennett, Laura R. Botigué,
    * Best paper award at GLBIO 2017.
 0. Mirarab, Siavash. “Phylogenomics: Constrained Gene Tree Inference”. Nature Ecology & Evolution (2017): 56. [doi:10.1038/s41559-016-0056](http://www.nature.com/articles/s41559-016-0056).
 0. Shekhar, Shubhanshu, Sebastien Roch, and Siavash Mirarab. “Species Tree Estimation Using ASTRAL: How Many Genes Are Enough?”  IEEE/ACM Transactions on Computational Biology and Bioinformatics (2017). early access. [10.1109/TCBB.2017.2757930](http://ieeexplore.ieee.org/document/8053780/)  [arxiv](https://arxiv.org/abs/1704.06831)
-   * An earlier version was presented at RECOMB-2017.
+   * Abstract [appeared](https://link.springer.com/content/pdf/bbm%3A978-3-319-56970-3%2F1.pdf) in  RECOMB 2017.
 0. Sayyari, Erfan and Siavash Mirarab. “Anchoring quartet-based phylogenetic distances and applications to species tree reconstruction”. BMC Genomics 17, no. 10  (2016):  101–113. [doi:10.1186/s12864-016-3098-z](http://doi.org/10.1186/s12864-016-3098-z) 
 0. Sayyari, Erfan and Siavash Mirarab. “Fast coalescent-based computation of local branch support from quartet frequencies”. Molecular Biology and Evolution 33, no. 7 (2016): 1654-1668. [doi:10.1093/molbev/msw079](http://mbe.oxfordjournals.org/cgi/content/abstract/msw079?ijkey=OTHYAZPfjJsY2Ce&keytype=ref)
 {: reversed="reversed"}

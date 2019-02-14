@@ -20,4 +20,3 @@ title: Students
 * John Yin
 * Yuan Wang
 * Ziyang Huang
-* Shenghao Jiang
