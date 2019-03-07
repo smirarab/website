@@ -802,20 +802,25 @@ year = {2017}
 	year = {2018}
 }
 
+
 @article{Skmerjournal,
 	abstract = {The ability to quickly and inexpensively describe taxonomic diversity is critical in this era of rapid climate and biodiversity changes. The currently preferred molecular technique, barcoding, has been very successful, but is based on short organelle markers. Recently, an alternative genome-skimming approach has been proposed: low-pass sequencing (100Mb - several Gb per sample) is applied to voucher and/or query samples, and marker genes and/or organelle genomes are recovered computationally. The current practice of genome-skimming discards the vast majority of the data because the low coverage of genome-skims prevents assembling the nuclear genomes. In contrast, we suggest using all unassembled reads directly, but existing methods poorly support this goal. We introduce a new alignment-free tool, Skmer, to estimate genomic distances between the query and each reference genome-skim using the k-mer decomposition of reads. We test Skmer on a large set of insect and bird genomes, sub-sampled to create genome-skims. Skmer shows great accuracy in estimating genomic distances, identifying the closest match in a reference dataset, and inferring the phylogeny. The software is publicly available on https://github.com/shahab-sarmashghi/Skmer.git},
-	author = {Sarmashghi, Shahab and Bohmann, Kristine and Gilbert, M. Thomas P. and Bafna, Vineet and Mirarab, Siavash},
-	doi = {10.1101/230409},
-	file = {:Users/smirarab/Research/papers/230409.full (1).pdf:pdf},
-	isbn = {9783319899282},
-	issn = {16113349},
-	journal = {bioRxiv (abstract appeared at RECOMB 2018)},
+	author = {Sarmashghi, Shahab and Bohmann, Kristine and {P. Gilbert}, M. Thomas and Bafna, Vineet and Mirarab, Siavash},
+	doi = {10.1186/s13059-019-1632-4},
+	file = {:Users/smirarab/Research/papers/s13059-019-1632-4.pdf:pdf;:Users/smirarab/Research/papers/13059{\_}2019{\_}1632{\_}MOESM1{\_}ESM.pdf:pdf},
+	issn = {1474-760X},
+	journal = {Genome Biology},
 	keywords = {alignment-free,assembly-free,corresponding authors,dna barcoding,dna reference databases,edu,genome-skimming,next generation sequencing,siavash mirarab,smirarab,ucsd},
-	pages = {230409},
-	title = {{Assembly-free and alignment-free sample identification using genome skims}},
-	url = {https://www.biorxiv.org/content/early/2018/04/02/230409},
-	year = {2018}
+	mendeley-groups = {mine,comprehensive},
+	month = {dec},
+	number = {1},
+	pages = {34},
+	title = {{Skmer: assembly-free and alignment-free sample identification using genome skims}},
+	url = {https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1632-4},
+	volume = {20},
+	year = {2019}
 }
+
 
 @article{astral-multi,
 	abstract = {Genome-wide phylogeny reconstruction is becoming increasingly common, and one driving factor behind these phylogenomic studies is the promise that the potential discordance between gene trees and the species tree can be modeled. Incomplete lineage sorting is one cause of discordance that bridges population genetic and phylogenetic processes. ASTRAL is a species tree reconstruction method that seeks to find the tree with minimum quartet distance to an input set of inferred gene trees. However, the published ASTRAL algorithm only works with one sample per species. To account for polymorphisms in present-day species, one can sample multiple individuals per species to create multi-allele datasets. Here, we introduce how ASTRAL can handle multi-allele datasets. We show that the quartet-based optimization problem extends naturally, and we introduce heuristic methods for building the search space specifically for the case of multi-individual datasets. We study the accuracy and scalability of the multi-individual version of ASTRAL-III using extensive simulation studies and compare it to NJst, the only other scalable method that can handle these datasets. We do not find strong evidence that using multiple individuals dramatically improves accuracy. When we study the trade-off between sampling more genes versus more individuals, we find that sampling more genes is more effective than sampling more individuals, even under conditions that we study where trees are shallow (median length: ≈ 1Ne) and ILS is extremely high.},
@@ -835,4 +840,25 @@ year = {2017}
 	year = {2019}
 }
 
+
+@article{APPLES,
+	abstract = {Phylogenetic placement consists of adding a query species onto an existing phylogeny and has increasing relevance as sequence datasets continue to grow in size and diversity. Placement is useful for updating existing phylogenies and for identifying samples taxonomically using (meta-)barcoding or metagenomics. Maximum likelihood (ML) methods of phylogenetic placement exist, but these methods are not scalable to trees with many thousands of leaves. They also rely on assembled and aligned sequences for the reference tree and the query and thus cannot analyze unassembled reads used recently in applications such as genome skimming. Here, we introduce APPLES, a distance-based method of phylogenetic placement that improves on ML by more than an order of magnitude in speed and memory and comes very close to ML in accuracy. APPLES has better accuracy than ML for placing on trees with thousands of species and can place on trees with a hundred thousands species where ML cannot run. Finally, APPLES can accurately identify samples without assembled sequences for the reference or the query using k-mer-based distances, a scenario that ML cannot handle.},
+	author = {Balaban, Metin and Sarmashghi, Shahab and Mirarab, Siavash},
+	file = {:Users/smirarab/Research/papers/475566.full.pdf:pdf},
+	journal = {bioRxiv (accepted for RECOMB 2019)},
+	month = {jan},
+	title = {{APPLES: Fast Distance-based Phylogenetic Placement}},
+	url = {http://biorxiv.org/content/early/2018/11/23/475566.abstract},
+	year = {2018}
+}
+
+
+@article{TADA,
+	author = {Sayyari, Erfan and Kawas, Ban and Mirarab, Siavash},
+	file = {:Users/smirarab/Research/papers/phylogeny{\_}aware{\_}augmentation.pdf:pdf},
+	journal = {Bioinformatics (ISMB species issue)},
+	title = {{TADA : Phylogenetic augmentation of microbiome samples enhances phenotype classification}},
+	volume = {Accepted},
+	year = {2019}
+}
 
