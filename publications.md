@@ -13,11 +13,12 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 	* Accepted in GLBIO 2019
 0. Balaban, Metin, Shahab Sarmashghi, and Siavash Mirarab. “APPLES: Fast Distance-Based Phylogenetic Placement.” BioRxiv 475566 (2018). [doi:10.1101/475566](https://doi.org/10.1101/475566).
 	* Accepted in RECOMB 2019. 
-0. Rabiee, Maryam, and Siavash Mirarab. “INSTRAL: Discordance-Aware Phylogenetic Placement Using Quartet Scores.” BioRxiv 432906 (2018). [doi:10.1101/432906](https://doi.org/10.1101/432906).
 
 #### Published (including accepted and in press)
 
-{:start="56"}
+{:start="58"}
+0. Rabiee, Maryam, and Siavash Mirarab. “INSTRAL: Discordance-Aware Phylogenetic Placement Using Quartet Scores.” Systematic biology (accepted) and available on BioRxiv 432906 (2019). [doi:10.1101/432906](https://doi.org/10.1101/432906).
+0. Chen, Lei, Qiang Qiu, Yu Jiang, Kun Wang, Zeshan Lin, Zhipeng Li, Faysal Bibi, et al. “Large-Scale Ruminant Genome Sequencing Provides Insights into Their Evolution and Distinct Traits.” Science 364, no. 6446 (2019): eaav6202. [10.1126/science.aav6202](https://doi.org/10.1126/science.aav6202).
 0. Yin, John, Chao Zhang, and Siavash Mirarab. “ASTRAL-MP : Scaling ASTRAL to Very Large Datasets Using Randomization and Parallelization.” Bioinformatics, btz211 (2019). [doi:10.1093/bioinformatics/btz211](https://doi.org/10.1093/bioinformatics/btz211)
 0. Sayyari, Erfan, Ban Kawas, and Siavash Mirarab. “TADA : Phylogenetic Augmentation of Microbiome Samples Enhances Phenotype Classification.” Bioinformatics (ISMB Species Issue) Accepted and to appear in Bioinformatics (2019).
 0. Sarmashghi, Shahab, Kristine Bohmann, M. Thomas P. Gilbert, Vineet Bafna, and Siavash Mirarab. “Skmer: Assembly-Free and Alignment-Free Sample Identification Using Genome Skims.” Genome Biology 20, no. 1 (2019): 34. [doi:10.1186/s13059-019-1632-4](https://doi.org/10.1186/s13059-019-1632-4).
