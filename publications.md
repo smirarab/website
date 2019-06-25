@@ -7,26 +7,30 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 
 ### UCSD
 
-#### Preprints
+#### Preprints, bookchapters, and accepted conference papers
+0. Siavash Mirarab. “Species Tree Estimation Using ASTRAL: Practical Considerations.” arXiv 1904.03826 (2019) [arXiv:1904.03826](https://arxiv.org/pdf/1904.03826.pdf)
+0. Balaban, Metin, Niema Moshiri, Uyen Mai, and Siavash Mirarab. “TreeCluster : Clustering Biological Sequences Using Phylogenetic Trees.” BioRxiv, 2019, 591388. [doi:10.1101/591388](https://www.biorxiv.org/content/10.1101/591388v1).
+	* Accepted in GLBIO 2019
 0. Balaban, Metin, Shahab Sarmashghi, and Siavash Mirarab. “APPLES: Fast Distance-Based Phylogenetic Placement.” BioRxiv 475566 (2018). [doi:10.1101/475566](https://doi.org/10.1101/475566).
 	* Accepted in RECOMB 2019. 
 0. Rabiee, Maryam, and Siavash Mirarab. “INSTRAL: Discordance-Aware Phylogenetic Placement Using Quartet Scores.” BioRxiv 432906 (2018). [doi:10.1101/432906](https://doi.org/10.1101/432906).
 
-#### Published (or in press)
+#### Published (including accepted and in press)
 
-{:start="54"}
-0. Sarmashghi, Shahab, Kristine Bohmann, M. Thomas P. Gilbert, Vineet Bafna, and Siavash Mirarab. “Assembly-Free and Alignment-Free Sample Identification Using Genome Skims.” Genome biology (in press). available at bioRxiv. [doi:10.1101/230409](https://doi.org/10.1101/230409).
+{:start="56"}
+0. Yin, John, Chao Zhang, and Siavash Mirarab. “ASTRAL-MP : Scaling ASTRAL to Very Large Datasets Using Randomization and Parallelization.” Bioinformatics, btz211 (2019). [doi:10.1093/bioinformatics/btz211](https://doi.org/10.1093/bioinformatics/btz211)
+0. Sayyari, Erfan, Ban Kawas, and Siavash Mirarab. “TADA : Phylogenetic Augmentation of Microbiome Samples Enhances Phenotype Classification.” Bioinformatics (ISMB Species Issue) Accepted and to appear in Bioinformatics (2019).
+0. Sarmashghi, Shahab, Kristine Bohmann, M. Thomas P. Gilbert, Vineet Bafna, and Siavash Mirarab. “Skmer: Assembly-Free and Alignment-Free Sample Identification Using Genome Skims.” Genome Biology 20, no. 1 (2019): 34. [doi:10.1186/s13059-019-1632-4](https://doi.org/10.1186/s13059-019-1632-4).
 	* Abstract appeared in [RECOMB 2018](https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf).
 0. Moshiri, Niema, Manon Ragonnet-cronin, Joel O Wertheim, and Siavash Mirarab. “FAVITES: Simultaneous Simulation of Transmission Networks, Phylogenetic Trees, and Sequences.” Bioinformatics (2018). [10.1093/bioinformatics/bty921](https://doi.org/10.1093/bioinformatics/bty921).
-0.  Rabiee, Maryam, Erfan Sayyari, and Siavash Mirarab. “Multi-Allele Species Reconstruction Using ASTRAL.” Molecular Phylogenetics and Evolution 130,  (2018): 286-96. [doi:10.1016/j.ympev.2018.10.033](https://doi.org/10.1016/j.ympev.2018.10.033).
+0. Rabiee, Maryam, Erfan Sayyari, and Siavash Mirarab. “Multi-Allele Species Reconstruction Using ASTRAL.” Molecular Phylogenetics and Evolution 130,  (2018): 286-96. [doi:10.1016/j.ympev.2018.10.033](https://doi.org/10.1016/j.ympev.2018.10.033).
 0. Gopalakrishnan, Shyam, Mikkel-Holger S. Sinding, Jazmín Ramos-Madrigal, Jonas Niemann, Jose A. Samaniego Castruita, Filipe G. Vieira, Christian Carøe, et al. “Interspecific Gene Flow Shaped the Evolution of the Genus Canis.” Current Biology (2018). [doi:10.1016/j.cub.2018.08.041](https://doi.org/10.1016/j.cub.2018.08.041).
 0. McDonald, Daniel, Embriette Hyde, Justine W. Debelius, James T. Morton, Antonio Gonzalez, Gail Ackermann, Alexander A. Aksenov, et al. “American Gut: An Open Platform for Citizen Science Microbiome Research.” mSystems, 3, no. 3 (2018). [doi.org/10.1128/mSystems.00031-18](https://doi.org/10.1128/mSystems.00031-18).
 0. Janssen, Stefan, Daniel McDonald, Antonio Gonzalez, Jose A Navas-Molina, Lingjing Jiang, Zhenjiang Zech Xu, Kevin Winker, Deborah M Kado, Eric Orwoll, Mark Manary, Siavash Mirarab, Knight, Rob. “Phylogenetic Placement of Exact Amplicon Sequences Improves Associations with Clinical Information.” mSystems, 3 no. 3 (2018). [doi:10.1128/mSystems.00021-18](http://msystems.asm.org/content/3/3/e00021-18.abstract).
 0. Zhang, Chao, Maryam Rabiee, Erfan Sayyari, and Siavash Mirarab. “ASTRAL-III: Polynomial Time Species Tree Reconstruction from Partially Resolved Gene Trees.” BMC Bioinformatics 19, no. S6 (2018): 153. [doi:10.1186/s12859-018-2129-y](https://doi.org/10.1186/s12859-018-2129-y).
 0. Mai, Uyen, and Siavash Mirarab. “TreeShrink: Fast and Accurate Detection of Outlier Long Branches in Collections of Phylogenetic Trees.” BMC Genomics 19, no. S5 (2018): 272. [doi:10.1186/s12864-018-4620-2](https://doi.org/10.1186/s12864-018-4620-2).
 0. Sayyari, Erfan, and Siavash Mirarab. “Testing for Polytomies in Phylogenetic Species Trees Using Quartet Frequencies.” Genes 9, no. 3 (2018): 132. [doi:10.3390/genes9030132](http://www.mdpi.com/2073-4425/9/3/132).
-0. 
-Eiserhardt, Wolf L., Alexandre Antonelli, Dominic J. Bennett, Laura R. Botigué, J. Gordon Burleigh, Steven Dodsworth, Brian J. Enquist, et al. “A Roadmap for Global Synthesis of the Plant Tree of Life.” American Journal of Botany 105, no. 3 (2018): 614–22. [doi:10.1002/ajb2.1041](https://doi.org/10.1002/ajb2.1041).
+0. Eiserhardt, Wolf L., Alexandre Antonelli, Dominic J. Bennett, Laura R. Botigué, J. Gordon Burleigh, Steven Dodsworth, Brian J. Enquist, et al. “A Roadmap for Global Synthesis of the Plant Tree of Life.” American Journal of Botany 105, no. 3 (2018): 614–22. [doi:10.1002/ajb2.1041](https://doi.org/10.1002/ajb2.1041).
 0. Sayyari, Erfan, James B. Whitfield, and Siavash Mirarab. “DiscoVista: Interpretable Visualizations of Gene Tree Discordance.” Molecular Phylogenetics and Evolution 122 (2018): 110–15. [doi:10.1016/j.ympev.2018.01.019](https://doi.org/10.1016/j.ympev.2018.01.019).
 0. Akbari, Ali, Joseph J Vitti, Arya Iranmehr, Mehrdad Bakhtiari, Pardis C Sabeti, Siavash Mirarab, and Vineet Bafna. “Identifying the Favored Mutation in a Positive Selective Sweep.” Nature Methods 15, no 4 (2018): 279-282. [doi:10.1038/nmeth.4606](https://www.nature.com/articles/nmeth.4606).
 0. Moshiri, Niema, and Siavash Mirarab. “A Two-State Model of Tree Evolution and Its Applications to Alu Retrotransposition.” Systematic Biology 67, no. 3 (2017): 475-489. [doi:10.1093/sysbio/syx088](https://doi.org/10.1093/sysbio/syx088).
