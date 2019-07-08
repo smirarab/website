@@ -10,14 +10,15 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 #### Preprints, bookchapters, and accepted conference papers
 0. Siavash Mirarab. “Species Tree Estimation Using ASTRAL: Practical Considerations.” arXiv 1904.03826 (2019) [arXiv:1904.03826](https://arxiv.org/pdf/1904.03826.pdf)
 0. Balaban, Metin, Niema Moshiri, Uyen Mai, and Siavash Mirarab. “TreeCluster : Clustering Biological Sequences Using Phylogenetic Trees.” BioRxiv, 2019, 591388. [doi:10.1101/591388](https://www.biorxiv.org/content/10.1101/591388v1).
-	* Accepted in GLBIO 2019
+	* Accepted in GLBIO 2019.
 0. Balaban, Metin, Shahab Sarmashghi, and Siavash Mirarab. “APPLES: Fast Distance-Based Phylogenetic Placement.” BioRxiv 475566 (2018). [doi:10.1101/475566](https://doi.org/10.1101/475566).
 	* Accepted in RECOMB 2019. 
 
 #### Published (including accepted and in press)
 
-{:start="58"}
-0. Rabiee, Maryam, and Siavash Mirarab. “INSTRAL: Discordance-Aware Phylogenetic Placement Using Quartet Scores.” Systematic biology (accepted) and available on BioRxiv 432906 (2019). [doi:10.1101/432906](https://doi.org/10.1101/432906).
+{:start="59"}
+0. Houde, Peter, Edward L Braun, Nitish Narula, Uriel Minjares, and Siavash Mirarab. “Phylogenetic Signal of Indels and the Neoavian Radiation.” Diversity 11, no. 7 (2019): 108. [doi:10.3390/d11070108](https://doi.org/10.3390/d11070108). 
+0. Rabiee, Maryam, and Siavash Mirarab. “INSTRAL: Discordance-Aware Phylogenetic Placement Using Quartet Scores.” Systematic biology (in press; 10.1093/sysbio/syz045). Available on BioRxiv 432906 (2019). [doi:10.1101/432906](https://doi.org/10.1101/432906).
 0. Chen, Lei, Qiang Qiu, Yu Jiang, Kun Wang, Zeshan Lin, Zhipeng Li, Faysal Bibi, et al. “Large-Scale Ruminant Genome Sequencing Provides Insights into Their Evolution and Distinct Traits.” Science 364, no. 6446 (2019): eaav6202. [10.1126/science.aav6202](https://doi.org/10.1126/science.aav6202).
 0. Yin, John, Chao Zhang, and Siavash Mirarab. “ASTRAL-MP : Scaling ASTRAL to Very Large Datasets Using Randomization and Parallelization.” Bioinformatics, btz211 (2019). [doi:10.1093/bioinformatics/btz211](https://doi.org/10.1093/bioinformatics/btz211)
 0. Sayyari, Erfan, Ban Kawas, and Siavash Mirarab. “TADA : Phylogenetic Augmentation of Microbiome Samples Enhances Phenotype Classification.” Bioinformatics (ISMB Species Issue) Accepted and to appear in Bioinformatics (2019).
@@ -42,7 +43,7 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 0. Mai, Uyen, Erfan Sayyari, and Siavash Mirarab. “Minimum Variance Rooting of Phylogenetic Trees and Implications for Species Tree Reconstruction.” PLOS ONE 12, no. 8 (2017): e0182238. [doi:10.1371/journal.pone.0182238](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182238).
    * Best paper award at GLBIO 2017.
 0. Mirarab, Siavash. “Phylogenomics: Constrained Gene Tree Inference”. Nature Ecology & Evolution (2017): 56. [doi:10.1038/s41559-016-0056](http://www.nature.com/articles/s41559-016-0056).
-0. Shekhar, Shubhanshu, Sebastien Roch, and Siavash Mirarab. “Species Tree Estimation Using ASTRAL: How Many Genes Are Enough?”  IEEE/ACM Transactions on Computational Biology and Bioinformatics (2017). early access. [10.1109/TCBB.2017.2757930](http://ieeexplore.ieee.org/document/8053780/)  [arxiv](https://arxiv.org/abs/1704.06831)
+0. Shekhar, Shubhanshu, Sebastien Roch, and Siavash Mirarab. “Species Tree Estimation Using ASTRAL: How Many Genes Are Enough?”  IEEE/ACM Transactions on Computational Biology and Bioinformatics (2017). early access. [10.1109/TCBB.2017.2757930](http://ieeexplore.ieee.org/document/8053780/)  
    * Abstract [appeared](https://link.springer.com/content/pdf/bbm%3A978-3-319-56970-3%2F1.pdf) in  RECOMB 2017.
 0. Sayyari, Erfan and Siavash Mirarab. “Anchoring quartet-based phylogenetic distances and applications to species tree reconstruction”. BMC Genomics 17, no. 10  (2016):  101–113. [doi:10.1186/s12864-016-3098-z](http://doi.org/10.1186/s12864-016-3098-z) 
 0. Sayyari, Erfan and Siavash Mirarab. “Fast coalescent-based computation of local branch support from quartet frequencies”. Molecular Biology and Evolution 33, no. 7 (2016): 1654-1668. [doi:10.1093/molbev/msw079](http://mbe.oxfordjournals.org/cgi/content/abstract/msw079?ijkey=OTHYAZPfjJsY2Ce&keytype=ref)
