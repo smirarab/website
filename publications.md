@@ -21,7 +21,8 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 0. Rabiee, Maryam, and Siavash Mirarab. “INSTRAL: Discordance-Aware Phylogenetic Placement Using Quartet Scores.” Systematic biology (in press; 10.1093/sysbio/syz045). Available on BioRxiv 432906 (2019). [doi:10.1101/432906](https://doi.org/10.1101/432906).
 0. Chen, Lei, Qiang Qiu, Yu Jiang, Kun Wang, Zeshan Lin, Zhipeng Li, Faysal Bibi, et al. “Large-Scale Ruminant Genome Sequencing Provides Insights into Their Evolution and Distinct Traits.” Science 364, no. 6446 (2019): eaav6202. [10.1126/science.aav6202](https://doi.org/10.1126/science.aav6202).
 0. Yin, John, Chao Zhang, and Siavash Mirarab. “ASTRAL-MP : Scaling ASTRAL to Very Large Datasets Using Randomization and Parallelization.” Bioinformatics, btz211 (2019). [doi:10.1093/bioinformatics/btz211](https://doi.org/10.1093/bioinformatics/btz211)
-0. Sayyari, Erfan, Ban Kawas, and Siavash Mirarab. “TADA : Phylogenetic Augmentation of Microbiome Samples Enhances Phenotype Classification.” Bioinformatics (ISMB Species Issue) Accepted and to appear in Bioinformatics (2019).
+0. Sayyari, Erfan, Ban Kawas, and Siavash Mirarab. “TADA: Phylogenetic Augmentation of Microbiome Samples Enhances Phenotype Classification.” Bioinformatics 35, no. 14 (2019): i31–40. [doi:10.1093/bioinformatics/btz394](https://doi.org/10.1093/bioinformatics/btz394)
+	* As part of ISMB 2019.
 0. Sarmashghi, Shahab, Kristine Bohmann, M. Thomas P. Gilbert, Vineet Bafna, and Siavash Mirarab. “Skmer: Assembly-Free and Alignment-Free Sample Identification Using Genome Skims.” Genome Biology 20, no. 1 (2019): 34. [doi:10.1186/s13059-019-1632-4](https://doi.org/10.1186/s13059-019-1632-4).
 	* Abstract appeared in [RECOMB 2018](https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf).
 0. Moshiri, Niema, Manon Ragonnet-cronin, Joel O Wertheim, and Siavash Mirarab. “FAVITES: Simultaneous Simulation of Transmission Networks, Phylogenetic Trees, and Sequences.” Bioinformatics (2018). [10.1093/bioinformatics/bty921](https://doi.org/10.1093/bioinformatics/bty921).
@@ -46,7 +47,7 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 0. Shekhar, Shubhanshu, Sebastien Roch, and Siavash Mirarab. “Species Tree Estimation Using ASTRAL: How Many Genes Are Enough?”  IEEE/ACM Transactions on Computational Biology and Bioinformatics (2017). early access. [10.1109/TCBB.2017.2757930](http://ieeexplore.ieee.org/document/8053780/)  
    * Abstract [appeared](https://link.springer.com/content/pdf/bbm%3A978-3-319-56970-3%2F1.pdf) in  RECOMB 2017.
 0. Sayyari, Erfan and Siavash Mirarab. “Anchoring quartet-based phylogenetic distances and applications to species tree reconstruction”. BMC Genomics 17, no. 10  (2016):  101–113. [doi:10.1186/s12864-016-3098-z](http://doi.org/10.1186/s12864-016-3098-z) 
-0. Sayyari, Erfan and Siavash Mirarab. “Fast coalescent-based computation of local branch support from quartet frequencies”. Molecular Biology and Evolution 33, no. 7 (2016): 1654-1668. [doi:10.1093/molbev/msw079](http://mbe.oxfordjournals.org/cgi/content/abstract/msw079?ijkey=OTHYAZPfjJsY2Ce&keytype=ref)
+0. Sayyari, Erfan and Siavash Mirarab. “Fast coalescent-based computation of local branch support from quartet frequencies”. Molecular Biology and Evolution 33, no. 7 (2016): 1654-1668. [doi:10.1093/molbev/msw079](https://doi.org/10.1093/molbev/msw079)
 {: reversed="reversed"}
 
 ### PhD work
