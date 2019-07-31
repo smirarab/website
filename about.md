@@ -14,7 +14,7 @@ My Ph.D. research was supported by an NSERC PGS award and [Howard Hughes Medical
 My [dissertation](https://repositories.lib.utexas.edu/bitstream/handle/2152/31377/MIRARABBAYGI-DISSERTATION-2015.pdf) won the [honorable mention for the 2015 ACM Doctoral Dissertation Award](http://www.acm.org/awards/2015-doctoral-dissertation). 
 
 
-I am recipient of the [2017 Sloan Research Fellowship](https://sloan.org/fellowships/2017-Fellows) in Computational & Evolutionary Molecular Biology and the NSF CAREER award.
+I am recipient of the [2017 Sloan Research Fellowship](https://sloan.org/fellowships/2017-Fellows) in Computational & Evolutionary Molecular Biology and the [NSF CAREER award](https://nsf.gov/awardsearch/showAward?AWD_ID=1845967&HistoricalAwards=false).
 I am part of the leadership team of [Vertebrate Genome Project](https://vertebrategenomesproject.org/who-we-are).
 
 My [research](research.html) area is **computational biology** and my lab develops methods that target large-scale datasets. 

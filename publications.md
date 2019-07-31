@@ -18,7 +18,6 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 
 {:start="59"}
 0. Houde, Peter, Edward L Braun, Nitish Narula, Uriel Minjares, and Siavash Mirarab. “Phylogenetic Signal of Indels and the Neoavian Radiation.” Diversity 11, no. 7 (2019): 108. [doi:10.3390/d11070108](https://doi.org/10.3390/d11070108). 
-0. Rabiee, Maryam, and Siavash Mirarab. “INSTRAL: Discordance-Aware Phylogenetic Placement Using Quartet Scores.” Systematic biology (in press; 10.1093/sysbio/syz045). Available on BioRxiv 432906 (2019). [doi:10.1101/432906](https://doi.org/10.1101/432906).
 0. Rabiee, Maryam, and Siavash Mirarab. “INSTRAL: Discordance-Aware Phylogenetic Placement Using Quartet Scores.” Systematic Biology, early access (2019). [doi:10.1093/sysbio/syz045](https://doi.org/10.1093/sysbio/syz045).
 0. Chen, Lei, Qiang Qiu, Yu Jiang, Kun Wang, Zeshan Lin, Zhipeng Li, Faysal Bibi, et al. “Large-Scale Ruminant Genome Sequencing Provides Insights into Their Evolution and Distinct Traits.” Science 364, no. 6446 (2019): eaav6202. [10.1126/science.aav6202](https://doi.org/10.1126/science.aav6202).
 0. Yin, John, Chao Zhang, and Siavash Mirarab. “ASTRAL-MP : Scaling ASTRAL to Very Large Datasets Using Randomization and Parallelization.” Bioinformatics, btz211 (2019). [doi:10.1093/bioinformatics/btz211](https://doi.org/10.1093/bioinformatics/btz211)
