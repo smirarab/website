@@ -9,14 +9,15 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 
 #### Preprints, bookchapters, and accepted conference papers
 0. Siavash Mirarab. “Species Tree Estimation Using ASTRAL: Practical Considerations.” arXiv 1904.03826 (2019) [arXiv:1904.03826](https://arxiv.org/pdf/1904.03826.pdf)
-0. Balaban, Metin, Niema Moshiri, Uyen Mai, and Siavash Mirarab. “TreeCluster : Clustering Biological Sequences Using Phylogenetic Trees.” BioRxiv, 2019, 591388. [doi:10.1101/591388](https://www.biorxiv.org/content/10.1101/591388v1).
-	* Accepted in GLBIO 2019.
 0. Balaban, Metin, Shahab Sarmashghi, and Siavash Mirarab. “APPLES: Fast Distance-Based Phylogenetic Placement.” BioRxiv 475566 (2018). [doi:10.1101/475566](https://doi.org/10.1101/475566).
 	* Accepted in RECOMB 2019. 
+0. Rabiee, Maryam, and Siavash Mirarab. “Forcing external constraints on tree inference using ASTRAL.” RECOMB-CG, 2019. Accepted.
 
 #### Published (including accepted and in press)
 
-{:start="59"}
+{:start="60"}
+0. Balaban, Metin, Niema Moshiri, Uyen Mai, and Siavash Mirarab. “TreeCluster : Clustering Biological Sequences Using Phylogenetic Trees.” PLOS ONE (in press), 2019. [on BioRxiv: doi:10.1101/591388](https://www.biorxiv.org/content/10.1101/591388v1).
+	* Presented at GLBIO 2019.
 0. Houde, Peter, Edward L Braun, Nitish Narula, Uriel Minjares, and Siavash Mirarab. “Phylogenetic Signal of Indels and the Neoavian Radiation.” Diversity 11, no. 7 (2019): 108. [doi:10.3390/d11070108](https://doi.org/10.3390/d11070108). 
 0. Rabiee, Maryam, and Siavash Mirarab. “INSTRAL: Discordance-Aware Phylogenetic Placement Using Quartet Scores.” Systematic Biology, early access (2019). [doi:10.1093/sysbio/syz045](https://doi.org/10.1093/sysbio/syz045).
 0. Chen, Lei, Qiang Qiu, Yu Jiang, Kun Wang, Zeshan Lin, Zhipeng Li, Faysal Bibi, et al. “Large-Scale Ruminant Genome Sequencing Provides Insights into Their Evolution and Distinct Traits.” Science 364, no. 6446 (2019): eaav6202. [10.1126/science.aav6202](https://doi.org/10.1126/science.aav6202).
