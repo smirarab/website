@@ -5,6 +5,7 @@ title: Presentations
 
 ### 2019
 
+* August 2, [CGSI][http://computationalgenomics.bioinformatics.ucla.edu/schedule/]
 * July 23, [ISMB](https://www.iscb.org/cms_addon/conferences/ismbeccb2019/proceedings.php) [pdf]({{ site.url}}/assets/2019-ISMB.pdf). 
 * January 18, [PAG](https://pag.confex.com/pag/xxvii/meetingapp.cgi/Paper/36191) [pdf]({{ site.url}}/assets/2019-pag-advances.pdf). 
 
