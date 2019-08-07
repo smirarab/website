@@ -15,19 +15,24 @@ title: Tools/Data
     * [FastSP](http://www.cs.utexas.edu/~smirarab/fastsp): Fast and Memory efficient software for comparison of multiple sequence alignments (computes SP-FN and TC scores) 
     * [Statistical binning](https://github.com/smirarab/binning): the code to perform statistical binning
     * [Misc](https://github.com/smirarab/global): a patchwork of scripts for phylogenetics and MSA that may be useful to others
-    * I also work on and contribute code to [SATé](http://phylo.bio.ku.edu/software/sate/sate.html). 
-    
 * Also checkout the following github pages from students in the lab.
     * [Uyen Ma](https://github.com/uym2):
         * [Minimum Variance (MV) rooting](https://github.com/uym2/MinVar-Rooting): also includes an efficient implementation of the MP rooting
-        * [TreeShrink](https://github.com/uym2/TreeShrink): a tool for detecting extremely and suspiciously long branches in a tree
+        * [TreeShrink](https://github.com/uym2/TreeShrink): a tool for detecting extremely and suspiciously long branches on a (set of) tree(s)
     * [Erfan](https://github.com/esayyari): 
-        * [DISTIQUE](https://esayyari.github.io/DISTIQUE.html)
-        * [DiscoVista](https://github.com/esayyari/DiscoVista)
-    * [Niema](https://github.com/niemasd/)
-        * [FAVITES](https://github.com/niemasd/FAVITES)
-        * [Dual-birth](https://github.com/niemasd/Dual-Birth-Model): a set of scripts used in our draft paper that introduced a dual-birth evolutionary process
-    
+        * [DISTIQUE](https://esayyari.github.io/DISTIQUE.html): species tree inference using distance
+        * [DiscoVista](https://github.com/esayyari/DiscoVista): A visualization tool for showing discordance among gene trees and species trees
+	* [TADA](https://github.com/tada-alg/TADA): Data augmentation for learning from microbiome compositional data
+    * [Niema](https://github.com/niemasd):
+        * [FAVITES](https://github.com/niemasd/FAVITES): Simulation of HIV on social netowrks
+        * [Dual-birth](https://github.com/niemasd/Dual-Birth-Model): a set of scripts to work with the dual-birth model
+        * [TreeCluster](https://github.com/niemasd/TreeCluster): A tool for clustering leaves of phylogenetic tree in a principled way
+    * [Maryam Rabiee](https://github.com/maryamrabiee)
+        * [INSTRAL](https://github.com/maryamrabiee/INSTRAL): A tool that extends ASTRAL for phylogenetic placement
+        * [Constrained ASTRAL](https://github.com/maryamrabiee/Constrained-search): A tool that extends ASTRAL for constrained tree search
+    * [Metin Balaban](https://github.com/balabanmetin)
+        * [APPLES](https://github.com/balabanmetin/apples)
+        
 
 ## Datasets
 
