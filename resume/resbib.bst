@@ -376,6 +376,17 @@ FUNCTION {format.pages}
   if$
 }
 
+FUNCTION {doilink}
+{ duplicate$ empty$
+{ pop$ "" }
+{ doi empty$ 
+   { skip$ }
+   { "\href{http://dx.doi.org/" doi * "}{" * swap$ * "}" * }
+   if$
+}
+if$
+}
+
 FUNCTION {format.vol.num.pages}
 { volume field.or.null
   number empty$
@@ -395,6 +406,7 @@ FUNCTION {format.vol.num.pages}
       if$
     }
   if$
+  doilink
 }
 
 FUNCTION {format.chapter.pages}
@@ -534,6 +546,7 @@ FUNCTION {format.incoll.inproc.crossref}
   if$
   " \cite{" * crossref * "}" *
 }
+
 
 FUNCTION {article}
 { output.bibitem
