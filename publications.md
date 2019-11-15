@@ -9,15 +9,21 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 
 #### Preprints, bookchapters, and accepted conference papers
 0. Siavash Mirarab. “Species Tree Estimation Using ASTRAL: Practical Considerations.” arXiv 1904.03826 (2019) [arXiv:1904.03826](https://arxiv.org/pdf/1904.03826.pdf)
-0. Balaban, Metin, Shahab Sarmashghi, and Siavash Mirarab. “APPLES: Fast Distance-Based Phylogenetic Placement.” BioRxiv 475566 (2018). [doi:10.1101/475566](https://doi.org/10.1101/475566).
-	* Accepted in RECOMB 2019. 
-0. Rabiee, Maryam, and Siavash Mirarab. “Forcing external constraints on tree inference using ASTRAL.” RECOMB-CG, 2019. Accepted.
+0. Rachtman, Eleonora, Metin Balaban, Vineet Bafna, and Siavash Mirarab. “On the Impact of Contaminants on the Accuracy of Genome Skimming and the Effectiveness of Exclusion Read Filters.” BioRxiv (2019), 831941. [doi:10.1101/831941](https://doi.org/10.1101/831941).
 
 #### Published (including accepted and in press)
 
-{:start="60"}
-0. Balaban, Metin, Niema Moshiri, Uyen Mai, and Siavash Mirarab. “TreeCluster : Clustering Biological Sequences Using Phylogenetic Trees.” PLOS ONE (in press), 2019. [on BioRxiv: doi:10.1101/591388](https://www.biorxiv.org/content/10.1101/591388v1).
+{:start="63"}
+0. One Thousand Plant Transcriptomes Initiative Green (a co-first author) “One Thousand Plant Transcriptomes and the Phylogenomics of Green Plants.” Nature, 2019. [doi:10.1038/s41586-019-1693-2](https://www.nature.com/articles/s41586-019-1693-2).
+
+0. Rabiee, Maryam, and Siavash Mirarab. “Forcing external constraints on tree inference using ASTRAL.” BMC Genomics, 2019. Accepted.
+
+0. Balaban, Metin, Shahab Sarmashghi, and Siavash Mirarab. “APPLES: Fast Distance-Based Phylogenetic Placement.” Systematic Biology, , syz063 (2019). [doi:10.1093/sysbio/syz063](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz063/5572672?guestAccessKey=699e7670-addf-4f68-b84b-a90b15fbb2e6).
+	* Abstract appeared in [RECOMB 2019](https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf).
+
+0. Balaban, Metin, Niema Moshiri, Uyen Mai, Xingfan Jia, and Siavash Mirarab. “TreeCluster: Clustering Biological Sequences Using Phylogenetic Trees.”  PLOS ONE 14, no. 8 (2019): e0221068. [doi:10.1371/journal.pone.0221068](https://doi.org/10.1371/journal.pone.0221068).
 	* Presented at GLBIO 2019.
+
 0. Houde, Peter, Edward L Braun, Nitish Narula, Uriel Minjares, and Siavash Mirarab. “Phylogenetic Signal of Indels and the Neoavian Radiation.” Diversity 11, no. 7 (2019): 108. [doi:10.3390/d11070108](https://doi.org/10.3390/d11070108). 
 0. Rabiee, Maryam, and Siavash Mirarab. “INSTRAL: Discordance-Aware Phylogenetic Placement Using Quartet Scores.” Systematic Biology, early access (2019). [doi:10.1093/sysbio/syz045](https://doi.org/10.1093/sysbio/syz045).
 0. Chen, Lei, Qiang Qiu, Yu Jiang, Kun Wang, Zeshan Lin, Zhipeng Li, Faysal Bibi, et al. “Large-Scale Ruminant Genome Sequencing Provides Insights into Their Evolution and Distinct Traits.” Science 364, no. 6446 (2019): eaav6202. [10.1126/science.aav6202](https://doi.org/10.1126/science.aav6202).

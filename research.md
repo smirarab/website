@@ -69,7 +69,12 @@ In addition, our work has been covered in the press, and we have been presenting
 
 ### Our work in press
 
-
+* Related to 1KP:
+   * [UCSD Press release](http://jacobsschool.ucsd.edu/news/news_releases/release.sfe?id=2880)
+   * [UIUC](https://cs.illinois.edu/news/study-provides-framework-1-billion-years-green-plant-evolution)
+   * [CANR](https://www.canr.msu.edu/news/study-provides-framework-for-1-billion-years-of-green-plant-evolution)
+   * [Eurika alert](https://eurekalert.org/pub_releases/2019-10/ddps-spf102319.php)
+ 
 * We worked on the [avian phylogenomic](http://avian.genomics.cn/en/) project. A set of Science papers resulting from this effort came out on Dec 11, 2014. 
    *  See the [collection at sciencemag.org](http://www.sciencemag.org/content/346/6215.toc)
    *  Stories that highlight the methodological contributions appeared in
