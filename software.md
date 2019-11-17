@@ -22,7 +22,7 @@ title: Tools/Data
     * [Erfan](https://github.com/esayyari): 
         * [DISTIQUE](https://esayyari.github.io/DISTIQUE.html): species tree inference using distance
         * [DiscoVista](https://github.com/esayyari/DiscoVista): A visualization tool for showing discordance among gene trees and species trees
-	* [TADA](https://github.com/tada-alg/TADA): Data augmentation for learning from microbiome compositional data
+        * [TADA](https://github.com/tada-alg/TADA): Data augmentation for learning from microbiome compositional data
     * [Niema](https://github.com/niemasd):
         * [FAVITES](https://github.com/niemasd/FAVITES): Simulation of HIV on social netowrks
         * [Dual-birth](https://github.com/niemasd/Dual-Birth-Model): a set of scripts to work with the dual-birth model
