@@ -8,8 +8,12 @@ title: Students
 * [Uyen Mai (CSE)](https://github.com/uym2)
 * [Maryam Rabiee Hashemi (CSE)](https://github.com/maryamrabiee)
 * [Chao Zhang](https://github.com/chaoszhang)
-* [Metin Balaban](https://github.com/)
-* [Sina Malekian](https://github.com/)
+* [Metin Balaban](https://balabanmetin.github.io/)
+* [Nora Rachtman](https://github.com/noraracht/)
+
+### MS Students
+* Yueyu Jiang
+* Sina Malekian
 
 ### Alumni
 
