@@ -24,7 +24,7 @@ title: Presentations
 * December 18, ENABLE. [slides](https://drive.google.com/file/d/1GZZiwH7NSGZ50HOxPyCw4uglH_ydeLO_/view?usp=sharing)
 * November 07, [IPAM](http://www.ipam.ucla.edu/programs/workshops/workshop-iii-hpc-for-computationally-and-data-intensive-problems/?tab=speaker-list). [slides](https://drive.google.com/file/d/1rQRnne-ebhFsAmXaxhg320knMWV3bzza/view?usp=sharing)
 * August, 17, [Evolution meetings](http://tandy.cs.illinois.edu/PhyloSynth-Symp2018.html). 
-* July 6, [ISMB](https://www.iscb.org/ismb2018-program/ismb2018-tutorials#am4). [slides]({{ site.url }}/assets/2018-Lecture_Siavash_phylogenomics.pdf)
+* July 6, [ISMB](https://www.iscb.org/ismb2018-program/ismb2018-tutorials#am4). [slides](https://drive.google.com/file/d/1MHNL43J7Opsiia6d0_JXbGHbSI4Ao7uQ/view?usp=sharing)
 
 ### 2017
 
