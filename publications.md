@@ -9,11 +9,18 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 
 #### Preprints, bookchapters, and accepted conference papers
 0. Siavash Mirarab. “Species Tree Estimation Using ASTRAL: Practical Considerations.” arXiv 1904.03826 (2019) [arXiv:1904.03826](https://arxiv.org/pdf/1904.03826.pdf)
-0. Rachtman, Eleonora, Metin Balaban, Vineet Bafna, and Siavash Mirarab. “On the Impact of Contaminants on the Accuracy of Genome Skimming and the Effectiveness of Exclusion Read Filters.” BioRxiv (2019), 831941. [doi:10.1101/831941](https://doi.org/10.1101/831941).
+0. Rabiee, Maryam, and Siavash Mirarab. “SODA: Multi-Locus Species Delimitation Using Quartet Frequencies.” BioRxiv, 2019, 869396. [doi:10.1101/869396](https://doi.org/10.1101/869396).
+0. Zhang, Chao, Celine Scornavacca, Erin Molloy, and Siavash Mirarab. “ASTRAL-Pro: Quartet-Based Species Tree Inference despite Paralogy.” BioRxiv, 2019, 2019.12.12.874727. [doi:10.1101/2019.12.12.874727](https://doi.org/10.1101/2019.12.12.874727).
+0. Mai, Uyen, and Siavash Mirarab. “Log Transformation Improves Dating of Phylogenies.” BioRxiv, January 1, 2019, 2019.12.20.885582. [doi:10.1101/2019.12.20.885582](https://doi.org/10.1101/2019.12.20.885582).
+	* Accepted for RECOMB 2020
+0. Moshiri, Niema, Davey M Smith, and Siavash Mirarab. “HIV Care Prioritization Using Phylogenetic Branch Length.” BioRxiv, January 1, 2019, 2019.12.20.885202. [doi:10.1101/2019.12.20.885202](https://www.biorxiv.org/content/10.1101/2019.12.20.885202v1).
 
 #### Published (including accepted and in press)
 
-{:start="63"}
+{:start="65"}
+0. Rachtman, Eleonora, Metin Balaban, Vineet Bafna, and Siavash Mirarab. “On the Impact of Contaminants on the Accuracy of Genome Skimming and the Effectiveness of Exclusion Read Filters.” Molecular Ecology Resources. *In press*. Also available on BioRxiv (2020), 831941. [doi:10.1101/831941](https://doi.org/10.1101/831941).
+0. Zhu, Qiyun, Uyen Mai, Wayne Pfeiffer, Stefan Janssen, Francesco Asnicar, Jon G. Sanders, Pedro Belda-Ferre, Al-Ghalith, Gabriel A., Evguenia Kopylova, Daniel McDonald, Tomasz Kosciolek, John B Yin, Shi Huang, Nimaichand Salam, Jian-yu Jiao, Zijun Wu, Zhenjiang Z. Xu, Kalen Cantrell, Yimeng Yang, Erfan Sayyari, Maryam Rabiee, James T Morton, Sheila Podell, Dan Knights, Wen-jun Li, Curtis Huttenhower, Nicola Segata, Larry Smarr, Siavash Mirarab, Rob Knight. “Phylogenomics of 10,575 Genomes Reveals Evolutionary Proximity between Domains Bacteria and Archaea.” Nature Communications 10, no. 1 (2019): 5477. [doi:10.1038/s41467-019-13443-4](https://doi.org/10.1038/s41467-019-13443-4).
+
 0. One Thousand Plant Transcriptomes Initiative Green (a co-first author) “One Thousand Plant Transcriptomes and the Phylogenomics of Green Plants.” Nature, 2019. [doi:10.1038/s41586-019-1693-2](https://www.nature.com/articles/s41586-019-1693-2).
 
 0. Rabiee, Maryam, and Siavash Mirarab. “Forcing external constraints on tree inference using ASTRAL.” BMC Genomics, 2019. Accepted.

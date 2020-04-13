@@ -3,6 +3,12 @@ layout: page
 title: Presentations
 ---
 
+### 2020
+
+* January 11, [PAG](https://plan.core-apps.com/pag_2020/event/94debacbcec89b6414ff757859c9b705). [slides](https://drive.google.com/file/d/1vE5zYZvY4K-w7c943KW8qvjRc4ysnlit/view?usp=sharing). 
+* January 3, SSB meeting, [slides for ASTRAL-Pro](https://drive.google.com/file/d/1uXP3k7o1FTMauYiXxrcu4iicLhEpUxgl/view?usp=sharing)
+                          [ASTRAL tutorial](https://drive.google.com/file/d/1uB_IKsm7wDBdyJaE7O1NxKby-Bn9WWvc/view?usp=sharing)
+
 ### 2019
 
 * October 15, USC [slides](https://drive.google.com/file/d/1souehkmzF0VnQVPlt8fXuhomeZLsq-Bd/view?usp=sharing).
@@ -10,15 +16,15 @@ title: Presentations
 * September 7, [MMM Workshop](https://sites.google.com/view/mmm2019/home). [slides](https://drive.google.com/file/d/1MGYrE-n_1oG-yRpD0hKaIL3nwhaON0ca/view?usp=sharing)
 * August 29, [VGP](https://www.eventbrite.com/e/the-g10k-vgpebp-meeting-tickets-59112745814?aff=ebdshpsearchautocomplete). [slides](https://drive.google.com/file/d/1LJ9dsJjuv8HgmeGy8zomu09FkVgZN8p0/view?usp=sharing)
 * August 2, [CGSI](http://computationalgenomics.bioinformatics.ucla.edu/schedule/). [slides](https://drive.google.com/file/d/1Km73hjE5DbFWzUNwa4_DEwcusnDwOAzl/view?usp=sharing)
-* July 23, [ISMB](https://www.iscb.org/cms_addon/conferences/ismbeccb2019/proceedings.php). [slides]({{ site.url}}/assets/2019-ISMB.pdf). 
-* January 18, [PAG](https://pag.confex.com/pag/xxvii/meetingapp.cgi/Paper/36191). [slides]({{ site.url}}/assets/2019-pag-advances.pdf). 
+* July 23, [ISMB](https://www.iscb.org/cms_addon/conferences/ismbeccb2019/proceedings.php). [slides](https://drive.google.com/file/d/1WKLs70uk5heklq37Dw2ygwM5KGBShdqa/view?usp=sharing). 
+* January 18, [PAG](https://pag.confex.com/pag/xxvii/meetingapp.cgi/Paper/36191). [slides](https://drive.google.com/file/d/1Nu6LiBM3xipw9idJnvpijMCHQiqwKvi-/view?usp=sharing). 
 
 ### 2018
 
-* December 18, ENABLE. [slides]({{ site.url}}/assets/2018-enable.pdf)
-* November 07, [IPAM](http://www.ipam.ucla.edu/programs/workshops/workshop-iii-hpc-for-computationally-and-data-intensive-problems/?tab=speaker-list). [slides]({{ site.url}}/assets/2018-ipam.pdf)
+* December 18, ENABLE. [slides](https://drive.google.com/file/d/1GZZiwH7NSGZ50HOxPyCw4uglH_ydeLO_/view?usp=sharing)
+* November 07, [IPAM](http://www.ipam.ucla.edu/programs/workshops/workshop-iii-hpc-for-computationally-and-data-intensive-problems/?tab=speaker-list). [slides](https://drive.google.com/file/d/1rQRnne-ebhFsAmXaxhg320knMWV3bzza/view?usp=sharing)
 * August, 17, [Evolution meetings](http://tandy.cs.illinois.edu/PhyloSynth-Symp2018.html). 
-* July 6, [ISMB](https://www.iscb.org/ismb2018-program/ismb2018-tutorials#am4). [slides]({{ site.url }}/assets/2018-Lecture_Siavash_phylogenomics.pdf)
+* July 6, [ISMB](https://www.iscb.org/ismb2018-program/ismb2018-tutorials#am4). [slides](https://drive.google.com/file/d/1MHNL43J7Opsiia6d0_JXbGHbSI4Ao7uQ/view?usp=sharing)
 
 ### 2017
 
