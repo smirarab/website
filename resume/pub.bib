@@ -875,26 +875,45 @@ year = {2017}
 }
 
 @article{APPLES,
+	abstract = {Placing a new species on an existing phylogeny has increasing relevance to several applications. Placement can be used to update phylogenies in a scalable fashion and can help identify unknown query samples using (meta-)barcoding, skimming, or metagenomic data. Maximum likelihood (ML) methods of phylogenetic placement exist, but these methods are not scalable to reference trees with many thousands of leaves, limiting their ability to enjoy benefits of dense taxon sampling in modern reference libraries. They also rely on assembled sequences for the reference set and aligned sequences for the query. Thus, ML methods cannot analyze data sets where the reference consists of unassembled reads, a scenario relevant to emerging applications of genome skimming for sample identification. We introduce APPLES, a distance-based method for phylogenetic placement. Compared to ML, APPLES is an order of magnitude faster and more memory efficient, and unlike ML, it is able to place on large backbone trees (tested for up to 200,000 leaves). We show that using dense references improves accuracy substantially so that APPLES on dense trees is more accurate than ML on sparser trees, where it can run. Finally, APPLES can accurately identify samples without assembled reference or aligned queries using kmer-based distances, a scenario that ML cannot handle. APPLES is available publically at github.com/balabanmetin/apples.},
 	author = {Balaban, Metin and Sarmashghi, Shahab and Mirarab, Siavash},
 	doi = {10.1093/sysbio/syz063},
+	editor = {Posada, David},
+	file = {:Users/smirarab/Research/papers/syz063.pdf:pdf},
 	issn = {1063-5157},
-	journal = {Systematic Biology (also appeared in RECOMB 2019)},
-	pages = {syz063},
-	title = {{APPLES: Scalable Distance-based Phylogenetic Placement with or without Alignments}},
-	url = {https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz063/5572672},
-	year = {2019}
+	journal = {Systematic Biology},
+	number = {3},
+	pages = {566--578},
+	title = {{APPLES: Scalable Distance-Based Phylogenetic Placement with or without Alignments}},
+	url = {https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz063/5572672 https://academic.oup.com/sysbio/article/69/3/566/5572672},
+	volume = {69},
+	year = {2020}
 }
 
 @article{instral,
-	abstract = {Phylogenomic analyses have increasingly adopted species tree reconstruction using methods that account for gene tree discordance using pipelines that require both human effort and computational resources. As the number of available genomes continues to increase, a new problem is facing researchers. Once more species become available, they have to repeat the whole process from the beginning because updating species trees is currently not possible. However, the de novo inference can be prohibitively costly in human effort or machine time. In this article, we introduce INSTRAL, a method that extends ASTRAL to enable phylogenetic placement. INSTRAL is designed to place a new species on an existing species tree after sequences from the new species have already been added to gene trees; thus, INSTRAL is complementary to existing placement methods that update gene trees. [ASTRAL; ILS; phylogenetic placement; species tree reconstruction.]},
 	author = {Rabiee, Maryam and Mirarab, Siavash},
 	doi = {10.1093/sysbio/syz045},
+	editor = {Posada, David},
+	file = {:Users/smirarab/Research/papers/syz045.pdf:pdf},
 	issn = {1063-5157},
 	journal = {Systematic Biology},
+	mendeley-groups = {mine,comprehensive},
+	number = {2},
+	pages = {384--391},
 	title = {{INSTRAL: Discordance-Aware Phylogenetic Placement Using Quartet Scores}},
 	url = {https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz045/5530610},
-	volume = {syz045},
-	year = {2019}
+	volume = {69},
+	year = {2020}
+}
+
+@article{MISA,
+	author = {Balaban, Metin and Mirarab, Siavash},
+	doi = {10.1093/bioinformatics/btaa489},
+	file = {:Users/smirarab/Research/papers/Mixed{\_}ISMB(1).pdf:pdf},
+	journal = {Bioinformatics (ISMB special issue)},
+	title = {{Phylogenetic double placement of mixed samples}},
+	volume = {in press},
+	year = {2020}
 }
 
 
@@ -1005,5 +1024,67 @@ pages = {1755--0998.13135},
 title = {{The impact of contaminants on the accuracy of genome skimming and the effectiveness of exclusion read filters}},
 url = {http://biorxiv.org/content/early/2019/11/05/831941.abstract https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13135},
 year = {2020}
+}
+
+
+@article{apro,
+	author = {Zhang, Chao and Scornavacca, Celine and Molloy, Erin and Mirarab, Siavash},
+	doi = {10.1101/2019.12.12.874727},
+	file = {:Users/smirarab/Research/papers/2019.12.12.874727v2.full (1).pdf:pdf},
+	journal = {Molecular Biology and Evolution},
+	title = {{ASTRAL-Pro: quartet-based species tree inference despite paralogy}},
+	url = {http://biorxiv.org/content/early/2019/12/13/2019.12.12.874727.abstract},
+	volume = {in press},
+	year = {2020}
+}
+
+
+@article{Asnicar2020,
+	author = {Asnicar, Francesco and Thomas, Andrew Maltez and Beghini, Francesco and Mengoni, Claudia and Manara, Serena and Manghi, Paolo and Zhu, Qiyun and Bolzan, Mattia and Cumbo, Fabio and May, Uyen and Sanders, Jon G and Zolfo, Moreno and Kopylova, Evguenia and Pasolli, Edoardo and Knight, Rob and Mirarab, Siavash and Huttenhower, Curtis and Segata, Nicola},
+	doi = {10.1038/s41467-020-16366-7},
+	file = {:Users/smirarab/Research/papers/s41467-020-16366-7.pdf:pdf},
+	isbn = {0348556977},
+	issn = {2041-1723},
+	journal = {Nature Communications},
+	number = {1},
+	pages = {2500},
+	publisher = {Springer US},
+	title = {{Precise phylogenetic analysis of microbial isolates and genomes from metagenomes using PhyloPhlAn 3.0}},
+	url = {http://dx.doi.org/10.1038/s41467-020-16366-7 http://www.nature.com/articles/s41467-020-16366-7},
+	volume = {11},
+	year = {2020}
+}
+
+@article{Rabiee2020,
+	author = {Rabiee, Maryam and Mirarab, Siavash},
+	doi = {10.1186/s12864-020-6607-z},
+	file = {:Users/smirarab/Research/papers/Rabiee{\_}et{\_}al-2020-BMC{\_}Genomics.pdf:pdf},
+	issn = {1471-2164},
+	journal = {BMC Genomics},
+	keywords = {ASTRAL,Constrained tree search,RF distance,Tree completion,astral,constrained tree search,rf distance,tree completion},
+	number = {S2},
+	pages = {218},
+	publisher = {BMC Genomics},
+	title = {{Forcing external constraints on tree inference using ASTRAL}},
+	url = {http://dx.doi.org/10.1186/s12864-020-6607-z https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6607-z},
+	volume = {21},
+	year = {2020}
+}
+
+@article{skimming,
+	author = {Bohmann, Kristine and Bafna, Vineet and Mirarab, Siavash and Gilbert, M. Thomas P.},
+	doi = {10.22541/au.158274776.61753752},
+	journal = {Molecular Ecology},
+	title = {{Beyond DNA barcoding: The unrealised potential of genome skim data in sample identification}},
+	volume = {in press},
+	year = {2020}
+}
+
+@article{Tilic2020,
+	author = {Tilic, Ekin and Sayyari, Erfan and Stiller, Josefin and Mirarab, Siavash and Rouse, Greg W},
+	journal = {Molecular Phylogenetics and Evolution},
+	title = {{More is needed — Thousands of loci are required to elucidate the relationships of the ‘flowers of the sea' (Sabellida, Annelida)}},
+	year = {2020},
+	volume = {in press},
 }
 
