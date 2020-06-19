@@ -5,9 +5,20 @@ title: Presentations
 
 ### 2020
 
-* January 11, [PAG](https://plan.core-apps.com/pag_2020/event/94debacbcec89b6414ff757859c9b705). [slides](https://drive.google.com/file/d/1vE5zYZvY4K-w7c943KW8qvjRc4ysnlit/view?usp=sharing). 
-* January 3, SSB meeting, [slides for ASTRAL-Pro](https://drive.google.com/file/d/1uXP3k7o1FTMauYiXxrcu4iicLhEpUxgl/view?usp=sharing)
-                          [ASTRAL tutorial](https://drive.google.com/file/d/1uB_IKsm7wDBdyJaE7O1NxKby-Bn9WWvc/view?usp=sharing)
+* Feb 29, [SysBioDiv](https://twitter.com/sysbiodiv)
+	* [ASTRAL](https://drive.google.com/file/d/196C1WUjI8ujvfZVxDmwRU9SXhE4sAIK3/view?usp=sharing)
+	* [Gene trees](https://drive.google.com/file/d/19FQxsTDrOZFjYA6GtEqlbHcHcH9ME5I5/view?usp=sharing)
+	* [ASTRAL tutorial](https://drive.google.com/file/d/19K7sw-BPOJr6E9h-UZUWVyjBUNkfQPqo/view?usp=sharing)
+	* [LocalPP and quartet score](https://drive.google.com/file/d/19OlFLPhD2Qe8BjoC23zEs3cxubmCTmN5/view?usp=sharing)
+	* [ASTRAL-Pro](https://drive.google.com/file/d/19N2j-2RQVXkxaAQ3ZefZcfIVLTy7tgND/view?usp=sharing)
+	* [Filtering and Treeshrink](https://drive.google.com/file/d/19MuzhrpFtlcgKEPHiw9fvzDmBLlt7Hrc/view?usp=sharing)
+* Feb 28, Zoological Society [slides on genome skimming](https://drive.google.com/file/d/19cOzk0xB941Ig4yVZ4sq1hruNhvh0f_m/view?usp=sharing)
+* Feb 19, B10K,  [slides on ASTRAL-Pro](https://drive.google.com/file/d/19jyoUgrcvIIpqmlmUyEkFcJcXqAVboiC/view?usp=sharing)
+* Feb 6, [ITA](https://ita.ucsd.edu/ws/schedule2020/) [slides on genome skimming](https://drive.google.com/file/d/18cGM3rC5NeWhtmZwIaQvcTW11ztHrn1S/view?usp=sharing)
+* January 11, [PAG](https://plan.core-apps.com/pag_2020/event/94debacbcec89b6414ff757859c9b705). [slides on 1kp](https://drive.google.com/file/d/1vE5zYZvY4K-w7c943KW8qvjRc4ysnlit/view?usp=sharing). 
+* January 3, SSB meeting, 
+	* [slides for ASTRAL-Pro](https://drive.google.com/file/d/1uXP3k7o1FTMauYiXxrcu4iicLhEpUxgl/view?usp=sharing)
+	* [ASTRAL tutorial](https://drive.google.com/file/d/1uB_IKsm7wDBdyJaE7O1NxKby-Bn9WWvc/view?usp=sharing)
 
 ### 2019
 

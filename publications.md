@@ -10,23 +10,42 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 #### Preprints, bookchapters, and accepted conference papers
 0. Siavash Mirarab. “Species Tree Estimation Using ASTRAL: Practical Considerations.” arXiv 1904.03826 (2019) [arXiv:1904.03826](https://arxiv.org/pdf/1904.03826.pdf)
 0. Rabiee, Maryam, and Siavash Mirarab. “SODA: Multi-Locus Species Delimitation Using Quartet Frequencies.” BioRxiv, 2019, 869396. [doi:10.1101/869396](https://doi.org/10.1101/869396).
-0. Zhang, Chao, Celine Scornavacca, Erin Molloy, and Siavash Mirarab. “ASTRAL-Pro: Quartet-Based Species Tree Inference despite Paralogy.” BioRxiv, 2019, 2019.12.12.874727. [doi:10.1101/2019.12.12.874727](https://doi.org/10.1101/2019.12.12.874727).
 0. Mai, Uyen, and Siavash Mirarab. “Log Transformation Improves Dating of Phylogenies.” BioRxiv, January 1, 2019, 2019.12.20.885582. [doi:10.1101/2019.12.20.885582](https://doi.org/10.1101/2019.12.20.885582).
 	* Accepted for RECOMB 2020
 0. Moshiri, Niema, Davey M Smith, and Siavash Mirarab. “HIV Care Prioritization Using Phylogenetic Branch Length.” BioRxiv, January 1, 2019, 2019.12.20.885202. [doi:10.1101/2019.12.20.885202](https://www.biorxiv.org/content/10.1101/2019.12.20.885202v1).
 
 #### Published (including accepted and in press)
 
-{:start="65"}
-0. Rachtman, Eleonora, Metin Balaban, Vineet Bafna, and Siavash Mirarab. “On the Impact of Contaminants on the Accuracy of Genome Skimming and the Effectiveness of Exclusion Read Filters.” Molecular Ecology Resources. *In press*. Also available on BioRxiv (2020), 831941. [doi:10.1101/831941](https://doi.org/10.1101/831941).
+{:start="70"}
+0. Kristine Bohmann, Vineet Bafna, Siavash Mirarab, and M. Thomas P. Gilbert. Beyond DNA barcoding: The unrealised potential of genome skim data in sample identification. Molecular Ecology, in press (2020)  [doi:10.1111/mec.15507](https://doi.org/10.1111/mec.15507).
+0. Metin Balaban and Siavash Mirarab. “Phylogenetic double placement of mixed samples.” Bioinformatics (in press). 
+	* Accepted for ISMB 2020
+0. Ekin Tilic, Erfan Sayyari, Josefin Stiller, Siavash Mirarab, and Greg W Rouse. More is needed Thousands of loci are required to elucidate the relationships of the flowers of the sea’ (Sabellida, Annelida). Molecular Phylogenetics and Evolution, in press, 2020.
+
+0. Zhang, Chao, Celine Scornavacca, Erin Molloy, and Siavash Mirarab. “ASTRAL-Pro: Quartet-Based Species Tree Inference despite Paralogy.” Molecular Biology and Evolution, in press 2020. [available on bioRxiv](https://doi.org/10.1101/2019.12.12.874727).
+
+0. Asnicar, Francesco, Andrew Maltez Thomas, Francesco Beghini, Claudia Mengoni, Serena Manara, Paolo Manghi, Qiyun Zhu, Bolzan, Mattia
+Fabio Cumbo,
+Uyen May,
+Jon G Sanders,
+Moreno Zolfo,
+Evguenia Kopylova,
+Edoardo Pasolli,
+Rob Knight,
+Siavash Mirarab,
+Curtis Huttenhower,
+Nicola Segata. “Precise Phylogenetic Analysis of Microbial Isolates and Genomes from Metagenomes Using PhyloPhlAn 3.0.” Nature Communications 11, no. 1 (2020): 2500. [doi:10.1038/s41467-020-16366-7](https://doi.org/10.1038/s41467-020-16366-7).
+
+0. Balaban, Metin, Shahab Sarmashghi, and Siavash Mirarab. “APPLES: Scalable Distance-Based Phylogenetic Placement with or without Alignments.” Systematic Biology 69, no. 3 (2020): 566–78.[doi:10.1093/sysbio/syz063](https://academic.oup.com/sysbio/article/69/3/566/5572672?guestAccessKey=95318e8a-039e-4e92-b954-b58f64fd2fc2).
+	* Abstract appeared in [RECOMB 2019](https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf).
+
+0. Rachtman, Eleonora, Metin Balaban, Vineet Bafna, and Siavash Mirarab. “The Impact of Contaminants on the Accuracy of Genome Skimming and the Effectiveness of Exclusion Read Filters.” Molecular Ecology Resources, (2020): 1755-0998.13135. [doi:10.1111/1755-0998.13135](https://doi.org/10.1111/1755-0998.13135).
+
+0. Rabiee, Maryam, and Siavash Mirarab. “Forcing External Constraints on Tree Inference Using ASTRAL.” BMC Genomics 21, no. S2 (2020): 218. [doi:10.1186/s12864-020-6607-z](https://doi.org/10.1186/s12864-020-6607-z).
+
 0. Zhu, Qiyun, Uyen Mai, Wayne Pfeiffer, Stefan Janssen, Francesco Asnicar, Jon G. Sanders, Pedro Belda-Ferre, Al-Ghalith, Gabriel A., Evguenia Kopylova, Daniel McDonald, Tomasz Kosciolek, John B Yin, Shi Huang, Nimaichand Salam, Jian-yu Jiao, Zijun Wu, Zhenjiang Z. Xu, Kalen Cantrell, Yimeng Yang, Erfan Sayyari, Maryam Rabiee, James T Morton, Sheila Podell, Dan Knights, Wen-jun Li, Curtis Huttenhower, Nicola Segata, Larry Smarr, Siavash Mirarab, Rob Knight. “Phylogenomics of 10,575 Genomes Reveals Evolutionary Proximity between Domains Bacteria and Archaea.” Nature Communications 10, no. 1 (2019): 5477. [doi:10.1038/s41467-019-13443-4](https://doi.org/10.1038/s41467-019-13443-4).
 
 0. One Thousand Plant Transcriptomes Initiative Green (a co-first author) “One Thousand Plant Transcriptomes and the Phylogenomics of Green Plants.” Nature, 2019. [doi:10.1038/s41586-019-1693-2](https://www.nature.com/articles/s41586-019-1693-2).
-
-0. Rabiee, Maryam, and Siavash Mirarab. “Forcing external constraints on tree inference using ASTRAL.” BMC Genomics, 2019. Accepted.
-
-0. Balaban, Metin, Shahab Sarmashghi, and Siavash Mirarab. “APPLES: Fast Distance-Based Phylogenetic Placement.” Systematic Biology, , syz063 (2019). [doi:10.1093/sysbio/syz063](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz063/5572672?guestAccessKey=699e7670-addf-4f68-b84b-a90b15fbb2e6).
-	* Abstract appeared in [RECOMB 2019](https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf).
 
 0. Balaban, Metin, Niema Moshiri, Uyen Mai, Xingfan Jia, and Siavash Mirarab. “TreeCluster: Clustering Biological Sequences Using Phylogenetic Trees.”  PLOS ONE 14, no. 8 (2019): e0221068. [doi:10.1371/journal.pone.0221068](https://doi.org/10.1371/journal.pone.0221068).
 	* Presented at GLBIO 2019.
