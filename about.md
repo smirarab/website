@@ -12,10 +12,10 @@ title: About
 I obtained my Ph.D. from the Computer Science department at UT-Austin and was advised by [Prof. Tandy Warnow](http://tandy.cs.illinois.edu) and [Prof. Keshav Pingali](http://www.cs.utexas.edu/~pingali/). 
 My Ph.D. research was supported by an NSERC PGS award and [Howard Hughes Medical Institute international student fellowship](http://www.hhmi.org/news/20120725.html). 
 My [dissertation](https://repositories.lib.utexas.edu/bitstream/handle/2152/31377/MIRARABBAYGI-DISSERTATION-2015.pdf) won the [honorable mention for the 2015 ACM Doctoral Dissertation Award](http://www.acm.org/awards/2015-doctoral-dissertation). 
+More recently, I have been a recipient of the [2017 Sloan Research Fellowship](https://sloan.org/fellowships/2017-Fellows) in Computational & Evolutionary Molecular Biology, and the [NSF CAREER award](https://nsf.gov/awardsearch/showAward?AWD_ID=1845967&HistoricalAwards=false).
+I contribute to many international projects and am part of the leadership team of [Vertebrate Genome Project](https://vertebrategenomesproject.org/who-we-are).
 
-
-I am recipient of the [2017 Sloan Research Fellowship](https://sloan.org/fellowships/2017-Fellows) in Computational & Evolutionary Molecular Biology and the [NSF CAREER award](https://nsf.gov/awardsearch/showAward?AWD_ID=1845967&HistoricalAwards=false).
-I am part of the leadership team of [Vertebrate Genome Project](https://vertebrategenomesproject.org/who-we-are).
+I am not offended by any pronouncination of my name, so, don't worry about it. If you wonder, [here]({{ site.url }}//assets/name.m4a) is how I pronounce it.
 
 My [research](research.html) area is **computational biology** and my lab develops methods that target large-scale datasets. 
 My specific areas of research span many topics, including, reconstruction of species trees from gene trees (phylogenomics),
