@@ -10,17 +10,17 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 #### Preprints, bookchapters, and accepted conference papers
 0. Siavash Mirarab. “Species Tree Estimation Using ASTRAL: Practical Considerations.” arXiv 1904.03826 (2019) [arXiv:1904.03826](https://arxiv.org/pdf/1904.03826.pdf)
 0. Rabiee, Maryam, and Siavash Mirarab. “SODA: Multi-Locus Species Delimitation Using Quartet Frequencies.” BioRxiv, 2019, 869396. [doi:10.1101/869396](https://doi.org/10.1101/869396).
-0. Mai, Uyen, and Siavash Mirarab. “Log Transformation Improves Dating of Phylogenies.” BioRxiv, January 1, 2019, 2019.12.20.885582. [doi:10.1101/2019.12.20.885582](https://doi.org/10.1101/2019.12.20.885582).
-	* Accepted for RECOMB 2020
 0. Moshiri, Niema, Davey M Smith, and Siavash Mirarab. “HIV Care Prioritization Using Phylogenetic Branch Length.” BioRxiv, January 1, 2019, 2019.12.20.885202. [doi:10.1101/2019.12.20.885202](https://www.biorxiv.org/content/10.1101/2019.12.20.885202v1).
 
 #### Published (including accepted and in press)
 
-{:start="70"}
-0. Kristine Bohmann, Vineet Bafna, Siavash Mirarab, and M. Thomas P. Gilbert. Beyond DNA barcoding: The unrealised potential of genome skim data in sample identification. Molecular Ecology, in press (2020)  [doi:10.1111/mec.15507](https://doi.org/10.1111/mec.15507).
-0. Metin Balaban and Siavash Mirarab. “Phylogenetic double placement of mixed samples.” Bioinformatics (in press). 
+{:start="71"}
+0. Mai, Uyen, and Siavash Mirarab. “Log Transformation Improves Dating of Phylogenies.” Molecular Biology and Evolution, in press 2020. [doi:10.1093/molbev/msaa222](https://doi.org/10.1093/molbev/msaa222), and on [bioRxiv](https://doi.org/10.1101/2019.12.20.885582).
+	* Abastract appeared in [RECOMB 2020](https://doi.org/10.1007/978-3-030-45257-5_31)
+0. Kristine Bohmann, Vineet Bafna, Siavash Mirarab, and M. Thomas P. Gilbert. Beyond DNA barcoding: The unrealised potential of genome skim data in sample identification. Molecular Ecology, (2020): mec.15507.  [doi:10.1111/mec.15507](https://doi.org/10.1111/mec.15507).
+0. Metin Balaban, and Siavash Mirarab. “Phylogenetic Double Placement of Mixed Samples.” Bioinformatics 36, no. Supplement 1 (2020):i335–43. [doi:10.1093/bioinformatics/btaa489](https://academic.oup.com/bioinformatics/article/36/Supplement_1/i335/5870522?guestAccessKey=3e638572-1004-49c8-aeb5-b98e1a4b4735).
 	* Accepted for ISMB 2020
-0. Ekin Tilic, Erfan Sayyari, Josefin Stiller, Siavash Mirarab, and Greg W Rouse. More is needed Thousands of loci are required to elucidate the relationships of the flowers of the sea’ (Sabellida, Annelida). Molecular Phylogenetics and Evolution, in press, 2020.
+0. Ekin Tilic, Erfan Sayyari, Josefin Stiller, Siavash Mirarab, and Greg W Rouse. “More Is Needed—Thousands of Loci Are Required to Elucidate the Relationships of the ‘Flowers of the Sea’ (Sabellida, Annelida).” Molecular Phylogenetics and Evolution 151 (2020): 106892. [10.1016/j.ympev.2020.106892](https://doi.org/10.1016/j.ympev.2020.106892).
 
 0. Zhang, Chao, Celine Scornavacca, Erin Molloy, and Siavash Mirarab. “ASTRAL-Pro: Quartet-Based Species Tree Inference despite Paralogy.” Molecular Biology and Evolution, in press 2020. [available on bioRxiv](https://doi.org/10.1101/2019.12.12.874727).
 

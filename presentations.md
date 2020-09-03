@@ -5,6 +5,9 @@ title: Presentations
 
 ### 2020
 
+* Aug 4, Bioinformatics Boot Camp for Ecology and Evolution, Zoom
+	* [Presentation](https://drive.google.com/file/d/1Z_DmbVYTX-9bNaFpOgARAJR8IVcZTwF6/view?usp=sharing)
+	* [Tutorial](https://github.com/smirarab/tutorials/blob/master/Skmer+APPLES+tutorial.md)
 * Feb 29, [SysBioDiv](https://twitter.com/sysbiodiv)
 	* [ASTRAL](https://drive.google.com/file/d/196C1WUjI8ujvfZVxDmwRU9SXhE4sAIK3/view?usp=sharing)
 	* [Gene trees](https://drive.google.com/file/d/19FQxsTDrOZFjYA6GtEqlbHcHcH9ME5I5/view?usp=sharing)
