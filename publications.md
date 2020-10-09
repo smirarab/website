@@ -10,46 +10,29 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 #### Preprints, bookchapters, and accepted conference papers
 0. Siavash Mirarab. “Species Tree Estimation Using ASTRAL: Practical Considerations.” arXiv 1904.03826 (2019) [arXiv:1904.03826](https://arxiv.org/pdf/1904.03826.pdf)
 0. Rabiee, Maryam, and Siavash Mirarab. “SODA: Multi-Locus Species Delimitation Using Quartet Frequencies.” BioRxiv, 2019, 869396. [doi:10.1101/869396](https://doi.org/10.1101/869396).
-0. Moshiri, Niema, Davey M Smith, and Siavash Mirarab. “HIV Care Prioritization Using Phylogenetic Branch Length.” BioRxiv, January 1, 2019, 2019.12.20.885202. [doi:10.1101/2019.12.20.885202](https://www.biorxiv.org/content/10.1101/2019.12.20.885202v1).
+0. Moshiri, Niema, Davey M Smith, and Siavash Mirarab. “HIV Care Prioritization Using Phylogenetic Branch Length.” BioRxiv,  2019, 2019.12.20.885202. [doi:10.1101/2019.12.20.885202](https://www.biorxiv.org/content/10.1101/2019.12.20.885202v1).
+0. Stepanauskas, Ramunas, Julia M Brown, Uyen Mai, Oliver Bezuidt, Maria Pachiadaki, Joe Brown, Steven Biller, Paul M Berube, Nicholas R Record, and Siavash Mirarab. “Gene Exchange Networks Define Species-like Units in Marine Prokaryotes.” BioRxiv, 2020, 2020.09.10.291518. [doi:10.1101/2020.09.10.291518](https://doi.org/10.1101/2020.09.10.291518).
+0. Zhang, Chao, Andrey V Bzikadze, Yana Safonova, and Siavash Mirarab. “Scalable Models of Antibody Evolution and Benchmarking of Clonal Tree Reconstruction Methods.” BioRxiv, 2020. [doi:10.1101/2020.09.17.302505](https://doi.org/10.1101/2020.09.17.302505).
 
 #### Published (including accepted and in press)
 
-{:start="71"}
-0. Mai, Uyen, and Siavash Mirarab. “Log Transformation Improves Dating of Phylogenies.” Molecular Biology and Evolution, in press 2020. [doi:10.1093/molbev/msaa222](https://doi.org/10.1093/molbev/msaa222), and on [bioRxiv](https://doi.org/10.1101/2019.12.20.885582).
-	* Abastract appeared in [RECOMB 2020](https://doi.org/10.1007/978-3-030-45257-5_31)
+{:start="73"}
+0. Mai, Uyen, and Siavash Mirarab. “Log Transformation Improves Dating of Phylogenies.” Molecular Biology and Evolution, msaa222, 2020. [doi:10.1093/molbev/msaa222](https://doi.org/10.1093/molbev/msaa222).
+	* Abstract appeared in [RECOMB 2020](https://doi.org/10.1007/978-3-030-45257-5_31)
 0. Kristine Bohmann, Vineet Bafna, Siavash Mirarab, and M. Thomas P. Gilbert. Beyond DNA barcoding: The unrealised potential of genome skim data in sample identification. Molecular Ecology, (2020): mec.15507.  [doi:10.1111/mec.15507](https://doi.org/10.1111/mec.15507).
 0. Metin Balaban, and Siavash Mirarab. “Phylogenetic Double Placement of Mixed Samples.” Bioinformatics 36, no. Supplement 1 (2020):i335–43. [doi:10.1093/bioinformatics/btaa489](https://academic.oup.com/bioinformatics/article/36/Supplement_1/i335/5870522?guestAccessKey=3e638572-1004-49c8-aeb5-b98e1a4b4735).
-	* Accepted for ISMB 2020
+	* As part of ISMB 2020.
 0. Ekin Tilic, Erfan Sayyari, Josefin Stiller, Siavash Mirarab, and Greg W Rouse. “More Is Needed—Thousands of Loci Are Required to Elucidate the Relationships of the ‘Flowers of the Sea’ (Sabellida, Annelida).” Molecular Phylogenetics and Evolution 151 (2020): 106892. [10.1016/j.ympev.2020.106892](https://doi.org/10.1016/j.ympev.2020.106892).
-
-0. Zhang, Chao, Celine Scornavacca, Erin Molloy, and Siavash Mirarab. “ASTRAL-Pro: Quartet-Based Species Tree Inference despite Paralogy.” Molecular Biology and Evolution, in press 2020. [available on bioRxiv](https://doi.org/10.1101/2019.12.12.874727).
-
-0. Asnicar, Francesco, Andrew Maltez Thomas, Francesco Beghini, Claudia Mengoni, Serena Manara, Paolo Manghi, Qiyun Zhu, Bolzan, Mattia
-Fabio Cumbo,
-Uyen May,
-Jon G Sanders,
-Moreno Zolfo,
-Evguenia Kopylova,
-Edoardo Pasolli,
-Rob Knight,
-Siavash Mirarab,
-Curtis Huttenhower,
-Nicola Segata. “Precise Phylogenetic Analysis of Microbial Isolates and Genomes from Metagenomes Using PhyloPhlAn 3.0.” Nature Communications 11, no. 1 (2020): 2500. [doi:10.1038/s41467-020-16366-7](https://doi.org/10.1038/s41467-020-16366-7).
-
+0. Zhang, Chao, Celine Scornavacca, Erin Molloy, and Siavash Mirarab. “ASTRAL-Pro: Quartet-Based Species Tree Inference despite Paralogy.” Molecular Biology and Evolution, msaa139, 2020. [doi:10.1093/molbev/msaa139](https://doi.org/10.1093/molbev/msaa139).
+0. Asnicar, Francesco, Andrew Maltez Thomas, Francesco Beghini, Claudia Mengoni, Serena Manara, Paolo Manghi, Qiyun Zhu, Bolzan, Mattia Fabio Cumbo, Uyen May, Jon G Sanders, Moreno Zolfo, Evguenia Kopylova, Edoardo Pasolli, Rob Knight, Siavash Mirarab, Curtis Huttenhower, Nicola Segata. “Precise Phylogenetic Analysis of Microbial Isolates and Genomes from Metagenomes Using PhyloPhlAn 3.0.” Nature Communications 11, no. 1 (2020): 2500. [doi:10.1038/s41467-020-16366-7](https://doi.org/10.1038/s41467-020-16366-7).
 0. Balaban, Metin, Shahab Sarmashghi, and Siavash Mirarab. “APPLES: Scalable Distance-Based Phylogenetic Placement with or without Alignments.” Systematic Biology 69, no. 3 (2020): 566–78.[doi:10.1093/sysbio/syz063](https://academic.oup.com/sysbio/article/69/3/566/5572672?guestAccessKey=95318e8a-039e-4e92-b954-b58f64fd2fc2).
 	* Abstract appeared in [RECOMB 2019](https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf).
-
 0. Rachtman, Eleonora, Metin Balaban, Vineet Bafna, and Siavash Mirarab. “The Impact of Contaminants on the Accuracy of Genome Skimming and the Effectiveness of Exclusion Read Filters.” Molecular Ecology Resources, (2020): 1755-0998.13135. [doi:10.1111/1755-0998.13135](https://doi.org/10.1111/1755-0998.13135).
-
 0. Rabiee, Maryam, and Siavash Mirarab. “Forcing External Constraints on Tree Inference Using ASTRAL.” BMC Genomics 21, no. S2 (2020): 218. [doi:10.1186/s12864-020-6607-z](https://doi.org/10.1186/s12864-020-6607-z).
-
 0. Zhu, Qiyun, Uyen Mai, Wayne Pfeiffer, Stefan Janssen, Francesco Asnicar, Jon G. Sanders, Pedro Belda-Ferre, Al-Ghalith, Gabriel A., Evguenia Kopylova, Daniel McDonald, Tomasz Kosciolek, John B Yin, Shi Huang, Nimaichand Salam, Jian-yu Jiao, Zijun Wu, Zhenjiang Z. Xu, Kalen Cantrell, Yimeng Yang, Erfan Sayyari, Maryam Rabiee, James T Morton, Sheila Podell, Dan Knights, Wen-jun Li, Curtis Huttenhower, Nicola Segata, Larry Smarr, Siavash Mirarab, Rob Knight. “Phylogenomics of 10,575 Genomes Reveals Evolutionary Proximity between Domains Bacteria and Archaea.” Nature Communications 10, no. 1 (2019): 5477. [doi:10.1038/s41467-019-13443-4](https://doi.org/10.1038/s41467-019-13443-4).
-
 0. One Thousand Plant Transcriptomes Initiative Green (a co-first author) “One Thousand Plant Transcriptomes and the Phylogenomics of Green Plants.” Nature, 2019. [doi:10.1038/s41586-019-1693-2](https://www.nature.com/articles/s41586-019-1693-2).
-
 0. Balaban, Metin, Niema Moshiri, Uyen Mai, Xingfan Jia, and Siavash Mirarab. “TreeCluster: Clustering Biological Sequences Using Phylogenetic Trees.”  PLOS ONE 14, no. 8 (2019): e0221068. [doi:10.1371/journal.pone.0221068](https://doi.org/10.1371/journal.pone.0221068).
 	* Presented at GLBIO 2019.
-
 0. Houde, Peter, Edward L Braun, Nitish Narula, Uriel Minjares, and Siavash Mirarab. “Phylogenetic Signal of Indels and the Neoavian Radiation.” Diversity 11, no. 7 (2019): 108. [doi:10.3390/d11070108](https://doi.org/10.3390/d11070108). 
 0. Rabiee, Maryam, and Siavash Mirarab. “INSTRAL: Discordance-Aware Phylogenetic Placement Using Quartet Scores.” Systematic Biology, early access (2019). [doi:10.1093/sysbio/syz045](https://doi.org/10.1093/sysbio/syz045).
 0. Chen, Lei, Qiang Qiu, Yu Jiang, Kun Wang, Zeshan Lin, Zhipeng Li, Faysal Bibi, et al. “Large-Scale Ruminant Genome Sequencing Provides Insights into Their Evolution and Distinct Traits.” Science 364, no. 6446 (2019): eaav6202. [10.1126/science.aav6202](https://doi.org/10.1126/science.aav6202).
@@ -85,14 +68,18 @@ Nicola Segata. “Precise Phylogenetic Analysis of Microbial Isolates and Genome
 
 ### PhD work
 
-{:start="32"}
+
+{:start="34"}
 0. Nguyen, Nam, Michael Nute, Siavash Mirarab and Tandy Warnow.  “HIPPI: Highly Accurate Protein Family Classification with Ensembles of HMMs”. BMC Genomics 17, no. 10 (2016): 89-100. [doi:10.1186/s12864-016-3097-0](http://doi.org/10.1186/s12864-016-3097-0).
+
 0. Tarver, James E, Mario Dos Reis, Siavash Mirarab, Raymond J Moran, Sean Parker, Joseph E O’Reilly, Benjamin L King, Mary J O’Connell, Robert J Asher, Tandy Warnow, Kevin J Peterson, Philip C J Donoghue, and Davide Pisani. “The Interrelationships of Placental Mammals and the Limits of Phylogenetic Inference.” Genome Biology and Evolution (2016): evv261. [doi:10.1093/gbe/evv261](http://gbe.oxfordjournals.org/cgi/content/long/evv261v1).
 
 0. Mirarab, Siavash, Md. Shamsuzzoha Bayzid, Bastien Boussau, and Tandy Warnow. 2015. “Response to Comment on ‘Statistical Binning Enables an Accurate Coalescent-Based Estimation of the Avian Tree.’” Science 350, no. 6257 (2015): 171. [doi:10.1126/science.aaa7719](http://www.sciencemag.org/content/350/6257/171.2.abstract).
 
 0. Cracraft, Joel, Peter Houde, Simon Y W Ho, David P Mindell, Jon Fjeldså, Bent Lindow, Scott V Edwards, Carsten Rahbek, Siavash Mirarab,
 Tandy Warnow, M Thomas P Gilbert, Guojie Zhang, Edward L Braun, Erich D Jarvis. “Response to Comment on ‘Whole-Genome Analyses Resolve Early Branches in the Tree of Life of Modern Birds.’” Science 349, no. 6255 (2015): 1460. [doi:10.1126/science.aab1578](http://www.sciencemag.org/content/349/6255/1460.2.abstract).
+
+0. Jarvis, Erich D, Siavash Mirarab, Andre J Aberer, Bo Li, Peter Houde, Cai Li, Simon Y W Ho, et al. “Phylogenomic Analyses Data of the Avian Phylogenomics Project.” GigaScience 4, no. 1 (2015): 1–9. [doi:10.1186/s13742-014-0038-1](https://doi.org/10.1186/s13742-014-0038-1).
 
 0. Davidson, Ruth, Pranjal Vachaspati, Siavash Mirarab, and Tandy Warnow. “Phylogenomic Species Tree Estimation in the Presence of Incomplete Lineage Sorting and Horizontal Gene Transfer.” BMC Genomics 16, Suppl 10 (2015): S1. [doi:10.1186/1471-2164-16-S10-S1](http://www.biomedcentral.com/1471-2164/16/S10/S1).
 
@@ -107,6 +94,8 @@ Tandy Warnow, M Thomas P Gilbert, Guojie Zhang, Edward L Braun, Erich D Jarvis. 
     
 0. Mirarab, Siavash, Nam Nguyen, Sheng Guo, Li-San Wang, Junhyong Kim, and Tandy Warnow. “PASTA: Ultra-Large Multiple Sequence Alignment for Nucleotide and Amino-Acid Sequences.” Journal of Computational Biology  22, no. 05 (2015): 377–386. [doi:10.1089/cmb.2014.0156](http://online.liebertpub.com/doi/abs/10.1089/cmb.2014.0156)
 	* an earlier version appeared at RECOMB 2014 proceedings (see below) 
+
+0. Matasci, Naim, Ling-Hong L.-H. Hung, Zhixiang Yan, E.J. Eric J Carpenter, N.J. Norman J Wickett, Siavash Mirarab, Nam Nguyen, et al. “Data Access for the 1,000 Plants (1KP) Project.” GigaScience 3, no. 1 (2014): 17. [doi:10.1186/2047-217X-3-17](https://doi.org/10.1186/2047-217X-3-17).
 
 0. Mirarab, Siavash, Md. Shamsuzzoha Bayzid, Bastien Boussau, and Tandy Warnow. “Statistical binning enables an accurate coalescent-based estimation of the avian tree.” Science 346, no. 6215 (2014). [doi:10.1126/science.1250463](http://www.sciencemag.org/content/346/6215/1250463.full)
 
@@ -134,10 +123,10 @@ Tandy Warnow, M Thomas P Gilbert, Guojie Zhang, Edward L Braun, Erich D Jarvis. 
 0. Nguyen, Nam, Siavash Mirarab, and Tandy Warnow. “MRL and SuperFine+ MRL: New Supertree Methods.” Algorithms for Molecular Biology 7, no. 1 (2012): 3. [doi:10.1186/1748-7188-7-3](http://www.almob.org/content/7/1/3/abstract).
 
 0. Mirarab, Siavash, and Tandy Warnow. “FastSP: Linear Time Calculation of Alignment Accuracy.” Bioinformatics 27 (2011): 3250–8. [doi:10.1093/bioinformatics/btr553](http://bioinformatics.oxfordjournals.org/content/27/23/3250.long).
-{:start="32"}
 {: reversed="reversed"}
 
 ### MS work
+{:start="9"}
 0. Mirarab, Siavash, Soroush Akhlaghi, and Ladan Tahvildari. “Size-Constrained Regression Test Case Selection Using Multicriteria Optimization.” Software Engineering, IEEE Transactions on 38, no. 4 (2012): 936–956.
 
 0. Do, Hyunsook, Siavash Mirarab, Ladan Tahvildari, and Gregg Rothermel. “The Effects of Time Constraints on Test Case Prioritization: A Series of Controlled Experiments.” Software Engineering, IEEE Transactions on 36, no. 5 (2010): 593–617.
@@ -155,5 +144,4 @@ Tandy Warnow, M Thomas P Gilbert, Guojie Zhang, Edward L Braun, Erich D Jarvis. 
 0. Mirarab, Siavash, and Ladan Tahvildari. “A Prioritization Approach for Software Test Cases Based on Bayesian Networks.” In Fundamental Approaches to Software Engineering, 276–290. Springer Berlin Heidelberg, 2007.
 
 0. Amoui, Mehdi, Siavash Mirarab, Sepand Ansari, and Caro Lucas. “A Genetic Algorithm Approach to Design Evolution Using Design Pattern Transformation.” International Journal of Information Technology and Intelligent Computing 1, no. 2 (2006): 235–244.
-{:start="9"}
 {: reversed="reversed"}
