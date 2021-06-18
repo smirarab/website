@@ -33,7 +33,7 @@ Refer to [this site](https://sites.google.com/eng.ucsd.edu/datasets/home) for mo
         * [DiscoVista](https://github.com/esayyari/DiscoVista): A visualization tool for showing discordance among gene trees and species trees
         * [TADA](https://github.com/tada-alg/TADA): Data augmentation for learning from microbiome compositional data
     * [Niema](https://github.com/niemasd):
-        * [FAVITES](https://github.com/niemasd/FAVITES): Simulation of HIV on social netowrks
+        * [FAVITES](https://github.com/niemasd/FAVITES): Simulation of HIV on social networks
         * [Dual-birth](https://github.com/niemasd/Dual-Birth-Model): a set of scripts to work with the dual-birth model
         * [TreeCluster](https://github.com/niemasd/TreeCluster): A tool for clustering leaves of phylogenetic tree in a principled way
     * [Maryam Rabiee](https://github.com/maryamrabiee)
@@ -44,5 +44,6 @@ Refer to [this site](https://sites.google.com/eng.ucsd.edu/datasets/home) for mo
         * [MISA](https://github.com/balabanmetin/misa)
     * [Chao Zhang](https://github.com/chaoszhang/A-pro)
         * [Astral-Pro](https://github.com/chaoszhang/A-pro)
-        
-
+    * [Shahab Sarmashghi](https://github.com/shahab-sarmashghi)
+        * [Skmer](https://github.com/shahab-sarmashghi/Skmer)
+        * [RESPECT](https://github.com/shahab-sarmashghi/RESPECT)

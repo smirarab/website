@@ -3,9 +3,17 @@ layout: page
 title: Presentations
 ---
 
+### 2021
+
+* April 14, Phyloseminars, [slides](https://drive.google.com/file/d/1fiAlPoI3BBukk7xbUY5LE5ndFdV_yRbl/view?usp=sharing), [Youtube](https://www.youtube.com/watch?v=pjCXxexKjus)
+* March 3, CGSI,  [slides](https://drive.google.com/file/d/1ffYvIm1pHr7kw8eMu_0HDYwZGaW2qav9/view?usp=sharing)
+* March 2, MAB Séminaire de Bioinformatique, Le Laboratoire d’Informatique, de Robotique et de Microélectronique de Montpellier (LIRMM), [slides](https://drive.google.com/file/d/1fdUrdXqMlL7AjMA_zLwNA-3y5NXDKBEC/view?usp=sharing)
+
 ### 2020
 
-* Aug 4, Bioinformatics Boot Camp for Ecology and Evolution, Zoom
+* Nov 18, Grainger Bioinformatics Center Symposium, Online, [slides](https://drive.google.com/open?id=1Zlb6qU-l67wfHnwbR8CL6fPe1fwSMbuD&authuser=smirarabbaygi%40eng.ucsd.edu&usp=drive_fs)
+* October 29, ASU Seminar series, Online, [slides](https://drive.google.com/file/d/1ZrmWfDEiV8EHIVRKzW0xRyLJheaWlRiS/view?usp=sharing) 
+* Aug 4, Bioinformatics Boot Camp for Ecology and Evolution, Online
 	* [Presentation](https://drive.google.com/file/d/1Z_DmbVYTX-9bNaFpOgARAJR8IVcZTwF6/view?usp=sharing)
 	* [Tutorial](https://github.com/smirarab/tutorials/blob/master/Skmer+APPLES+tutorial.md)
 * Feb 29, [SysBioDiv](https://twitter.com/sysbiodiv)
