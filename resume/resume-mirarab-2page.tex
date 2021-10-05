@@ -1,8 +1,8 @@
 %______________________________________________________________________________________________________________________
 % @brief    LaTeX2e Resume for Siavash Mirarab
-\documentclass[margin,line,letterpaper]{resume}
+\documentclass[margin,line,letterpaper]{resume-small}
 \usepackage{setspace}
-\usepackage{hyperref}
+\usepackage[colorlinks=true,linkcolor=darkblue,citecolor=darkred,urlcolor=blue]{hyperref}
 \usepackage{lipsum}
 
 \makeatletter
@@ -34,8 +34,8 @@
 \let\OLDthebibliography\thebibliography
 \renewcommand\thebibliography[1]{
   \OLDthebibliography{#1}
-  \setlength{\parskip}{1.5pt}
-  \setlength{\itemsep}{1.6pt plus 0.3ex}
+  \setlength{\parskip}{0.5pt}
+  \setlength{\itemsep}{1.2pt plus 0.3ex}
 }
 
 %_______________________________________________________________________________________
@@ -46,7 +46,7 @@
 \begin{small}
     %_______________________________________________________________________________________    % Contact Information
 %TODO: update address
-    \section{\mysidestyle Contact\\Information}
+    \section{\mysidestyle Contact}
     ~Department of Electrical and Computer Engineering (ECE)				\hfill phone: 858 822 6245   \vspace{0mm}\\\vspace{0mm} 
     \vspace{0mm} UC San Diego   \hfill  e-mail: \url{smirarab@ucsd.edu}   \vspace{0mm}\\\vspace{0mm}
    9500 Gilman Drive, Mail code 0407  \hfill  \url{http://eceweb.ucsd.edu/~smirarab/}\vspace{0mm}\\\vspace{-4.5mm}%
@@ -58,10 +58,11 @@
     \section{\mysidestyle Academic\\Positions}
 
     \textbf{ECE Department, UC San Diego}, San Diego, CA, United States\\
-    \textsl{Assistant Professor} \hfill \textbf{ July 2015 -- present}\vspace{-3mm}\\\vspace{-5mm}%          
+    \textsl{Assistant Professor} \hfill \textbf{ July 2015 -- June 2020}\vspace{0mm}\\\vspace{0mm}%          
+        \textsl{Associate Professor} \hfill \textbf{ July 2020 -- present}\vspace{-3mm}\\\vspace{-5mm}%          
 %__________________________________________________________________________________________________________________
     % Education
-    \section{\mysidestyle Education}
+    \section{\mysidestyle ~}
     \textsl{Ph.D}  \hfill \textbf{ Jan. 2011 -- July 2015}\\
     \textbf{University of Texas at Austin}, Austin, Texas, Department of Computer Science\\
     %\vspace{-1mm}%
@@ -131,7 +132,7 @@
     \section{\mysidestyle Research\\Funding}
       NSF: III-1845967:  ``CAREER: Robust \& scalable genome-wide ...''
  \$549k ~
- \hfill 2019\\
+ \hfill 2019-2023\\
       NSF-1815485 :  ``III: SMALL: New algorithms for genome skimming ...''
  \hfill \$500k ~
  \hfill 2018-2021\\
@@ -142,6 +143,7 @@
  \hfill  \$439K ~
  \hfill 2016-2018\\
  CFAR, ``Algorithms for prioritizing prevention intervention ... HIV'', \$50K \hfill  ~2019--2020\\
+  CMI, Grand Challenge Award, ``Automatic cataloguing of ... '', \$50K \hfill  ~2019--2020\\
   Sloan foundation fellowship, \$60K (2 years) \hfill  ~2016--2018\\
  Other gifts and internal grants $\approx$\$100K  \hfill  ~2017--2019
 
@@ -149,36 +151,40 @@
 %    \textbf{Graduated:}\vspace{2mm}\\\vspace{1mm}%
     Niema Moshiri, Now: Assistant Teaching Professor, UCSD (CSE Dep.)
  \hfill \textbf{2015 -- 2019}\\
-     Erfan Sayyari:  Now: PostDoctral Researcher, UCSD (CMI)
+     Erfan Sayyari:  Now: Illumina
  \hfill \textbf{2015 -- 2019}\\
 %\textbf{Graduated:}\vspace{2mm}\\\vspace{1mm}%
-Current: Metin Balaban, Uyen Mai, Maryam Rabie, Nora Ratchman, Shahab Sarmashghi (co-superviser), Chao Zhang \hfill \textbf{2016~--~now}
+Current: Metin Balaban, Yueyu Jiang, Uyen Mai, Maryam Rabiee, Nora Rachtman, Shahab Sarmashghi (co-superviser), Chao Zhang \hfill \textbf{2016~--~now}
  
  \vspace{-2mm}
  \section{\mysidestyle Software\\ 
- see \href{http://eceweb.ucsd.edu/~smirarab/software.html}{here}}
+% (Full \\ \href{http://eceweb.ucsd.edu/~smirarab/software.html}{List})
+}
+See \url{http://eceweb.ucsd.edu/~smirarab/software.html} for a full list.\\
 \textbf{ASTRAL} (\url{https://github.com/smirarab/ASTRAL}):
 Phylogenomic species trees\vspace{1mm}\\
 \textbf{PASTA} (\url{https://github.com/smirarab/pasta}): 
 Multiple sequence alignment (MSA)\vspace{1mm}\\
 \textbf{SEPP,TIPP,UPP} (\url{https://github.com/smirarab/sepp}):
-MSA of ultra-large datasts, phylogenetic placement, and taxonomic identification of metagenomic reads\\
-\textbf{TADA} (\url{https://github.com/tada-alg/TADA}): Data augmentation for machine learning applied to microbiome compositional data\\
+Ensemble HMMs
+%\textbf{TADA} (\url{https://github.com/tada-alg/TADA}): Data augmentation
 %Taxonomic profiling of metagenomic samples using phylogenetic placement\vspace{2mm}\\
 %\textbf{UPP} (\url{https://github.com/smirarab/sepp/blob/master/README.UPP.md})\\
 %Multiple sequences alignment using families of HMMs for ultra-large datasets\vspace{2mm}\\
 %\textbf{FastSP} (\url{https://github.com/smirarab/FastSP}): Comparison of  ultra-large MSAs
 
-  \vspace{-2mm}
+  \vspace{-3mm}
    \section{\mysidestyle Services}
     %TODO: add summer schools. 
-    Program Committee: ISMB, ECCB, RECOMB-CG, BIBM  \hfill \textbf{2015, 2017 -- 2020 }\vspace{1mm}\\
-    Paper Review:  Nature Ecology and Evolution, GigaScience, Journal of ACM, IEEE Transaction on Computational Biology and Bioinformatics, Theoretical Population Genetics, Bioinformatics, BMC Bioinformatics, Journal of ACM, ISMB, RECOMB-CG, TSE   \hfill \textbf{2007-2016}. %\vspace{1mm}
+    Leadership: Vertebrate Genome Project (VGP), Council member.   \hfill \textbf{2020}\vspace{0mm}\\
+    Conference organization: (IEEE BIBM) (2019), REOMB (2020, 2022)   \hfill \textbf{2019-2020}\vspace{0mm}\\
+    Program Committee: ISMB, ECCB, RECOMB-CG, BIBM  \hfill \textbf{2015, 2017--2020 }\vspace{0mm}\\
+    Paper Review. See \url{https://publons.com/researcher/697671/siavash-mirarab} for a list.\\
 
 %__________________________________________________________________________________________________________________
     % Publications
     \renewcommand*{\thefootnote}{\fnsymbol{footnote}}
-    \section{\mysidestyle Publications}
+    \section{\mysidestyle Recent \\ Papers}
 
 \newcommand\blfootnote[1]{%
   \begingroup
@@ -187,10 +193,9 @@ MSA of ultra-large datasts, phylogenetic placement, and taxonomic identification
   \endgroup
 }
     
-
 \begin{footnotesize}
 \vspace{-10pt}
-\begin{spacing}{-1}
+\begin{spacing}{0.05}
 \input{publications-small.bbl}
 \end{spacing}
 \end{footnotesize}
