@@ -33,3 +33,5 @@ Our lab prides itself in many [tools](software.html) developed by the lab. We st
 And my calendar:
 
 <iframe src="https://www.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=smirarab%40gmail.com&amp;color=%232952A3&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%23125A12&amp;src=smirarabbaygi%40eng.ucsd.edu&amp;color=%13125C12&amp;ctz=America%2FLos_Angeles;" style=" border:solid 1px #777 " width="800" height="600" frameborder="1" scrolling="yes"></iframe>
+
+Finally, a link to some useful material on our [lab wiki](https://github.com/mirarablab/wiki).
