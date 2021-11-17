@@ -26,6 +26,7 @@ Refer to [this site](https://sites.google.com/eng.ucsd.edu/datasets/home) for mo
 * Also checkout the following github pages from students in the lab.
     * [Uyen Mai](https://github.com/uym2):
         * [Minimum Variance (MV) rooting](https://github.com/uym2/MinVar-Rooting): also includes an efficient implementation of the MP rooting
+        * [tripVote](https://github.com/uym2/tripVote)
         * [TreeShrink](https://github.com/uym2/TreeShrink): a tool for detecting extremely and suspiciously long branches on a (set of) tree(s)
         * [LogDate](https://github.com/uym2/LogDate): dating phylogenies using log transformation 
     * [Erfan](https://github.com/esayyari): 
@@ -36,14 +37,24 @@ Refer to [this site](https://sites.google.com/eng.ucsd.edu/datasets/home) for mo
         * [FAVITES](https://github.com/niemasd/FAVITES): Simulation of HIV on social networks
         * [Dual-birth](https://github.com/niemasd/Dual-Birth-Model): a set of scripts to work with the dual-birth model
         * [TreeCluster](https://github.com/niemasd/TreeCluster): A tool for clustering leaves of phylogenetic tree in a principled way
+        * [ProACT](https://github.com/niemasd/ProACT)
     * [Maryam Rabiee](https://github.com/maryamrabiee)
         * [INSTRAL](https://github.com/maryamrabiee/INSTRAL): A tool that extends ASTRAL for phylogenetic placement
         * [Constrained ASTRAL](https://github.com/maryamrabiee/Constrained-search): A tool that extends ASTRAL for constrained tree search
+        * [SODA](https://github.com/maryamrabiee/SODA)
+        * [QuCo](https://github.com/maryamrabiee/quartet_coestimation)
     * [Metin Balaban](https://github.com/balabanmetin)
         * [APPLES](https://github.com/balabanmetin/apples)
         * [MISA](https://github.com/balabanmetin/misa)
-    * [Chao Zhang](https://github.com/chaoszhang/A-pro)
-        * [Astral-Pro](https://github.com/chaoszhang/A-pro)
+        * [uDance](https://github.com/balabanmetin/uDance)
+    * [Chao Zhang](https://github.com/chaoszhang/)
+        * [Astral-Pro](https://github.com/chaoszhang)
+        * [TAPER](https://github.com/chaoszhang/TAPER)
+        * [Next generation of ASTRAL-like tools](https://github.com/chaoszhang/ASTER)
+    * [Yueyu Jiang](https://github.com/yueyujiang)
+        * [DEPP](https://github.com/yueyujiang/DEPP)
+    * [Eleonora Rachtman](https://github.com/noraracht)
+        * [CONSULT](https://github.com/noraracht/CONSULT)
     * [Shahab Sarmashghi](https://github.com/shahab-sarmashghi)
         * [Skmer](https://github.com/shahab-sarmashghi/Skmer)
         * [RESPECT](https://github.com/shahab-sarmashghi/RESPECT)

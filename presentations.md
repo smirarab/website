@@ -9,11 +9,11 @@ title: Presentations
 	* Intro:
 		* [Slides](https://drive.google.com/file/d/1Ec8kIb0IJN-AF6M7C-N2ixIv4cmp3UYg/view?usp=sharing)
 		* [Tutorial](https://github.com/KamilSJaron/oh-know/wiki/Introduction-to-k-mers-for-analyzing-skimming-data)
-		* [Video]()
+		* [Video](https://youtu.be/jYt28lTkAvg)
 	* Advanced: 
 		* [Slides](https://drive.google.com/file/d/1Efm9X_Rz62eAkSr3VHLTczCX27hTaPMN/view?usp=sharing)
 		* [Tutorial](https://github.com/KamilSJaron/oh-know/wiki/Advanced-use-of-k-mers-for-analyzing-skimming-data) 
-		* [Video]()
+		* [Video](https://youtu.be/exoaK_D0mnc)
 * April 14, Phyloseminars, [slides](https://drive.google.com/file/d/1fiAlPoI3BBukk7xbUY5LE5ndFdV_yRbl/view?usp=sharing), [Youtube](https://www.youtube.com/watch?v=pjCXxexKjus)
 * March 3, CGSI,  [slides](https://drive.google.com/file/d/1ffYvIm1pHr7kw8eMu_0HDYwZGaW2qav9/view?usp=sharing)
 * March 2, MAB Séminaire de Bioinformatique, Le Laboratoire d’Informatique, de Robotique et de Microélectronique de Montpellier (LIRMM), [slides](https://drive.google.com/file/d/1fdUrdXqMlL7AjMA_zLwNA-3y5NXDKBEC/view?usp=sharing)

@@ -5,14 +5,16 @@ title: Publications
 
 Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ&hl=en) for citation statistics (and more).
 
+For small corrections to published papers, see [this page](2021/10/06/Corrigenda.html).
+
 ### UCSD
 
 #### Preprints, bookchapters, and accepted conference papers
 0. Stepanauskas, Ramunas, Julia M Brown, Uyen Mai, Oliver Bezuidt, Maria Pachiadaki, Joe Brown, Steven Biller, Paul M Berube, Nicholas R Record, and Siavash Mirarab. “Gene Exchange Networks Define Species-like Units in Marine Prokaryotes.” BioRxiv, 2020, 2020.09.10.291518. [doi:10.1101/2020.09.10.291518](https://doi.org/10.1101/2020.09.10.291518).
 0. Zhang, Chao, Andrey V Bzikadze, Yana Safonova, and Siavash Mirarab. “Scalable Models of Antibody Evolution and Benchmarking of Clonal Tree Reconstruction Methods.” BioRxiv, 2020. [doi:10.1101/2020.09.17.302505](https://doi.org/10.1101/2020.09.17.302505).
-0. Jiang, Yueyu, Metin Balaban, Qiyun Zhu, and Siavash Mirarab. “DEPP: Deep Learning Enables Extending Species Trees Using Single Genes.” BioRxiv, January 1, 2021, 2021.01.22.427808. [doi:10.1101/2021.01.22.427808](https://doi.org/10.1101/2021.01.22.427808).
+0. Jiang, Yueyu, Metin Balaban, Qiyun Zhu, and Siavash Mirarab. “DEPP: Deep Learning Enables Extending Species Trees Using Single Genes.” BioRxiv, 2021, 2021.01.22.427808. [doi:10.1101/2021.01.22.427808](https://doi.org/10.1101/2021.01.22.427808).
 	*  Abstract to appear in [RECOMB 2021](https://www.recomb2021.org/)
-0. Balaban, Metin, Daniel Roush, Qiyun Zhu, Siavash Mirarab, and Applied Microbiomics. 2021. “APPLES-2 : Faster and More Accurate Distance-Based Phylogenetic Placement Using Divide and Conquer.” BioRxiv Preprint, 2021.02.14.431150. (2021) [doi:10.1101/2021.02.14.431150](https://doi.org/10.1101/2021.02.14.431150).
+0. Balaban, Metin, Nishat Anjum Bristy, Ahnaf Faisal, Md. Shamsuzzoha Bayzid, and Siavash Mirarab. “Genome-Wide Alignment-Free Phylogenetic Distance Estimation under a No Strand-Bias Model.” BioRxiv, 2021, [doi:2021.11.10.468111.](https://doi.org/10.1101/2021.11.10.468111)
 
 
 #### Book Chapters
@@ -21,8 +23,10 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
 
 #### Published Papers (including in press)
 
-{:start="80"}
-0. Sarmashghi, Shahab, Metin Balaban, Eleonora Rachtman, Behrouz Touri, Siavash Mirarab, and Vineet Bafna. “Estimating repeat spectra and genome length from low-coverage genome skims with RESPECT.” RECOMB (2021). PLoS Computational Biology (in press). Available on [doi:10.1101/2021.01.28.428636](https://doi.org/10.1101/2021.01.28.428636).
+{:start="81"}
+0. Balaban, Metin, Yueyu Jiang, Daniel Roush, Qiyun Zhu, and Siavash Mirarab. “Fast and Accurate Distance‐based Phylogenetic Placement Using Divide and Conquer.” Molecular Ecology Resources, (2021). [doi:10.1111/1755-0998.13527](https://doi.org/10.1111/1755-0998.13527).
+0. Sarmashghi, Shahab, Metin Balaban, Eleonora Rachtman, Behrouz Touri, Siavash Mirarab, and Vineet Bafna. “Estimating repeat spectra and genome length from low-coverage genome skims with RESPECT.” PLoS Computational Biology (in press). Available on BioRxiv: [doi:10.1101/2021.01.28.428636](https://doi.org/10.1101/2021.01.28.428636).
+	* Abstract to appear in [RECOMB 2021](https://www.recomb2021.org/)
 0. Mirarab, Siavash, Luay Nakhleh, and Tandy Warnow. 2021. “Multispecies Coalescent: Theory and Applications in Phylogenetics.” Annual Review of Ecology, Evolution, and Systematics 52, no. 1 (2021): 247–68. [doi:10.1146/annurev-ecolsys-012121-095340](https://doi.org/10.1146/annurev-ecolsys-012121-095340).
 0. Rachtman, Eleonora, Vineet Bafna, and Siavash Mirarab. “CONSULT: Accurate Contamination Removal Using Locality-Sensitive Hashing.” NAR Genomics and Bioinformatics 3, no. 3 (2021): 10.1101/2021.03.18.436035. [doi:10.1093/nargab/lqab071](https://academic.oup.com/nargab/article/doi/10.1093/nargab/lqab071/6342218?guestAccessKey=713a4334-44c0-446d-a7ba-73f47ba9ecd9).
 	* Also accepted and presented at [RECOMB-seq, 2021](https://www.recomb2021.org/recomb-seq-satellite).
@@ -77,6 +81,7 @@ Check out [google scholar](http://scholar.google.com/citations?user=uxSj18QAAAAJ
    * Abstract [appeared](https://link.springer.com/content/pdf/bbm%3A978-3-319-56970-3%2F1.pdf) in  RECOMB 2017.
 0. Sayyari, Erfan and Siavash Mirarab. “Anchoring quartet-based phylogenetic distances and applications to species tree reconstruction”. BMC Genomics 17, no. 10  (2016):  101–113. [doi:10.1186/s12864-016-3098-z](http://doi.org/10.1186/s12864-016-3098-z) 
 0. Sayyari, Erfan and Siavash Mirarab. “Fast coalescent-based computation of local branch support from quartet frequencies”. Molecular Biology and Evolution 33, no. 7 (2016): 1654-1668. [doi:10.1093/molbev/msw079](https://doi.org/10.1093/molbev/msw079)
+	* The supplementary material had a small error in one of its equations, fixed [here](assets/msw079-supplementary-v2.pdf)
 {: reversed="reversed"}
 
 ### PhD work
