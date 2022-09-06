@@ -2,6 +2,14 @@
 layout: page
 title: Presentations
 ---
+### 2022
+
+* July 13, ISMB, Quco [slides](https://drive.google.com/file/d/1MAhzvSpyP8sJ16DfwFOai1I22-IVG8wQ/view?usp=sharing)
+* July 12, CGSI, distance-based phylogenetics [slides](https://drive.google.com/file/d/1LZNv-I3Q4Ous2FYcWkpZ3HHsH6YkHdqc/view?usp=sharing)
+* May 18, RECOMB-SEQ, phylogenomics [slides](https://drive.google.com/file/d/1Li-iaIIQG25jT6OKk8nsZ_usK6NRKAQg/view?usp=sharing)
+* May 13, Stanford, phylogenomics [slides](https://drive.google.com/file/d/1M26J5PCZTUaQmfaa0wld_clOqg3HVjg-/view?usp=sharing)
+* April 13, UCSC, phylogenomics [slides](https://drive.google.com/file/d/1LvQeE_zZWuQnk0y8cRqd30niPdldOm1X/view?usp=sharing)
+* 
 
 ### 2021
 
