@@ -16,14 +16,31 @@ More recently, I have been a recipient of the [2017 Sloan Research Fellowship](h
 I contribute to many international projects and am part of the counsil of the [Vertebrate Genome Project](https://vertebrategenomesproject.org/who-we-are).
 
 I am not offended by any pronouncination of my name, so, don't worry about it. If you wonder, [here]({{ site.url }}//assets/name.m4a) is how I pronounce it.
+I have noticed that most native speakers are more comfortable staring my name with a Sh sound rather an S; so my only tip is, start with an S not a Sh and take it from there. 
 
-My [research](research.html) area is **computational biology** and my lab develops methods that target large-scale datasets. 
-My specific areas of research span many topics, including, reconstruction of species trees from gene trees (phylogenomics),
-large-scale multiple sequence alignment, HIV transmission network reconstruction, and metagenomic analyses using phylogenetic approaches.
-Check out our [publications](publications.html) page  and look  [here](news.html) for miscellaneous information. 
-Here is my (hopefully up-to-date) [**CV**]({{ site.url }}/assets/resume-mirarab.pdf).
 
-Our lab prides itself in many [tools](software.html) developed by the lab. We strive to make these useful for biologists and often hold tutorials and workshops for providing training in the use of the tools. Some of these presentations are available [here](presentations.html).
+### Research
+
+Mirarab lab focuses on **computational biology** with a specific focus on developing methods that target evolutionary analyses on large-scale datasets. 
+These algorithms infer statistically rigorous estimates of evolutionary histories based on genomic data and use the results of such inferences in downstream applications.
+The techniques used range from classic algorithms (dynamic programming) to graph theory and statistical inference. 
+More recently, we have started incorporating machine learning techniques that can integrate biological domain knowledge. 
+High accuracy and scalability are the main focal points, with the idea that gains in scalability should not come at the expense of accuracy. 
+While all the algorithms have heoretical underpinnings, much attention is paid to the empirical evaluation of methods under challenging conditions. 
+The lab prides itself on developing many [tools](software.html) that are widely used by biologists (e.g., ASTRAL series) and have paved new directions (e.g., Skmer, DEPP). 
+We strive to make these useful for biologists and often hold [tutorials](http://github.com/smirarab/tutorials/) and workshops for providing training in the use of the tools. 
+Biological applications explored by the lab include reconstruction of species trees from gene trees (phylogenomics), the study of biodiversity using low coverage genomic data (genome skimming), metagenomic analyses using phylogenetic and machine learning approaches, HIV transmission network reconstruction, and large-scale multiple sequence alignment. 
+What unites these wide-ranging applications is their reliance on evolutionary trees as an underlying model. 
+
+* Check out our [publications](publications.html) page. 
+* See our [tools](software.html) though this page is often behind our latest developments. 
+* Here is my (hopefully up-to-date) [**CV**]({{ site.url }}/assets/resume-mirarab.pdf).
+* Most our presentations are available [here](presentations.html).
+* Look  [here](news.html) for miscellaneous information. 
+
+### Students
+
+I am proud of amazing [students](students.html) who have been in my lab.
 
 * Prospective students are generally discouraged from contacting me directly regarding admissions; those decisions are made by a committee in our department.  
   In rare circumstances, if you have done work that is very closely related to my work, you can write to me and bring that to my attention.  

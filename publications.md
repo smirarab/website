@@ -9,20 +9,30 @@ For small corrections to published papers, see [this page](2021/10/06/Corrigenda
 
 ### UCSD
 
-#### Preprints, bookchapters, and accepted conference papers
+#### Preprints and  accepted conference papers
 0. Stepanauskas, Ramunas, Julia M Brown, Uyen Mai, Oliver Bezuidt, Maria Pachiadaki, Joe Brown, Steven Biller, Paul M Berube, Nicholas R Record, and Siavash Mirarab. “Gene Exchange Networks Define Species-like Units in Marine Prokaryotes.” BioRxiv, 2020, 2020.09.10.291518. [doi:10.1101/2020.09.10.291518](https://doi.org/10.1101/2020.09.10.291518).
-0. Zhang, Chao, Andrey V Bzikadze, Yana Safonova, and Siavash Mirarab. “Scalable Models of Antibody Evolution and Benchmarking of Clonal Tree Reconstruction Methods.” BioRxiv, 2020. [doi:10.1101/2020.09.17.302505](https://doi.org/10.1101/2020.09.17.302505).
-0. Zhang, Chao, and Siavash Mirarab. “Weighting by Gene Tree Uncertainty Improves Accuracy of Quartet-Based Species Trees.” BioArxiv, 2022, 2022.02.19.481132. [doi:10.1101/2022.02.19.481132](https://doi.org/10.1101/2022.02.19.481132).
-0. Elghraoui, Afif, Siavash Mirarab, Krister M Swenson, and Faramarz Valafar. “Evaluating Impacts of Syntenic Block Detection Strategies on Rearrangement Phylogeny Using M. Tuberculosis Isolates.” BioRxiv, 2022, 2022.02.18.481113. [doi:10.1101/2022.02.18.481113](https://doi.org/10.1101/2022.02.18.481113).
-	* RECOMB-CG 2021
+0. Daniel McDonald, Yueyu Jiang, Metin Balaban, Kalen Cantrell, Qiyun Zhu, Antonio Gonzalez, James T. Morton, Giorgia Nicolaou, Donovan H. Parks, Søren Karst, Mads Albertsen, Phil Hugenholtz, Todd DeSantis, Siavash Mirarab, Rob Knight. Greengenes2 enables a shared data universe for microbiome studies. bioRxiv 2022.12.19.520774; doi: https://doi.org/10.1101/2022.12.19.520774
+0. Tabaghi, Puoya,  Michael Khanzadeh, Yusu Wang, Siavash Mirarab. “Principal Component Analysis in Space Forms.” arXiv. 2023.  [doi:10.48550/arxiv.2301.02750](https://doi.org/10.48550/arxiv.2301.02750). 
+0. Jiang, Yueyu, Daniel McDonald, Rob Knight, and Siavash Mirarab. “Scaling Deep Phylogenetic Embedding to Ultra-Large Reference Trees: A Tree-Aware Ensemble Approach.” BioRxiv, January 1, 2023, 2023.03.27.534201. [doi:10.1101/2023.03.27.534201](https://doi.org/10.1101/2023.03.27.534201).
+0. Ali Osman Berk Şapcı, Eleonora Rachtman and Siavash Mirarab. "CONSULT-II: Taxonomic identification using Locality Sensitive Hashing". RECOMB-CG, accepted, 2023. 
+	* Best paper award. 
 
 #### Book Chapters
-0. Siavash Mirarab. “Species Tree Estimation Using ASTRAL: Practical Considerations.” arXiv 1904.03826 (2019) [arXiv:1904.03826](https://arxiv.org/pdf/1904.03826.pdf)
+0. Mirarab, Siavash. “Species Tree Estimation Using ASTRAL: Practical Considerations.” In Species Tree Inference: A Guide to Methods and Applications. Princeton University Press, 2023.
+	* Preprint available on [arXiv:1904.03826](https://arxiv.org/pdf/1904.03826.pdf)
 0. Warnow, Tandy, and Siavash Mirarab. “Multiple Sequence Alignment for Large Heterogeneous Datasets Using SATé, PASTA, and UPP.” In Multiple Sequence Alignment. Methods in Molecular Biology, Vol 2231, 99–119, 2021. [doi:10.1007/978-1-0716-1036-7_7](https://doi.org/10.1007/978-1-0716-1036-7_7).
+0. Zhu, Qiyun, and Siavash Mirarab. “Assembling a Reference Phylogenomic Tree of Bacteria and Archaea by Summarizing Many Gene Phylogenies.” In Environmental Microbial Evolution: Methods and Protocols, 137–65. New York, NY: Springer US, 2022. [doi:0~10.1007/978-1-0716-2691-7_7.11~](https://doi.org/10.1007/978-1-0716-2691-7_7.1)
 
 #### Published Papers (including in press)
 
-{:start="89"}
+{:start="94"}
+0. Mai, Uyen, Eduardo Charvel, and Siavash Mirarab. “Expectation-Maximization Enables Phylogenetic Dating under a Categorical Rate Model,” bioRxiv. [doi:10.1101/2022.10.06.511147](https://doi.org/10.1101/2022.10.06.511147).
+	* Presented in RECOMB 2023, and appeared as [short abstract](https://link.springer.com/content/pdf/bbm:978-3-031-29119-7/1?pdf=chapter%20toc).
+0. Elghraoui, Afif, Siavash Mirarab, Krister M Swenson, and Faramarz Valafar. “Evaluating Impacts of Syntenic Block Detection Strategies on Rearrangement Phylogeny Using Mycobacterium Tuberculosi Isolates.”  Bioinformatics 39, no. 1 (2023): btad024. [doi:10.1093/bioinformatics/btad024](https://doi.org/10.1093/bioinformatics/btad024).
+	* Also presented as part of RECOMB-CG 2021
+0. Zhang, Chao, Andrey V. Bzikadze, Yana Safonova, and Siavash Mirarab. “A Scalable Model for Simulating Multi-Round Antibody Evolution and Benchmarking of Clonal Tree Reconstruction Methods.” Frontiers in Immunology 13 (2022): 1014439. [doi:10.3389/fimmu.2022.1014439](https://www.frontiersin.org/articles/10.3389/fimmu.2022.1014439).
+0. Zhang, Chao, and Siavash Mirarab. “Weighting by Gene Tree Uncertainty Improves Accuracy of Quartet-Based Species Trees.” Edited by Aya Takahashi. Molecular Biology and Evolution 39, no. 12 (2022): msac215. [doi:10.1093/molbev/msac215](https://academic.oup.com/mbe/advance-article-abstract/doi/10.1093/molbev/msac215/6750035?utm_source=advanceaccess&utm_campaign=mbe).
+0. Zhang, Chao, and Siavash Mirarab. “ASTRAL-Pro 2: Ultrafast Species Tree Reconstruction from Multi-Copy Gene Family Trees.” Bioinformatics, btac620, (2022), [doi:10.1093/bioinformatics/btac620](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac620/6696205).
 0. Balaban, Metin, Nishat Anjum Bristy, Ahnaf Faisal, Md. Shamsuzzoha Bayzid, and Siavash Mirarab. “Genome-Wide Alignment-Free Phylogenetic Distance Estimation under a No Strand-Bias Model.”  Bioinformatics Advances 2, no. 1 (2022): 2021.11.10.468111. [doi:10.1093/bioadv/vbac055](https://doi.org/10.1093/bioadv/vbac055).
 0. Maryam Rabiee, and Siavash Mirarab. “QuCo: Quartet-based Co-estimation of Species Trees and Gene Trees”. Bioinformatics38, no. Supplement_1 (2022): i413–21. [10.1093/bioinformatics/btac265](https://academic.oup.com/bioinformatics/article/38/Supplement_1/i413/6617531)
 	* As part of ISMB 2022. 
@@ -33,12 +43,12 @@ For small corrections to published papers, see [this page](2021/10/06/Corrigenda
 	* Earlier version published in RECOMB-CG, 2022 as:
 		* Hasan, Navid Bin, Avijit Biswas, Metin Balaban, Siavash Mirarab, and Md. Shamsuzzoha Bayzid. “Fast and Accurate Branch Support Calculation for Distance-Based Phylogenetic Placements.” In Comparative Genomics, edited by Lingling Jin and Dannie Durand, 33–51. Cham: Springer International Publishing, 2022. [doi:10.1007/978-3-031-06220-9_3](https://doi.org/10.1007/978-3-031-06220-9_3).
 0. Swenson, Krister M, Afif Elghraoui, Faramarz Valafar, Siavash Mirarab, and Mathias Weller. “Quantifying Hierarchical Conflicts in Homology Statements.” In Comparative Genomics, edited by Lingling Jin and Dannie Durand, 146–67. Cham: Springer International Publishing, 2022. [doi:10.1007/978-3-031-06220-9_9](https://doi.org/10.1007/978-3-031-06220-9_9).
-0. Rachtman, Eleonora, Shahab Sarmashghi, Vineet Bafna, and Siavash Mirarab. “Uncertainty Quantification Using Subsampling for Assembly-Free Estimates of Genomic Distance and Phylogenetic Relationships.” Cell Systems (in press). Available as part of SSRN Electronic Journal, 2021. [doi:10.2139/ssrn.3986497](https://doi.org/10.2139/ssrn.3986497).
+0. Rachtman, Eleonora, Shahab Sarmashghi, Vineet Bafna, and Siavash Mirarab. “Uncertainty Quantification Using Subsampling for Assembly-Free Estimates of Genomic Distance and Phylogenetic Relationships.” Cell Systems 13, no. 10 (2022): 817-829.e3. [doi:10.1016/j.cels.2022.06.007](https://authors.elsevier.com/a/1fxla8YyDfj7HI).
 	*  Abstract appeared in [RECOMB 2022](https://link.springer.com/chapter/10.1007/978-3-031-04749-7_30)
-0. Jiang, Yueyu, Metin Balaban, Qiyun Zhu, and Siavash Mirarab. “DEPP: Deep Learning Enables Extending Species Trees Using Single Genes.” Systematic biology. 2022. [doi:10.1093/sysbio/syac031/6575921](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syac031/6575921?guestAccessKey=00d69a2a-f346-4bab-9bd3-b64ddbf7627d).
+0. Jiang, Yueyu, Metin Balaban, Qiyun Zhu, and Siavash Mirarab. “DEPP: Deep Learning Enables Extending Species Trees Using Single Genes.” Systematic biology. syac031. 2022. [doi:10.1093/sysbio/syac031/6575921](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syac031/6575921?guestAccessKey=00d69a2a-f346-4bab-9bd3-b64ddbf7627d).
 	*  Abstract appeared in [RECOMB 2021](https://www.recomb2021.org/)
-0. Mai, Uyen, and Siavash Mirarab. “Completing Gene Trees without Species Trees in Sub-Quadratic Time.” Bioinformatics, (2022): btab875. [doi:10.1093/bioinformatics/btab875](https://doi.org/10.1093/bioinformatics/btab875).
-0. Balaban, Metin, Yueyu Jiang, Daniel Roush, Qiyun Zhu, and Siavash Mirarab. “Fast and Accurate Distance‐based Phylogenetic Placement Using Divide and Conquer.” Molecular Ecology Resources, (2021). [doi:10.1111/1755-0998.13527](https://doi.org/10.1111/1755-0998.13527).
+0. Mai, Uyen, and Siavash Mirarab. “Completing Gene Trees without Species Trees in Sub-Quadratic Time.” Bioinformatics 38, no. 6 (2022): 1532–41. [doi:10.1093/bioinformatics/btab875](https://doi.org/10.1093/bioinformatics/btab875).
+0. Balaban, Metin, Yueyu Jiang, Daniel Roush, Qiyun Zhu, and Siavash Mirarab. “Fast and Accurate Distance‐based Phylogenetic Placement Using Divide and Conquer.” Molecular Ecology Resources 22, no. 3 (2022): 1213–27. [doi:10.1111/1755-0998.13527](https://doi.org/10.1111/1755-0998.13527).
 0. Sarmashghi, Shahab, Metin Balaban, Eleonora Rachtman, Behrouz Touri, Siavash Mirarab, and Vineet Bafna. “Estimating Repeat Spectra and Genome Length from Low-Coverage Genome Skims with RESPECT.” PLOS Computational Biology 17, no. 11 (2021): e1009449. [doi:10.1371/journal.pcbi.1009449](https://doi.org/10.1371/journal.pcbi.1009449).
 	* Abstract to appear in [RECOMB 2021](https://www.recomb2021.org/)
 0. Mirarab, Siavash, Luay Nakhleh, and Tandy Warnow. 2021. “Multispecies Coalescent: Theory and Applications in Phylogenetics.” Annual Review of Ecology, Evolution, and Systematics 52, no. 1 (2021): 247–68. [doi:10.1146/annurev-ecolsys-012121-095340](https://doi.org/10.1146/annurev-ecolsys-012121-095340).
@@ -175,5 +185,3 @@ Tandy Warnow, M Thomas P Gilbert, Guojie Zhang, Edward L Braun, Erich D Jarvis. 
 
 0. Mirarab, Siavash, and Ladan Tahvildari. “A Prioritization Approach for Software Test Cases Based on Bayesian Networks.” In Fundamental Approaches to Software Engineering, 276–290. Springer Berlin Heidelberg, 2007.
 
-0. Amoui, Mehdi, Siavash Mirarab, Sepand Ansari, and Caro Lucas. “A Genetic Algorithm Approach to Design Evolution Using Design Pattern Transformation.” International Journal of Information Technology and Intelligent Computing 1, no. 2 (2006): 235–244.
-{: reversed="reversed"}
