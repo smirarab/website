@@ -11,11 +11,8 @@ For small corrections to published papers, see [this page](2021/10/06/Corrigenda
 
 #### Preprints and  accepted conference papers
 0. Stepanauskas, Ramunas, Julia M Brown, Uyen Mai, Oliver Bezuidt, Maria Pachiadaki, Joe Brown, Steven Biller, Paul M Berube, Nicholas R Record, and Siavash Mirarab. “Gene Exchange Networks Define Species-like Units in Marine Prokaryotes.” BioRxiv, 2020, 2020.09.10.291518. [doi:10.1101/2020.09.10.291518](https://doi.org/10.1101/2020.09.10.291518).
-0. Daniel McDonald, Yueyu Jiang, Metin Balaban, Kalen Cantrell, Qiyun Zhu, Antonio Gonzalez, James T. Morton, Giorgia Nicolaou, Donovan H. Parks, Søren Karst, Mads Albertsen, Phil Hugenholtz, Todd DeSantis, Siavash Mirarab, Rob Knight. Greengenes2 enables a shared data universe for microbiome studies. bioRxiv 2022.12.19.520774; doi: https://doi.org/10.1101/2022.12.19.520774
 0. Tabaghi, Puoya,  Michael Khanzadeh, Yusu Wang, Siavash Mirarab. “Principal Component Analysis in Space Forms.” arXiv. 2023.  [doi:10.48550/arxiv.2301.02750](https://doi.org/10.48550/arxiv.2301.02750). 
 0. Jiang, Yueyu, Daniel McDonald, Rob Knight, and Siavash Mirarab. “Scaling Deep Phylogenetic Embedding to Ultra-Large Reference Trees: A Tree-Aware Ensemble Approach.” BioRxiv, January 1, 2023, 2023.03.27.534201. [doi:10.1101/2023.03.27.534201](https://doi.org/10.1101/2023.03.27.534201).
-0. Ali Osman Berk Şapcı, Eleonora Rachtman and Siavash Mirarab. "CONSULT-II: Taxonomic identification using Locality Sensitive Hashing". RECOMB-CG, accepted, 2023. 
-	* Best paper award. 
 
 #### Book Chapters
 0. Mirarab, Siavash. “Species Tree Estimation Using ASTRAL: Practical Considerations.” In Species Tree Inference: A Guide to Methods and Applications. Princeton University Press, 2023.
@@ -25,7 +22,14 @@ For small corrections to published papers, see [this page](2021/10/06/Corrigenda
 
 #### Published Papers (including in press)
 
-{:start="94"}
+{:start="99"}
+0. Balaban, Metin, Yueyu Jiang, Qiyun Zhu, Daniel McDonald, Rob Knight, and Siavash Mirarab. “Generation of Accurate, Expandable Phylogenomic Trees with UDance.” Nature Biotechnology (2023). [doi:10.1038/s41587-023-01868-8](https://doi.org/10.1038/s41587-023-01868-8). [Direct link](https://rdcu.be/dhUm5). 
+0. McDonald, Daniel, Yueyu Jiang, Metin Balaban, Kalen Cantrell, Qiyun Zhu, Antonio Gonzalez, James T. Morton, Giorgia Nicolaou, Donovan H. Parks, Søren Karst, Mads Albertsen, Phil Hugenholtz, Todd DeSantis, Siavash Mirarab, Rob Knight. “Greengenes2 Unifies Microbial Data in a Single Reference Tree.” Nature Biotechnology (2023). [doi:s41587-023-01845-1](https://doi.org/10.1038/s41587-023-01845-1). [direct link](https://urldefense.com/v3/__https://rdcu.be/dhUm5__;!!Mih3wA!HRDqcF5Lf-ZEWhr9kfUkPYrHwFZye4VfwO98gZFXWo-APxho8A4TmPID7hBNYiTrK7Ww_mXLaqMwRIDeGATzjWkKYETo9NmIMA$)
+0. Şapcı, Ali Osman Berk, Eleonora Rachtman, and Siavash Mirarab. “CONSULT-II: Taxonomic Identification Using Locality Sensitive Hashing.” In Comparative Genomics, RECOMB-CG, Lecture Notes in Computer Science(13883). 196–214. Cham: Springer Nature Switzerland, 2023. [doi:10.1007/978-3-031-36911-7_13](https://doi.org/10.1007/978-3-031-36911-7_13)
+	* Best paper award. 
+0. Arasti, Shayesteh, and Siavash Mirarab, “Optimal Subtree Prune and Regraft for Quartet Score in Sub-Quadratic Time,” in 23rd International Workshop on Algorithms in Bioinformatics (WABI 2023), vol. 273, Leibniz International Proceedings in Informatics (LIPIcs) (Dagstuhl, Germany: Schloss Dagstuhl – Leibniz-Zentrum für Informatik, 2023), 4:1-4:20, [doi:10.4230/LIPIcs.WABI.2023.4](https://doi.org/10.4230/LIPIcs.WABI.2023.4).
+0. Tabatabaee, Yasamin, Chao Zhang, Tandy Warnow, and Siavash Mirarab. “Phylogenomic Branch Length Estimation Using Quartets.” Bioinformatics 39, no. Supplement_1 (2023): i185–93. [doi:10.1093/bioinformatics/btad221](https://doi.org/10.1093/bioinformatics/btad221).
+	* As part of ISMB 2023. 
 0. Mai, Uyen, Eduardo Charvel, and Siavash Mirarab. “Expectation-Maximization Enables Phylogenetic Dating under a Categorical Rate Model,” bioRxiv. [doi:10.1101/2022.10.06.511147](https://doi.org/10.1101/2022.10.06.511147).
 	* Presented in RECOMB 2023, and appeared as [short abstract](https://link.springer.com/content/pdf/bbm:978-3-031-29119-7/1?pdf=chapter%20toc).
 0. Elghraoui, Afif, Siavash Mirarab, Krister M Swenson, and Faramarz Valafar. “Evaluating Impacts of Syntenic Block Detection Strategies on Rearrangement Phylogeny Using Mycobacterium Tuberculosi Isolates.”  Bioinformatics 39, no. 1 (2023): btad024. [doi:10.1093/bioinformatics/btad024](https://doi.org/10.1093/bioinformatics/btad024).

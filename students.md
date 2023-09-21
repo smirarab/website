@@ -5,9 +5,12 @@ title: Students
 
 ### PhD Students
 
-* [Nora Rachtman](https://github.com/noraracht/)
+* [Shayesteh Arasti](https://scholar.google.com/citations?user=lvoIu08AAAAJ&hl=en) [github](https://github.com/shayesteh99)
+* [Eduardo Charvel](https://grad.ucsd.edu/diversity/programs-resources/ucem/sloan-scholars-pages/2022-sloan-scholars/charvel-eduardo.html)
 * [Yueyu Jiang](https://github.com/yueyujiang)
-
+* [Daira Melendez](https://grad.ucsd.edu/diversity/programs-resources/ucem/sloan-scholars-pages/2022-sloan-scholars/melendez-daira.html)
+* [Nora Rachtman](https://github.com/noraracht/)
+* [Ali Osman Berk Sapci](https://github.com/bo1929)
 
 ### Alumni
 

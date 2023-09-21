@@ -2,8 +2,17 @@
 layout: page
 title: Presentations
 ---
+
+### 2023
+
+* July 17, CGSI, uDance [slides](https://drive.google.com/file/d/17q6UaQwINVaZ-krJmsVi9qDe15ePGriN/view?usp=sharing)
+* June 25, Evolution, Albuquerque, NM [slides](https://drive.google.com/file/d/17lyUM-cqqsrzDeeI2cF6Ofvckaq2BZfq/view?usp=sharing)
+* May 05, UCSD (ECE 290), Distance-based phylogenetics [slides](https://drive.google.com/file/d/1__DxX3dVB9XXJMrBLNqQVAARKUBfwRQZ/view?usp=sharing)
+* March 29, Norwary, Quartet-based species trees [slides](https://drive.google.com/file/d/17kZuqPlCQ5Mo1dMvqHp5Rf0y-NJJebVr/view?usp=drive_link)
+
 ### 2022
 
+* September 15, Asilomar, Metric learning [sldies](https://drive.google.com/file/d/1L6K6c0cDmYu4Va0vfg1pvcDfdpIKYc5E/view?usp=drive_link)
 * July 13, ISMB, Quco [slides](https://drive.google.com/file/d/1MAhzvSpyP8sJ16DfwFOai1I22-IVG8wQ/view?usp=sharing)
 * July 12, CGSI, distance-based phylogenetics [slides](https://drive.google.com/file/d/1LZNv-I3Q4Ous2FYcWkpZ3HHsH6YkHdqc/view?usp=sharing)
 * May 18, RECOMB-SEQ, phylogenomics [slides](https://drive.google.com/file/d/1Li-iaIIQG25jT6OKk8nsZ_usK6NRKAQg/view?usp=sharing)
