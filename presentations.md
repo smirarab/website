@@ -5,6 +5,8 @@ title: Presentations
 
 ### 2023
 
+* September 18, IndianOcean/Minderoo, Skimming [slides](https://drive.google.com/file/d/19frpU7OQzZi8wSOOcyNwYeSHn96SX_sF/view?usp=sharing)
+* September 12, Singapore, Quartet based phylogenomics [slides](https://drive.google.com/file/d/19giRFMfy2qS2MLSdmPb5oO2BOT61p7L5/view?usp=sharing)
 * July 17, CGSI, uDance [slides](https://drive.google.com/file/d/17q6UaQwINVaZ-krJmsVi9qDe15ePGriN/view?usp=sharing)
 * June 25, Evolution, Albuquerque, NM [slides](https://drive.google.com/file/d/17lyUM-cqqsrzDeeI2cF6Ofvckaq2BZfq/view?usp=sharing)
 * May 05, UCSD (ECE 290), Distance-based phylogenetics [slides](https://drive.google.com/file/d/1__DxX3dVB9XXJMrBLNqQVAARKUBfwRQZ/view?usp=sharing)

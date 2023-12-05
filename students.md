@@ -9,8 +9,12 @@ title: Students
 * [Eduardo Charvel](https://grad.ucsd.edu/diversity/programs-resources/ucem/sloan-scholars-pages/2022-sloan-scholars/charvel-eduardo.html)
 * [Yueyu Jiang](https://github.com/yueyujiang)
 * [Daira Melendez](https://grad.ucsd.edu/diversity/programs-resources/ucem/sloan-scholars-pages/2022-sloan-scholars/melendez-daira.html)
+* [Ali Osman Berk Şapcı](https://github.com/bo1929)
+
+Postdoctoral researchers:
+
 * [Nora Rachtman](https://github.com/noraracht/)
-* [Ali Osman Berk Sapci](https://github.com/bo1929)
+* [Puoya Tabaghi](https://puoya.github.io/)
 
 ### Alumni
 
@@ -22,4 +26,5 @@ title: Students
 * [Niema Moshiri (now an  Assistant Teaching Professor at CSE, UCSD )](http://niema.net/)
 * [Shahab Sarmashghi](https://scholar.google.com/citations?user=EEiHfWIAAAAJ&hl=en)
 * [Sina Malekian](https://escholarship.org/uc/item/1p47v3pf)
+* [Nora Rachtman](https://github.com/noraracht/)
 
