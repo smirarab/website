@@ -6,6 +6,7 @@
 \usepackage{color}
 \definecolor{darkblue}{rgb}{0.,0.,0.4}
 \definecolor{darkred}{rgb}{0.5,0.,0.}
+\usepackage{soul}
 
 \usepackage[colorlinks=true,linkcolor=darkblue,citecolor=darkred,urlcolor=blue]{hyperref}
 \title{List of publications}
@@ -22,7 +23,7 @@
 \renewcommand*{\refname}{\vspace*{-2em}}
 
 
-\nocite{uDance,GG2,CASTER,treematching,consult-II-conf,qSPR,MDCAT-recomb,CASTLES,Elghraoui2022,dimsim,wASTRAL,apro2,tk4,Quco,hDEPP,APPLESsupport,Rachtman2021,deep,tripVote,APPLES-2,respect,MSCreview,consult,taper,ProAct,SODA,Feng2020,logDate,apro,skimming,MISA,Tilic2020,Asnicar2020,Rachtman2019,APPLES,instral,Rabiee2020,10kbacteria,onekp,TADA,ruminant,Skmerjournal,astralmp,Balaban2019,Moshiri2018,avianindel,astral-multi,dogs,McDonald2018,Eiserhardt2018,Janssen2018,astral3,TreeShrink,polytomy,discovista,Akbari2018,Shekhar2017,dual-birth,insects,Thompson2017,Mai2017,Zhang2017,MVroot,Mirarab2017,distique,localpp,hippi,pisanimam,bin-resp,Cracraft2015,astral-hgt,Chou2015,astral2,upp,wsb,Jarvis2015giga,pasta-jcb,avian, binning,Matasci2014,1kp-pilot,mrl-sysbio,pasta,astral,tipp, bbca,Stoltzfus2013,Bayzid2013b,mrl,sepp,Mirarab2012a,fastsp,Do2010,Mirarab2008a,Mirarab2008,Do2008,Amoui2008,Mirarab2007a,Mirarab2007,Amoui2006}
+\nocite{uDance,GG2,CASTER,CASTLES,dimsim,wASTRAL,tk4,Quco,hDEPP,APPLESsupport,Rachtman2021,deep,tripVote,APPLES-2,respect,MSCreview,consult,taper,ProAct,SODA,Feng2020,logDate,apro,skimming,MISA,Tilic2020,Asnicar2020,Rachtman2019,APPLES,instral,10kbacteria,onekp,TADA,ruminant,Skmerjournal,astralmp,Balaban2019,Moshiri2018,avianindel,dogs,McDonald2018,Janssen2018,astral3,TreeShrink,polytomy,Akbari2018,Shekhar2018b,dual-birth,insects,Thompson2017,MVroot,Mirarab2017,distique,localpp,pisanimam,astral-hgt,astral2,upp,wsb,pasta-jcb,avian, binning,1kp-pilot,mrl-sysbio,astral,tipp,sepp}
     
     
 \renewcommand*{\thefootnote}{\fnsymbol{footnote}}
@@ -32,10 +33,10 @@
   \def\mynamee{Siavash Mirarab*}%
   \edef\name{#1}%
   \ifx\name\myname
-    \textbf{#1}%
+    \ul{#1}%
   \else
     \ifx\name\mynamee
-       \textbf{Siavash Mirarab}\footnote{co-first author}%
+       \ul{Siavash Mirarab}\footnote{co-first author}%
     \else
       #1%and
     \fi
@@ -45,7 +46,7 @@
 
 %\setstretch{0.8}
 \begin{spacing}{1.2}
-\bibliographystyle{resbib}
+\bibliographystyle{resbibsmall}
 %\setlength\bibitemsep{10pt} Fourth International Conference on
 \bibliography{references,pub}
 \end{spacing}
