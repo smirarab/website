@@ -190,11 +190,25 @@ FUNCTION {format.names}
   numnames 'namesleft :=
     { namesleft #0 > }
     { "\FormatName{" s nameptr "{ff~}{vv~}{ll}{, jj}" format.name$ * "}" * 't :=
-      nameptr #1 >
-        { namesleft #1 >
-            { ", " * t * }
-            { numnames #2 >
-                { "," * }
+    nameptr #1 >
+	{
+          nameptr #3
+          #1 + =
+          numnames #6
+          > and
+            { "others" 't :=
+              #1 'namesleft := }
+            'skip$
+          if$
+          namesleft #1 >
+           { ", " * t * }
+            {
+              s nameptr "{ll}" format.name$ duplicate$ "others" =
+                { 't := }
+                { pop$ }
+              if$
+              numnames #2 >
+                { * }
                 'skip$
               if$
               t "others" =
@@ -274,7 +288,7 @@ FUNCTION {format.date}
     }
     { month empty$
         'year
-        { month " " * year * }
+        { " " * year * }
       if$
     }
   if$
@@ -430,7 +444,7 @@ FUNCTION {format.in.ed.booktitle}
     { "" }
     { editor empty$
         { "In " booktitle emphasize * }
-        { "In " format.editors * ", " * booktitle emphasize * }
+        { "In " booktitle emphasize * }
       if$
     }
   if$
