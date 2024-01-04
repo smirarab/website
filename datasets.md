@@ -161,31 +161,39 @@ Erfan Sayyari, James B Whitfield, and Siavash Mirarab, “Fragmentary Gene Seque
 #### DISTIQUE
 Sayyari, Erfan, and Siavash Mirarab. “Anchoring Quartet-Based Phylogenetic Distances and Applications to Species Tree Reconstruction.” BMC Genomics 17, no. S10 (2016): 101–13. [doi: 10.1186/s12864-016-3098-z](https://doi.org/10.1186/s12864-016-3098-z).
 
-* http://esayyari.github.io/DISTIQUE 
+* <http://esayyari.github.io/DISTIQUE> 
 * Some of the files linked there may be lost, unfortunately. 
 
 
 ## Skimming
 
-#### APPLES-I: 
-
-* Available on [Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.78nf7dq)
 
 #### APPLES-II: 
+
+Balaban, Metin, Yueyu Jiang, Daniel Roush, Qiyun Zhu, and Siavash Mirarab. “Fast and Accurate Distance‐based Phylogenetic Placement Using Divide and Conquer.” Molecular Ecology Resources 22, no. 3 (2022): 1213–27. <https://doi.org/10.1111/1755-0998.13527>.
 
 * Available on [Zenodo](https://zenodo.org/record/5551285)
 
 #### MISA: 
 Balaban, Metin, and Siavash Mirarab. “Phylogenetic Double Placement of Mixed Samples.” Bioinformatics 36, no. Supplement_1 (July 1, 2020): i335–43. [doi: 10.1093/bioinformatics/btaa489](https://doi.org/10.1093/bioinformatics/btaa489).
 
-
 * Smaller files on [GitHub](https://github.com/balabanmetin/misa-data)
 * Large files are given on [Dryad](https://datadryad.org/stash/dataset/doi:10.6076/D1QW25)
 
-#### Skmer
+#### APPLES-I: 
 
-* https://shahab-sarmashghi.github.io/Skmer/
-* https://skmer.ucsd.edu/data/skmer
+Balaban, Metin, Shahab Sarmashghi, and Siavash Mirarab. “APPLES: Scalable Distance-Based Phylogenetic Placement with or without Alignments.” Edited by David Posada. Systematic Biology 69, no. 3 (2020): 566–78. <https://doi.org/10.1093/sysbio/syz063>.
+
+
+* Available on [Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.78nf7dq)
+
+
+#### Skmer
+Sarmashghi, Shahab, Kristine Bohmann, M. Thomas P. Gilbert, Vineet Bafna, and Siavash Mirarab. “Skmer: Assembly-Free and Alignment-Free Sample Identification Using Genome Skims.” Genome Biology 20, no. 1 (2019): 34. <https://doi.org/10.1186/s13059-019-1632-4>.
+
+
+* See <https://shahab-sarmashghi.github.io/Skmer/>
+* The actual data are on <https://skmer.ucsd.edu/data/skmer>
 
 
 ## Microbiome
@@ -196,16 +204,16 @@ Balaban, Metin, and Siavash Mirarab. “Phylogenetic Double Placement of Mixed S
 
 #### wLogDate
 
-Uyen Mai, Siavash Mirarab, Log Transformation Improves Dating of Phylogenies, Molecular Biology and Evolution, msaa222, https://doi.org/10.1093/molbev/msaa222.
+Uyen Mai, Siavash Mirarab, Log Transformation Improves Dating of Phylogenies, Molecular Biology and Evolution, msaa222, <https://doi.org/10.1093/molbev/msaa222>.
 
-* https://uym2.github.io/wLogDate/ 
+* <https://uym2.github.io/wLogDate/> 
 
 ### Rooting, Clustering, Error detection, etc.
 #### MinVarRooting
 
-Mai, Uyen, Erfan Sayyari, and Siavash Mirarab. “Minimum Variance Rooting of Phylogenetic Trees and Implications for Species Tree Reconstruction.” Edited by Gabriel Moreno-Hagelsieb. PLOS ONE 12, no. 8 (August 11, 2017): e0182238. https://doi.org/10.1371/journal.pone.0182238.
+Mai, Uyen, Erfan Sayyari, and Siavash Mirarab. “Minimum Variance Rooting of Phylogenetic Trees and Implications for Species Tree Reconstruction.” Edited by Gabriel Moreno-Hagelsieb. PLOS ONE 12, no. 8 (2017): e0182238. <https://doi.org/10.1371/journal.pone.0182238>.
 
-* For data, see https://uym2.github.io/MinVar-Rooting/ 
+* For data, see <https://uym2.github.io/MinVar-Rooting/>
 
 ##### TreeShrink
 
@@ -224,13 +232,15 @@ Balaban, Metin, Niema Moshiri, Uyen Mai, Xingfan Jia, and Siavash Mirarab. “Tr
 
 #### DIMSIM
 
-* https://datadryad.org/stash/dataset/doi:10.6076/D1530H 
+Zhang, Chao, Andrey V. Bzikadze, Yana Safonova, and Siavash Mirarab. “A Scalable Model for Simulating Multi-Round Antibody Evolution and Benchmarking of Clonal Tree Reconstruction Methods.” Frontiers in Immunology 13 (2022): 1014439. <https://doi.org/10.3389/fimmu.2022.1014439>.
+
+* <https://datadryad.org/stash/dataset/doi:10.6076/D1530H> 
 
 #### DualBirth model
 
-Moshiri and Mirarab, Dual-birth: A Two-State Model of Tree Evolution and Its Applications to Alu Retrotransposition. 10.1093/sysbio/syx088
+Moshiri and Mirarab, Dual-birth: A Two-State Model of Tree Evolution and Its Applications to Alu Retrotransposition. [10.1093/sysbio/syx088](doi.org/10.1093/sysbio/syx088)
 
-* https://doi.org/10.5061/dryad.13n52 
+* Data on Dryad at <https://doi.org/10.5061/dryad.13n52> 
 
 
 ## Obsolete
