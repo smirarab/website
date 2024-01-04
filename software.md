@@ -29,6 +29,7 @@ Refer to [this site](https://sites.google.com/eng.ucsd.edu/datasets/home) for mo
         * [tripVote](https://github.com/uym2/tripVote)
         * [TreeShrink](https://github.com/uym2/TreeShrink): a tool for detecting extremely and suspiciously long branches on a (set of) tree(s)
         * [LogDate](https://github.com/uym2/LogDate): dating phylogenies using log transformation 
+        * [MD-Cat](https://github.com/uym2/MD-Cat): dating phylogenies using categorical rates
     * [Erfan](https://github.com/esayyari): 
         * [DISTIQUE](https://esayyari.github.io/DISTIQUE.html): species tree inference using distance
         * [DiscoVista](https://github.com/esayyari/DiscoVista): A visualization tool for showing discordance among gene trees and species trees
@@ -50,7 +51,7 @@ Refer to [this site](https://sites.google.com/eng.ucsd.edu/datasets/home) for mo
     * [Chao Zhang](https://github.com/chaoszhang/)
         * [Astral-Pro](https://github.com/chaoszhang)
         * [TAPER](https://github.com/chaoszhang/TAPER)
-        * [Next generation of ASTRAL-like tools](https://github.com/chaoszhang/ASTER)
+        * [Next generation of ASTRAL-like tools, including A-Pro-2, wASTRAL, and CASTER](https://github.com/chaoszhang/ASTER)
     * [Yueyu Jiang](https://github.com/yueyujiang)
         * [DEPP](https://github.com/yueyujiang/DEPP)
     * [Eleonora Rachtman](https://github.com/noraracht)
@@ -58,3 +59,11 @@ Refer to [this site](https://sites.google.com/eng.ucsd.edu/datasets/home) for mo
     * [Shahab Sarmashghi](https://github.com/shahab-sarmashghi)
         * [Skmer](https://github.com/shahab-sarmashghi/Skmer)
         * [RESPECT](https://github.com/shahab-sarmashghi/RESPECT)
+    * [Shayesteh Arasti](https://github.com/shayesteh99)
+        * [qSPR](https://github.com/shayesteh99/QuartetSPR)
+        * [TCMM](https://github.com/shayesteh99/TCMM)
+    * [Ali Osman Berk Şapcı](https://github.com/bo1929)
+        * [CONSULT-II](https://github.com/bo1929/CONSULT-II)
+        * [KRANK](https://github.com/bo1929/KRANK)
+    * [Yasamin Tabatabee]()
+        * [CASTLES](https://github.com/ytabatabaee/CASTLES)

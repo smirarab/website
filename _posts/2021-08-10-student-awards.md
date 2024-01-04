@@ -5,6 +5,7 @@ title: Awards won by students in the lab
 
 ### 2023:
 
+* Yueyu Jiang: [SSB Publisher's Award for Excellence in Systematic Research](https://www.systbio.org/publishers-award.html)
 * Ali Osman Berk Şapcı: RECOMB-CG best paper award
 
 ### 2021:
