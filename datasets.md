@@ -10,14 +10,14 @@ title: Data
 
 ### ASTRAL related
 
-#### weighted ASTRAL:
+#### weighted ASTRAL
 	
 Zhang, C., & Mirarab, S. (2022). Weighting by Gene Tree Uncertainty Improves Accuracy of Quartet-based Species Trees. Molecular Biology and Evolution, 39(12), msac215. [10.1093/molbev/msac215](https://doi.org/10.1093/molbev/msac215).
 
 - Small files, including scripts: [Gihub](https://github.com/chaoszhang/Weighted-ASTRAL_data) 
 - Larger files: [Dryad](https://doi.org/10.6076/D1WK5R)
 
-#### ASTRAL-Pro:
+#### ASTRAL-Pro
 
 - Zhang, C., Scornavacca, C., Molloy, E. K., & Mirarab, S. (2020). ASTRAL-Pro: Quartet-Based Species-Tree Inference despite Paralogy. Molecular Biology and Evolution, 37(11), 3292–3307. [10.1093/molbev/msaa139](https://doi.org/10.1093/molbev/msaa139) 
 	- Small files, including scripts: [Gihub](https://github.com/chaoszhang/A-pro_data/) 
@@ -28,7 +28,7 @@ Zhang, C., & Mirarab, S. (2022). Weighting by Gene Tree Uncertainty Improves Acc
 
 
 
-#### ASTRAL-MP:
+#### ASTRAL-MP
 Yin, J., Zhang, C., & Mirarab, S. (2019). ASTRAL-MP: Scaling ASTRAL to very large datasets using randomization and parallelization. Bioinformatics, 35(20). [doi.org/10.1093/bioinformatics/btz211](https://doi.org/10.1093/bioinformatics/btz211).
 
 * `SV 10-1000`: These gene trees can be found in the ASTRAL-II subsection below.  
@@ -43,48 +43,48 @@ Yin, J., Zhang, C., & Mirarab, S. (2019). ASTRAL-MP: Scaling ASTRAL to very larg
 
 	* Scripts to generate the data and to analyze it are also found on [GitHub](https://github.com/smirarab/astralmp-simulations) 
 
-#### ASTRAL-Multiind:
+#### ASTRAL-Multiind
 Rabiee, Maryam, Erfan Sayyari, and Siavash Mirarab. “Multi-Allele Species Reconstruction Using ASTRAL.” Molecular Phylogenetics and Evolution 130 (2019): 286–96. [10.1016/j.ympev.2018.10.033](https://doi.org/10.1016/j.ympev.2018.10.033). 
 
 * The smaller data, including script on [GitHub](https://gitlab.com/mrabiee/ASTRAL-multiind/)
 * The larger datasets are on [Dryad](https://datadryad.org/stash/dataset/doi:10.6076/D17W2T)
 
-#### INSTRAL:
+#### INSTRAL
 Rabiee, Maryam, and Siavash Mirarab. “INSTRAL: Discordance-Aware Phylogenetic Placement Using Quartet Scores.” Systematic Biology, July 10, 2019. [doi: 10.1093/sysbio/syz045](https://doi.org/10.1093/sysbio/syz045).
 
 * Data are available on [Dryad](https://doi.org/10.5061/dryad.cs59t13)
 
-#### Polytomy test:
+#### Polytomy test
 Sayyari, E., & Mirarab, S. (2018). Testing for Polytomies in Phylogenetic Species Trees Using Quartet Frequencies. Genes, 9(3), 132. [doi: 10.3390/genes9030132](https://doi.org/10.3390/genes9030132). 
 
 * Data available on [Github](https://github.com/esayyari/polytomytest), which itself refers to [GitLab](https://gitlab.com/esayyari/polytomy)  
 
-#### ASTRAL-III:
+#### ASTRAL-III
 Zhang, Chao, Maryam Rabiee, Erfan Sayyari, and Siavash Mirarab. “ASTRAL-III: Polynomial Time Species Tree Reconstruction from Partially Resolved Gene Trees.” BMC Bioinformatics 19, no. S6 (2018): 153. <https://doi.org/10.1186/s12859-018-2129-y>.
 
 * Data are available on [GitLab](https://gitlab.com/esayyari/ASTRALIII) 
 
-#### LocalPP:
+#### LocalPP
 Sayyari, E., & Mirarab, S. (2016). Fast Coalescent-Based Computation of Local Branch Support from Quartet Frequencies. Molecular Biology and Evolution, 33(7), 1654–1668. <https://doi.org/10.1093/molbev/msw079> 
 
 * <https://esayyari.github.io/FastLocalBranchSupport.html>
 
 * **Note:** This is to be moved to a more permanent place soon. 
 
-#### ASTRAL-HGT study:
+#### ASTRAL-HGT study
 
 Davidson, Ruth, Pranjal Vachaspati, Siavash Mirarab, and Tandy Warnow. “Phylogenomic Species Tree Estimation in the Presence of Incomplete Lineage Sorting and Horizontal Gene Transfer.” BMC Genomics 16, no. Suppl 10 (2015): S1. [10.1186/1471-2164-16-S10-S1](https://doi.org/10.1186/1471-2164-16-S10-S1).
 
 * Data available from [Illinois data bank](https://databank.illinois.edu/datasets/IDB-6670066).
 
-#### ASTRAL-II:
+#### ASTRAL-II
 Mirarab, S., & Warnow, T. (2015). ASTRAL-II: Coalescent-based species tree estimation with many hundreds of taxa and thousands of genes. Bioinformatics, 31(12), i44–i52. [10.1093/bioinformatics/btv234](https://doi.org/10.1093/bioinformatics/btv234) 
 
 * Simulation scripts are available on [Github](https://github.com/smirarab/astral2sims)
 
 * All the simulation and real data files are available on [Dryad](https://doi.org/doi:10.6076/D10C7C).
 
-#### ASTRAL-I: 
+#### ASTRAL-I
 Mirarab, Siavash, Rezwana Reaz, Md. Shamsuzzoha Bayzid, Théo Zimmermann, M. S. Swenson, and Tandy Warnow. “ASTRAL: Genome-Scale Coalescent-Based Species Tree Estimation.” Bioinformatics 30, no. 17 (2014): i541–48. [doi:10.1093/bioinformatics/btu462](doi.org/10.1093/bioinformatics/btu462).
 
 * Data will be **on Dryad** soon.
@@ -146,12 +146,12 @@ Mai, Uyen, and Siavash Mirarab. “Completing Gene Trees without Species Trees i
 * The actual data are on [Dryad](https://datadryad.org/stash/dataset/doi:10.6076/D1N30V)
 
 
-#### 10K Bacteria:
+#### 10K Bacteria
 Zhu, Q., Mai, U., Pfeiffer, W., Janssen, S., Asnicar, F., Sanders, J. G., Belda-Ferre, P., Al-Ghalith, G. A., Kopylova, E., McDonald, D., Kosciolek, T., Yin, J. B., Huang, S., Salam, N., Jiao, J., Wu, Z., Xu, Z. Z., Cantrell, K., Yang, Y., … Knight, R. (2019). Phylogenomics of 10,575 genomes reveals evolutionary proximity between domains Bacteria and Archaea. Nature Communications, 10(1), 5477. [doi: 10.1038/s41467-019-13443-4](https://doi.org/10.1038/s41467-019-13443-4) 
 
 * The 10k bacteria dataset is available [here](https://github.com/biocore/wol)
 
-#### Fragmentary data:
+#### Fragmentary data
 Erfan Sayyari, James B Whitfield, and Siavash Mirarab, “Fragmentary Gene Sequences Negatively Impact Gene Tree and Species Tree Reconstruction,” Molecular Biology and Evolution 34, no. 12 (2017): 3279–91, <https://doi.org/10.1093/molbev/msx261>.
 
 * See [this page](http://esayyari.github.io/fragments.html) 
@@ -165,27 +165,49 @@ Sayyari, Erfan, and Siavash Mirarab. “Anchoring Quartet-Based Phylogenetic Dis
 * Some of the files linked there may be lost, unfortunately. 
 
 
-## Skimming
+## Skimming and Microbiome
+
+### Phylogenetic placement
 
 
-#### APPLES-II: 
+
+#### h-DEPP
+
+Jiang, Yueyu, Puoya Tabaghi, and Siavash Mirarab. “Learning Hyperbolic Embedding for Phylogenetic Tree Placement and Updates.” Biology 11, no. 9 (2022): 1256. <https://doi.org/10.3390/biology11091256>.
+
+* <https://github.com/yueyujiang/hyperbolic_results>
+
+#### DEPP
+Jiang, Yueyu, Metin Balaban, Qiyun Zhu, and Siavash Mirarab. “DEPP: Deep Learning Enables Extending Species Trees Using Single Genes.” Edited by Claudia Solis-Lemus. Systematic Biology 72, no. 1 (2023): 17–34. <https://doi.org/10.1093/sysbio/syac031>.
+
+
+* <https://skmer.ucsd.edu/data/depp/>
+
+#### APPLES-II
 
 Balaban, Metin, Yueyu Jiang, Daniel Roush, Qiyun Zhu, and Siavash Mirarab. “Fast and Accurate Distance‐based Phylogenetic Placement Using Divide and Conquer.” Molecular Ecology Resources 22, no. 3 (2022): 1213–27. <https://doi.org/10.1111/1755-0998.13527>.
 
 * Available on [Zenodo](https://zenodo.org/record/5551285)
 
-#### MISA: 
+#### MISA
 Balaban, Metin, and Siavash Mirarab. “Phylogenetic Double Placement of Mixed Samples.” Bioinformatics 36, no. Supplement_1 (July 1, 2020): i335–43. [doi: 10.1093/bioinformatics/btaa489](https://doi.org/10.1093/bioinformatics/btaa489).
 
 * Smaller files on [GitHub](https://github.com/balabanmetin/misa-data)
 * Large files are given on [Dryad](https://datadryad.org/stash/dataset/doi:10.6076/D1QW25)
 
-#### APPLES-I: 
+#### APPLES-I
 
 Balaban, Metin, Shahab Sarmashghi, and Siavash Mirarab. “APPLES: Scalable Distance-Based Phylogenetic Placement with or without Alignments.” Edited by David Posada. Systematic Biology 69, no. 3 (2020): 566–78. <https://doi.org/10.1093/sysbio/syz063>.
 
 
 * Available on [Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.78nf7dq)
+
+
+### Skmer (distance calculation)
+#### Skmer Support values
+Rachtman, Eleonora, Shahab Sarmashghi, Vineet Bafna, and Siavash Mirarab. “Quantifying the Uncertainty of Assembly-Free Genome-Wide Distance Estimates and Phylogenetic Relationships Using Subsampling.” Cell Systems 13, no. 10 (2022): 817-829.e3. <https://doi.org/10.1016/j.cels.2022.06.007>.
+
+* This paper analyzes existing, publicly available data. All original studies are referenced in the main text. Accession numbers for the datasets are available in this paper’s [supplemental information](https://ars.els-cdn.com/content/image/1-s2.0-S2405471222002770-mmc1.pdf).
 
 
 #### Skmer
@@ -196,7 +218,10 @@ Sarmashghi, Shahab, Kristine Bohmann, M. Thomas P. Gilbert, Vineet Bafna, and Si
 * The actual data are on <https://skmer.ucsd.edu/data/skmer>
 
 
-## Microbiome
+### Others
+
+#### TADA
+
 
 ## Branch Length
 
