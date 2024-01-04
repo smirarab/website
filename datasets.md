@@ -3,6 +3,9 @@ layout: page
 title: Datasets
 ---
 
+* TOC
+{:toc}
+
 # Phylogenomics
 
 ## ASTRAL related
@@ -89,6 +92,20 @@ Mirarab, Siavash, Rezwana Reaz, Md. Shamsuzzoha Bayzid, Théo Zimmermann, M. S. 
 * Data will be **on Dryad** soon.
 
 
+## Misc
+
+
+Sayyari and Mirarab,
+Fragmentary data
+Fragmentary Gene Sequences Negatively Impact Gene Tree and Species Tree Reconstruction
+10.1093/molbev/msx261
+http://esayyari.github.io/fragments.html 
+
+Sayyari and Mirarab, DISTIQUE
+Anchoring quartet-based phylogenetic distances and applications to species tree reconstruction
+10.1186/s12864-016-3098-z
+http://esayyari.github.io/DISTIQUE 
+
 
 ## Binning related
 
@@ -102,40 +119,39 @@ Mirarab, Siavash, Rezwana Reaz, Md. Shamsuzzoha Bayzid, Théo Zimmermann, M. S. 
 
 # Branch Length
 
-Mai, Uyen, Erfan Sayyari, and Siavash Mirarab. “Minimum Variance Rooting of Phylogenetic Trees and Implications for Species Tree Reconstruction.” Edited by Gabriel Moreno-Hagelsieb. PLOS ONE 12, no. 8 (August 11, 2017): e0182238. https://doi.org/10.1371/journal.pone.0182238.
+## Dating
 
-For data, see https://uym2.github.io/MinVar-Rooting/ 
-
-Mai, Uyen, and Siavash Mirarab. “TreeShrink: Fast and Accurate Detection of Outlier Long Branches in Collections of Phylogenetic Trees.” BMC Genomics 19, no. S5 (May 8, 2018): 272. https://doi.org/10.1186/s12864-018-4620-2. 
-
-For dasta, see https://uym2.github.io/TreeShrink/ 
-
-Balaban, Metin, Niema Moshiri, Uyen Mai, Xingfan Jia, and Siavash Mirarab. “TreeCluster: Clustering Biological Sequences Using Phylogenetic Trees.” Edited by Serdar Bozdag. PLOS ONE 14, no. 8 (August 22, 2019): e0221068. https://doi.org/10.1371/journal.pone.0221068.
-
-https://zenodo.org/record/3358386
+#### wLogDate
 
 Uyen Mai, Siavash Mirarab, Log Transformation Improves Dating of Phylogenies, Molecular Biology and Evolution, msaa222, https://doi.org/10.1093/molbev/msaa222.
 
-https://uym2.github.io/wLogDate/ 
+* https://uym2.github.io/wLogDate/ 
 
-# Misc
+## Rooting, Clustering, Error detection, etc.
+#### MinVarRooting
 
-Moshiri and Mirarab, Dual-brith
-A Two-State Model of Tree Evolution and Its Applications to Alu Retrotransposition
-10.1093/sysbio/syx088
-https://doi.org/10.5061/dryad.13n52 
+Mai, Uyen, Erfan Sayyari, and Siavash Mirarab. “Minimum Variance Rooting of Phylogenetic Trees and Implications for Species Tree Reconstruction.” Edited by Gabriel Moreno-Hagelsieb. PLOS ONE 12, no. 8 (August 11, 2017): e0182238. https://doi.org/10.1371/journal.pone.0182238.
+
+* For data, see https://uym2.github.io/MinVar-Rooting/ 
+
+##### TreeShrink
+
+Mai, Uyen, and Siavash Mirarab. “TreeShrink: Fast and Accurate Detection of Outlier Long Branches in Collections of Phylogenetic Trees.” BMC Genomics 19, no. S5 (May 8, 2018): 272. https://doi.org/10.1186/s12864-018-4620-2. 
+
+* For dasta, see https://uym2.github.io/TreeShrink/ 
+
+#### TreeCluster
+Balaban, Metin, Niema Moshiri, Uyen Mai, Xingfan Jia, and Siavash Mirarab. “TreeCluster: Clustering Biological Sequences Using Phylogenetic Trees.” Edited by Serdar Bozdag. PLOS ONE 14, no. 8 (August 22, 2019): e0221068. https://doi.org/10.1371/journal.pone.0221068.
+
+* https://zenodo.org/record/3358386
+
+### DualBirth model
+
+Moshiri and Mirarab, Dual-brith: A Two-State Model of Tree Evolution and Its Applications to Alu Retrotransposition. 10.1093/sysbio/syx088
+
+* https://doi.org/10.5061/dryad.13n52 
 
 
-Sayyari and Mirarab,
-Fragmentary data
-Fragmentary Gene Sequences Negatively Impact Gene Tree and Species Tree Reconstruction
-10.1093/molbev/msx261
-http://esayyari.github.io/fragments.html 
-
-Sayyari and Mirarab, DISTIQUE
-Anchoring quartet-based phylogenetic distances and applications to species tree reconstruction
-10.1186/s12864-016-3098-z
-http://esayyari.github.io/DISTIQUE 
 
 
 
