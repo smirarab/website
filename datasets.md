@@ -12,27 +12,24 @@ title: Datasets
 
 #### weighted ASTRAL:
 	
-Zhang, C., & Mirarab, S. (2022). Weighting by Gene Tree Uncertainty Improves Accuracy of Quartet-based Species Trees. Molecular Biology and Evolution, 39(12), msac215. https://doi.org/10.1093/molbev/msac215.
+Zhang, C., & Mirarab, S. (2022). Weighting by Gene Tree Uncertainty Improves Accuracy of Quartet-based Species Trees. Molecular Biology and Evolution, 39(12), msac215. [10.1093/molbev/msac215](https://doi.org/10.1093/molbev/msac215).
 
 - Small files, including scripts: [Gihub](https://github.com/chaoszhang/Weighted-ASTRAL_data) 
 - Larger files: [Dryad](https://doi.org/10.6076/D1WK5R)
 
 #### ASTRAL-Pro:
 
-- Zhang, C., Scornavacca, C., Molloy, E. K., & Mirarab, S. (2020). ASTRAL-Pro: Quartet-Based Species-Tree Inference despite Paralogy. Molecular Biology and Evolution, 37(11), 3292–3307. https://doi.org/10.1093/molbev/msaa139 
+- Zhang, C., Scornavacca, C., Molloy, E. K., & Mirarab, S. (2020). ASTRAL-Pro: Quartet-Based Species-Tree Inference despite Paralogy. Molecular Biology and Evolution, 37(11), 3292–3307. [10.1093/molbev/msaa139](https://doi.org/10.1093/molbev/msaa139) 
 	- Small files, including scripts: [Gihub](https://github.com/chaoszhang/A-pro_data/) 
 	- Larger files: [Dryad](​​https://datadryad.org/stash/dataset/doi:10.6076/D11C7P)
 
-- Zhang, C., & Mirarab, S. (2022). ASTRAL-Pro 2: Ultrafast species tree reconstruction from multi-copy gene family trees. Bioinformatics. https://doi.org/10.1093/bioinformatics/btac620 
-	- Small files, including scripts: [Gihub](https://github.com/chaoszhang/A-Pro2_data) 
-	- Larger files: [Dryad]()
+- Zhang, C., & Mirarab, S. (2022). ASTRAL-Pro 2: Ultrafast species tree reconstruction from multi-copy gene family trees. Bioinformatics. (10.1093/bioinformatics/btac620)(https://doi.org/10.1093/bioinformatics/btac620)
+	- Available on [Gihub](https://github.com/chaoszhang/A-Pro2_data) 
 
 
 
 #### ASTRAL-MP:
-Yin, J., Zhang, C., & Mirarab, S. (2019). ASTRAL-MP: Scaling ASTRAL to very large datasets using randomization and parallelization. Bioinformatics, 35(20). https://doi.org/10.1093/bioinformatics/btz211.
-
-
+Yin, J., Zhang, C., & Mirarab, S. (2019). ASTRAL-MP: Scaling ASTRAL to very large datasets using randomization and parallelization. Bioinformatics, 35(20). [doi.org/10.1093/bioinformatics/btz211](https://doi.org/10.1093/bioinformatics/btz211).
 
 * `SV 10-1000`: These gene trees can be found in the ASTRAL-II subsection below.  
 
@@ -75,12 +72,13 @@ https://esayyari.github.io/FastLocalBranchSupport.html
 **Note:** This is to be moved to a more permanent place soon. 
 
 #### ASTRAL-HGT study:
-Davidson, Ruth; Vachaspati, Pranjal; Mirarab, Siavash; Warnow, Tandy (2023): Data from: Phylogenomic species tree estimation in the presence of incomplete lineage sorting and horizontal gene transfer. 
+
+Davidson, Ruth, Pranjal Vachaspati, Siavash Mirarab, and Tandy Warnow. “Phylogenomic Species Tree Estimation in the Presence of Incomplete Lineage Sorting and Horizontal Gene Transfer.” BMC Genomics 16, no. Suppl 10 (2015): S1. [10.1186/1471-2164-16-S10-S1](https://doi.org/10.1186/1471-2164-16-S10-S1).
 
 * Data available from [Illinois data bank](https://databank.illinois.edu/datasets/IDB-6670066).
 
 #### ASTRAL-II:
-Mirarab, S., & Warnow, T. (2015). ASTRAL-II: Coalescent-based species tree estimation with many hundreds of taxa and thousands of genes. Bioinformatics, 31(12), i44–i52. https://doi.org/10.1093/bioinformatics/btv234 
+Mirarab, S., & Warnow, T. (2015). ASTRAL-II: Coalescent-based species tree estimation with many hundreds of taxa and thousands of genes. Bioinformatics, 31(12), i44–i52. [10.1093/bioinformatics/btv234](https://doi.org/10.1093/bioinformatics/btv234) 
 
 * Simulation scripts are available on [Github](https://github.com/smirarab/astral2sims)
 
@@ -92,28 +90,93 @@ Mirarab, Siavash, Rezwana Reaz, Md. Shamsuzzoha Bayzid, Théo Zimmermann, M. S. 
 * Data will be **on Dryad** soon.
 
 
+## Binning related
+
+#### Statistical Binning
+
+Mirarab, Siavash, Md. Shamsuzzoha Bayzid, Bastien Boussau, and Tandy Warnow. “Statistical Binning Enables an Accurate Coalescent-Based Estimation of the Avian Tree.” Science 346, no. 6215 (2014): 1250463–1250463. [doi: 10.1126/science.1250463](http://dx.doi.org/10.1126/science.1250463)  
+
+* The statistical binning dataset is permanently provided at UIUC under [doi:10.13012/C5MW2F2P](http://dx.doi.org/10.13012/C5MW2F2P) 
+* Some files are missing from that link and are provided on [this GitHub page](https://github.com/smirarab/binning-extra-data). The README.pdf file shown on that github page gives the details. 
+
+#### Weighted Statistical Binning
+
+
+Bayzid, Md. Shamsuzzoha, Siavash Mirarab, Bastien Boussau, and Tandy Warnow. “Weighted Statistical Binning: Enabling Statistically Consistent Genome-Scale Phylogenetic Analyses.” PLoS ONE 10, no. 6 (January 18, 2015): e0129183. doi:10.1371/journal.pone.0129183.
+
+* Most of the datasets used in this study are available through the prior publication (statistical binning). 
+
+* The new datasets generated for this study are available on [figshare, with DOI: 10.6084/m9.figshare.1411146](http://dx.doi.org/10.6084/m9.figshare.1411146). 
+	* A more detailed RADME files is available [here](https://github.com/smirarab/binning-extra-data/tree/main/weighted-binning) 
+
+* The weighted statistical binning software is available on [GitHub](https://github.com/smirarab/binning).
+
+#### Response to comment on statistical binning
+
+Mirarab, Siavash, Md. Shamsuzzoha Bayzid, Bastien Boussau, and Tandy Warnow. “Response to Comment on ‘Statistical Binning Enables an Accurate Coalescent-Based Estimation of the Avian Tree.’” Science 350, no. 6257 (October 9, 2015): 171. doi:10.1126/science.aaa7719.
+
+* Data are made available on [GitHub](https://github.com/smirarab/binning-extra-data)
+
+#### BBCA
+Zimmermann, Théo, Siavash Mirarab, and Tandy Warnow. “BBCA: Improving the Scalability of *BEAST Using Random Binning.” BMC Genomics 15, no. Suppl 6 (October 17, 2014): S11. [doi:10.1186/1471-2164-15-S6-S11](https://doi.org/10.1186/1471-2164-15-S6-S11).
+
+* Data are made available on [GitHub](https://github.com/smirarab/binning-extra-data/tree/main/bbca)
+
 ## Misc
 
+#### uDance
 
-Sayyari and Mirarab,
-Fragmentary data
-Fragmentary Gene Sequences Negatively Impact Gene Tree and Species Tree Reconstruction
-10.1093/molbev/msx261
-http://esayyari.github.io/fragments.html 
+* https://doi.org/10.7910/DVN/BCUM6P 
 
-Sayyari and Mirarab, DISTIQUE
-Anchoring quartet-based phylogenetic distances and applications to species tree reconstruction
-10.1186/s12864-016-3098-z
-http://esayyari.github.io/DISTIQUE 
+#### Quco
 
+* https://datadryad.org/stash/dataset/doi:10.6076/D1CP4R 
+* https://gitlab.com/mrabiee/quo-data
 
-## Binning related
+#### TripVote
+
+* https://uym2.github.io/tripVote/
+
+#### Fragmentary data:
+Sayyari, E., Whitfield, J. B., & Mirarab, S. (2017). Fragmentary Gene Sequences Negatively Impact Gene Tree and Species Tree Reconstruction. Molecular Biology and Evolution, 34(12), 3279–3291. https://doi.org/10.1093/molbev/msx261 
+
+* See [this page](http://esayyari.github.io/fragments.html) 
+* Most of the data is on [Dryad: doi:10.6076/D14599](https://datadryad.org/stash/dataset/doi:10.6076/D14599)
+
+#### 10K Bacteria:
+Zhu, Q., Mai, U., Pfeiffer, W., Janssen, S., Asnicar, F., Sanders, J. G., Belda-Ferre, P., Al-Ghalith, G. A., Kopylova, E., McDonald, D., Kosciolek, T., Yin, J. B., Huang, S., Salam, N., Jiao, J., Wu, Z., Xu, Z. Z., Cantrell, K., Yang, Y., … Knight, R. (2019). Phylogenomics of 10,575 genomes reveals evolutionary proximity between domains Bacteria and Archaea. Nature Communications, 10(1), 5477. [doi: 10.1038/s41467-019-13443-4](https://doi.org/10.1038/s41467-019-13443-4) 
+
+* The 10k bacteria dataset is available [here](https://github.com/biocore/wol)
+
+#### DISTIQUE
+Sayyari, Erfan, and Siavash Mirarab. “Anchoring Quartet-Based Phylogenetic Distances and Applications to Species Tree Reconstruction.” BMC Genomics 17, no. S10 (2016): 101–13. [doi: 10.1186/s12864-016-3098-z](https://doi.org/10.1186/s12864-016-3098-z).
+
+* http://esayyari.github.io/DISTIQUE 
+* Some of the files linked there may be lost unfortunately. 
+
 
 # Skimming
 
-* APPLES-I: https://datadryad.org/stash/dataset/doi:10.5061/dryad.78nf7dq
+#### APPLES-I: 
 
-* APPLES-II: https://zenodo.org/record/5551285 
+* Available on [Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.78nf7dq)
+
+#### APPLES-II: 
+
+* Available on [Zenodo](https://zenodo.org/record/5551285)
+
+#### MISA: 
+Balaban, Metin, and Siavash Mirarab. “Phylogenetic Double Placement of Mixed Samples.” Bioinformatics 36, no. Supplement_1 (July 1, 2020): i335–43. [doi: 10.1093/bioinformatics/btaa489](https://doi.org/10.1093/bioinformatics/btaa489).
+
+
+* Smaller files on [GitHub](https://github.com/balabanmetin/misa-data)
+* Large files are given on [Dryad](https://datadryad.org/stash/dataset/doi:10.6076/D1QW25)
+
+#### Skmer
+
+* https://shahab-sarmashghi.github.io/Skmer/
+* https://skmer.ucsd.edu/data/skmer
+
 
 # Microbiome
 
@@ -136,22 +199,30 @@ Mai, Uyen, Erfan Sayyari, and Siavash Mirarab. “Minimum Variance Rooting of Ph
 
 ##### TreeShrink
 
-Mai, Uyen, and Siavash Mirarab. “TreeShrink: Fast and Accurate Detection of Outlier Long Branches in Collections of Phylogenetic Trees.” BMC Genomics 19, no. S5 (May 8, 2018): 272. https://doi.org/10.1186/s12864-018-4620-2. 
+Mai, Uyen, and Siavash Mirarab. “TreeShrink: Fast and Accurate Detection of Outlier Long Branches in Collections of Phylogenetic Trees.” BMC Genomics 19, no. S5 (May 8, 2018): 272. [doi: 10.1186/s12864-018-4620-2](https://doi.org/10.1186/s12864-018-4620-2). 
 
-* For dasta, see https://uym2.github.io/TreeShrink/ 
+* For dasta, see [https://uym2.github.io/TreeShrink/](https://uym2.github.io/TreeShrink/)
+* Much of the larger datasets are on [Dryad](https://doi.org/doi:10.6076/D1HC71)
 
 #### TreeCluster
-Balaban, Metin, Niema Moshiri, Uyen Mai, Xingfan Jia, and Siavash Mirarab. “TreeCluster: Clustering Biological Sequences Using Phylogenetic Trees.” Edited by Serdar Bozdag. PLOS ONE 14, no. 8 (August 22, 2019): e0221068. https://doi.org/10.1371/journal.pone.0221068.
+Balaban, Metin, Niema Moshiri, Uyen Mai, Xingfan Jia, and Siavash Mirarab. “TreeCluster: Clustering Biological Sequences Using Phylogenetic Trees.” Edited by Serdar Bozdag. PLOS ONE 14, no. 8 (2019): e0221068. [doi:10.1371/journal.pone.0221068](https://doi.org/10.1371/journal.pone.0221068).
 
-* https://zenodo.org/record/3358386
+* Data deposited on [Zenodo](https://zenodo.org/record/3358386)
+
+
+# Cladogenesis 
+
+### DIMSIM
+
+* https://datadryad.org/stash/dataset/doi:10.6076/D1530H 
 
 ### DualBirth model
 
-Moshiri and Mirarab, Dual-brith: A Two-State Model of Tree Evolution and Its Applications to Alu Retrotransposition. 10.1093/sysbio/syx088
+Moshiri and Mirarab, Dual-birth: A Two-State Model of Tree Evolution and Its Applications to Alu Retrotransposition. 10.1093/sysbio/syx088
 
 * https://doi.org/10.5061/dryad.13n52 
 
 
+# Obsolete
 
-
-
+This [dataset webpage](https://sites.google.com/eng.ucsd.edu/datasets/home?authuser=0) used to host our datasets. We have made an effort to make everything available elsewhere. I provide the link here just in case it becomes useful. 
