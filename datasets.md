@@ -26,7 +26,18 @@ Zhang, C., & Mirarab, S. (2022). Weighting by Gene Tree Uncertainty Improves Acc
 - Zhang, C., & Mirarab, S. (2022). ASTRAL-Pro 2: Ultrafast species tree reconstruction from multi-copy gene family trees. Bioinformatics. [10.1093/bioinformatics/btac620](https://doi.org/10.1093/bioinformatics/btac620)
 	- Available on [Gihub](https://github.com/chaoszhang/A-Pro2_data) 
 
+#### SODA
 
+Rabiee, Maryam, and Siavash Mirarab. “SODA: Multi-Locus Species Delimitation Using Quartet Frequencies.” Edited by Yann Ponty. Bioinformatics 36, no. 24 (2021): 5623–31. <https://doi.org/10.1093/bioinformatics/btaa1010>.
+
+
+* Some of the data available on <https://github.com/maryamrabiee/SODA/tree/master/data>
+
+#### ASTRAL-constrained
+
+Rabiee, Maryam, and Siavash Mirarab. “Forcing External Constraints on Tree Inference Using ASTRAL.” BMC Genomics 21, no. S2 (2020): 218. [doi:10.1186/s12864-020-6607-z](https://doi.org/10.1186/s12864-020-6607-z).
+
+* <https://github.com/maryamrabiee/Constrained-search-data>
 
 #### ASTRAL-MP
 Yin, J., Zhang, C., & Mirarab, S. (2019). ASTRAL-MP: Scaling ASTRAL to very large datasets using randomization and parallelization. Bioinformatics, 35(20). [doi.org/10.1093/bioinformatics/btz211](https://doi.org/10.1093/bioinformatics/btz211).
@@ -48,6 +59,7 @@ Rabiee, Maryam, Erfan Sayyari, and Siavash Mirarab. “Multi-Allele Species Reco
 
 * The smaller data, including script on [GitHub](https://gitlab.com/mrabiee/ASTRAL-multiind/)
 * The larger datasets are on [Dryad](https://datadryad.org/stash/dataset/doi:10.6076/D17W2T)
+
 
 #### INSTRAL
 Rabiee, Maryam, and Siavash Mirarab. “INSTRAL: Discordance-Aware Phylogenetic Placement Using Quartet Scores.” Systematic Biology, July 10, 2019. [doi: 10.1093/sysbio/syz045](https://doi.org/10.1093/sysbio/syz045).
@@ -122,7 +134,7 @@ Zimmermann, Théo, Siavash Mirarab, and Tandy Warnow. “BBCA: Improving the Sca
 
 * Data are made available on [GitHub](https://github.com/smirarab/binning-extra-data/tree/main/bbca); see `bbca` directory there. 
 
-### Misc
+### Misc methods
 
 #### uDance
 
@@ -145,11 +157,42 @@ Mai, Uyen, and Siavash Mirarab. “Completing Gene Trees without Species Trees i
 * See <https://uym2.github.io/tripVote/>
 * The actual data are on [Dryad](https://datadryad.org/stash/dataset/doi:10.6076/D1N30V)
 
+#### TAPER
+Zhang, Chao, Yiming Zhao, Edward Louis Braun, and Siavash Mirarab. “TAPER: Pinpointing Errors in Multiple Sequence Alignments despite Varying Rates of Evolution.” Methods in Ecology and Evolution 12, no. 11 (2021), 2145-58. [doi:10.1111/2041-210X.13696](http://doi.org/10.1111/2041-210X.13696). 
+
+* Github: <https://github.com/yimingnzhao/TAPER-Results>
+* Zenodo: <https://doi.org/10.5281/zenodo.5138561>
+
+### Empirical datasets 
+
+#### 1KP
+One Thousand Plant Transcriptomes Initiative Green (a co-first author) “One Thousand Plant Transcriptomes and the Phylogenomics of Green Plants.” Nature, 2019. [doi:10.1038/s41586-019-1693-2](https://www.nature.com/articles/s41586-019-1693-2).
+
+* This paper has many datasets, but the most relevant part to my work is on <https://github.com/smirarab/1kp>
+
+#### More is needed!
+
+Ekin Tilic, Erfan Sayyari, Josefin Stiller, Siavash Mirarab, and Greg W Rouse. “More Is Needed—Thousands of Loci Are Required to Elucidate the Relationships of the ‘Flowers of the Sea’ (Sabellida, Annelida).” Molecular Phylogenetics and Evolution 151 (2020): 106892. [10.1016/j.ympev.2020.106892](https://doi.org/10.1016/j.ympev.2020.106892).
+
+* <https://data.mendeley.com/datasets/khjmr4mh34/2>
+
 
 #### 10K Bacteria
 Zhu, Q., Mai, U., Pfeiffer, W., Janssen, S., Asnicar, F., Sanders, J. G., Belda-Ferre, P., Al-Ghalith, G. A., Kopylova, E., McDonald, D., Kosciolek, T., Yin, J. B., Huang, S., Salam, N., Jiao, J., Wu, Z., Xu, Z. Z., Cantrell, K., Yang, Y., … Knight, R. (2019). Phylogenomics of 10,575 genomes reveals evolutionary proximity between domains Bacteria and Archaea. Nature Communications, 10(1), 5477. [doi: 10.1038/s41467-019-13443-4](https://doi.org/10.1038/s41467-019-13443-4) 
 
 * The 10k bacteria dataset is available [here](https://github.com/biocore/wol)
+
+#### Avian Indel
+
+Houde, Peter, Edward L Braun, Nitish Narula, Uriel Minjares, and Siavash Mirarab. “Phylogenetic Signal of Indels and the Neoavian Radiation.” Diversity 11, no. 7 (July 6, 2019): 108. <https://doi.org/10.3390/d11070108>.
+
+* <https://zenodo.org/records/3237219>
+* See also <https://github.com/smirarab/avian-indels>
+
+#### Ruminants
+hen, Lei, Qiang Qiu, Yu Jiang, Kun Wang, Zeshan Lin, Zhipeng Li, Faysal Bibi, et al. “Large-Scale Ruminant Genome Sequencing Provides Insights into Their Evolution and Distinct Traits.” Science 364, no. 6446 (2019): eaav6202. [10.1126/science.aav6202](https://doi.org/10.1126/science.aav6202).
+
+* Dryad: <https://datadryad.org/stash/dataset/doi:10.5061/dryad.52213gc>
 
 #### Fragmentary data
 Erfan Sayyari, James B Whitfield, and Siavash Mirarab, “Fragmentary Gene Sequences Negatively Impact Gene Tree and Species Tree Reconstruction,” Molecular Biology and Evolution 34, no. 12 (2017): 3279–91, <https://doi.org/10.1093/molbev/msx261>.
@@ -180,8 +223,13 @@ Jiang, Yueyu, Puoya Tabaghi, and Siavash Mirarab. “Learning Hyperbolic Embeddi
 #### DEPP
 Jiang, Yueyu, Metin Balaban, Qiyun Zhu, and Siavash Mirarab. “DEPP: Deep Learning Enables Extending Species Trees Using Single Genes.” Edited by Claudia Solis-Lemus. Systematic Biology 72, no. 1 (2023): 17–34. <https://doi.org/10.1093/sysbio/syac031>.
 
-
 * <https://skmer.ucsd.edu/data/depp/>
+
+#### APPLES bootstrapping
+Hasan, Navid Bin, Metin Balaban, Avijit Biswas, Md. Shamsuzzoha Bayzid, and Siavash Mirarab. “Distance-Based Phylogenetic Placement with Statistical Support.” Biology 11, no. 8 (August 12, 2022): 1212. <https://doi.org/10.3390/biology11081212>.
+
+
+* <https://github.com/navidh86/apples2-support-data>
 
 #### APPLES-II
 
@@ -204,11 +252,19 @@ Balaban, Metin, Shahab Sarmashghi, and Siavash Mirarab. “APPLES: Scalable Dist
 
 
 ### Skmer (distance calculation)
+
 #### Skmer Support values
 Rachtman, Eleonora, Shahab Sarmashghi, Vineet Bafna, and Siavash Mirarab. “Quantifying the Uncertainty of Assembly-Free Genome-Wide Distance Estimates and Phylogenetic Relationships Using Subsampling.” Cell Systems 13, no. 10 (2022): 817-829.e3. <https://doi.org/10.1016/j.cels.2022.06.007>.
 
 * This paper analyzes existing, publicly available data. All original studies are referenced in the main text. Accession numbers for the datasets are available in this paper’s [supplemental information](https://ars.els-cdn.com/content/image/1-s2.0-S2405471222002770-mmc1.pdf).
 
+#### Tk4 model
+Balaban, Metin, Nishat A Bristy, Ahnaf Faisal, Md. Shamsuzzoha Bayzid, and Siavash Mirarab. “Genome-Wide Alignment-Free Phylogenetic Distance Estimation under a No Strand-Bias Model.” Edited by Thomas Lengauer. Bioinformatics Advances 2, no. 1 (2022): vbac055. <https://doi.org/10.1093/bioadv/vbac055>.
+
+
+* Available in Zenodo, at 
+	* <https://doi.org/10.5281/zenodo.6974987>
+	* <https://doi.org/10.5281/zenodo.6975011>
 
 #### Skmer
 Sarmashghi, Shahab, Kristine Bohmann, M. Thomas P. Gilbert, Vineet Bafna, and Siavash Mirarab. “Skmer: Assembly-Free and Alignment-Free Sample Identification Using Genome Skims.” Genome Biology 20, no. 1 (2019): 34. <https://doi.org/10.1186/s13059-019-1632-4>.
@@ -218,20 +274,35 @@ Sarmashghi, Shahab, Kristine Bohmann, M. Thomas P. Gilbert, Vineet Bafna, and Si
 * The actual data are on <https://skmer.ucsd.edu/data/skmer>
 
 
-### Others
+### Taxonomic classification and Contamination removal
 
-#### TADA
+#### Impact paper:
+Rachtman, Eleonora, Metin Balaban, Vineet Bafna, and Siavash Mirarab. “The Impact of Contaminants on the Accuracy of Genome Skimming and the Effectiveness of Exclusion Read Filters.” Molecular Ecology Resources 20, no. 3 (May 4, 2020): 1755-0998.13135. <https://doi.org/10.1111/1755-0998.13135>.
 
+* Available on Dryad <https://datadryad.org/stash/dataset/doi:10.6076/D1FG62>
+
+#### CONSULT-II 
+To be added
+
+#### CONSULT
+To be added
 
 ## Branch Length
 
-### Dating
+### Dating and unit conversion
 
 #### wLogDate
 
 Uyen Mai, Siavash Mirarab, Log Transformation Improves Dating of Phylogenies, Molecular Biology and Evolution, msaa222, <https://doi.org/10.1093/molbev/msaa222>.
 
 * <https://uym2.github.io/wLogDate/> 
+
+#### CASTLES
+
+Tabatabaee, Yasamin, Chao Zhang, Tandy Warnow, and Siavash Mirarab. “Phylogenomic Branch Length Estimation Using Quartets.” Bioinformatics 39, no. Supplement_1 (2023): i185–93. <https://doi.org/10.1093/bioinformatics/btad221>.
+
+* <https://github.com/ytabatabaee/CASTLES>
+
 
 ### Rooting, Clustering, Error detection, etc.
 #### MinVarRooting
@@ -253,7 +324,7 @@ Balaban, Metin, Niema Moshiri, Uyen Mai, Xingfan Jia, and Siavash Mirarab. “Tr
 * Data deposited on [Zenodo](https://zenodo.org/record/3358386)
 
 
-## Cladogenesis 
+## Simulators, Cladogenesis, HIV, etc.
 
 #### DIMSIM
 
@@ -267,6 +338,10 @@ Moshiri and Mirarab, Dual-birth: A Two-State Model of Tree Evolution and Its App
 
 * Data on Dryad at <https://doi.org/10.5061/dryad.13n52> 
 
+#### ProACT
+Moshiri, Niema, Davey M Smith, and Siavash Mirarab. “HIV Care Prioritization Using Phylogenetic Branch Length.” JAIDS Journal of Acquired Immune Deficiency Syndromes (2020): 2019.12.20.885202. [doi:10.1097/QAI.000000000000261](https://doi.org/10.1097/QAI.0000000000002612).
+
+* <https://github.com/niemasd/ProACT-Paper-Final>
 
 ## Obsolete
 
