@@ -1,11 +1,7 @@
 ---
 layout: page
-title: Tools/Data
+title: Tools
 ---
-## Datasets
-
-Refer to [this site](https://sites.google.com/eng.ucsd.edu/datasets/home) for most of the datasets we have published through years.     
-
 ## Software
 
 * See my [gitub page](https://github.com/smirarab) to see all my publicly available software programs.
@@ -65,5 +61,5 @@ Refer to [this site](https://sites.google.com/eng.ucsd.edu/datasets/home) for mo
     * [Ali Osman Berk Şapcı](https://github.com/bo1929)
         * [CONSULT-II](https://github.com/bo1929/CONSULT-II)
         * [KRANK](https://github.com/bo1929/KRANK)
-    * [Yasamin Tabatabee]()
+    * [Yasamin Tabatabee](https://github.com/ytabatabaee)
         * [CASTLES](https://github.com/ytabatabaee/CASTLES)
