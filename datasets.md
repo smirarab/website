@@ -99,7 +99,7 @@ Mirarab, S., & Warnow, T. (2015). ASTRAL-II: Coalescent-based species tree estim
 #### ASTRAL-I
 Mirarab, Siavash, Rezwana Reaz, Md. Shamsuzzoha Bayzid, Théo Zimmermann, M. S. Swenson, and Tandy Warnow. “ASTRAL: Genome-Scale Coalescent-Based Species Tree Estimation.” Bioinformatics 30, no. 17 (2014): i541–48. [doi:10.1093/bioinformatics/btu462](doi.org/10.1093/bioinformatics/btu462).
 
-* Data will be **on Dryad** soon.
+* Available on Dryad: <https://doi.org/doi:10.5061/dryad.ht76hdrp0>.
 
 
 ### Binning related
@@ -323,6 +323,25 @@ Balaban, Metin, Niema Moshiri, Uyen Mai, Xingfan Jia, and Siavash Mirarab. “Tr
 
 * Data deposited on [Zenodo](https://zenodo.org/record/3358386)
 
+## Alignment
+
+#### FastSP
+
+Mirarab, Siavash, and Tandy Warnow. “FastSP: Linear Time Calculation of Alignment Accuracy.” Bioinformatics 27, no. 23 (2011): 3250–58. <https://doi.org/10.1093/bioinformatics/btr553>.
+
+* Data Available on <https://github.com/smirarab/fastsp-data>
+
+#### UPP
+
+Nguyen, Nam-phuong, Siavash Mirarab, Keerthana Kumar, and Tandy Warnow. “Ultra-Large Alignments Using Phylogeny-Aware Profiles.” Genome Biology 16, no. 1 (2015): 124. <https://doi.org/10.1186/s13059-015-0688-z>.
+
+* To be added to a public repo. For now, see <https://sites.google.com/eng.ucsd.edu/datasets/alignment/pastaupp?authuser=0>
+
+#### PASTA
+
+Mirarab, Siavash, Nam Nguyen, Sheng Guo, Li-San Wang, Junhyong Kim, and Tandy Warnow. “PASTA: Ultra-Large Multiple Sequence Alignment for Nucleotide and Amino-Acid Sequences.” Journal of Computational Biology 22, no. 5 (2015): 377–86. <https://doi.org/10.1089/cmb.2014.0156>.
+
+* To be added to a public repo. For now, see <https://sites.google.com/eng.ucsd.edu/datasets/alignment/pastaupp?authuser=0>
 
 ## Simulators, Cladogenesis, HIV, etc.
 
