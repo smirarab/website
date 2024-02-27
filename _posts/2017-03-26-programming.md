@@ -20,6 +20,8 @@ coding and algorithmic skills.
     * If you want to tackle the full-on course, you can take the [full online course](https://www.coursera.org/specializations/bioinformatics).
     * If you are at UCSD, instead of taking the course online, you can take the in-person course (CSE 282), which would count for ECE students as a technical elective. 
 * **R**: [DataCamp](https://www.datacamp.com/getting-started?step=2&track=r)
-* **Unix**: [Codecademy Unix Track](https://www.codecademy.com/learn/learn-the-command-line)
+* **Unix**:
+    * [Linux Journey](https://linuxjourney.com/) 
+    * [Codecademy Unix Track](https://www.codecademy.com/learn/learn-the-command-line)
 * **Git**: [GitHub tutorial](https://try.github.io/levels/1/challenges/1) and Codecademy [Git Track](https://www.codecademy.com/learn/learn-git)
 

@@ -6,13 +6,14 @@ title: About
 <img src="assets/02.jpg" width="280" alt="image" align="left" style="padding-right:25px" />
 
 * Associate Professor
+* Joan and Irwin Jacobs Chancellor's Endowed Faculty in Genome Engineering II
 * [ECE](http://ece.ucsd.edu) Department, [University of California, San Diego](http://ucsd.edu)
 * Affiliated with the [CSE department](http://cse.ucsd.edu/), [Bioinformatics](http://bioinformatics.ucsd.edu/faculty_bisb), and [Center for Microbiome Innovation](http://jacobsschool.ucsd.edu/microbiome/faculty.sfe).
 
 I obtained my Ph.D. from the Computer Science department at UT-Austin and was advised by [Prof. Tandy Warnow](http://tandy.cs.illinois.edu) and [Prof. Keshav Pingali](http://www.cs.utexas.edu/~pingali/). 
 My Ph.D. research was supported by an NSERC PGS award and [Howard Hughes Medical Institute international student fellowship](http://www.hhmi.org/news/20120725.html). 
 My [dissertation](https://repositories.lib.utexas.edu/bitstream/handle/2152/31377/MIRARABBAYGI-DISSERTATION-2015.pdf) won the [honorable mention for the 2015 ACM Doctoral Dissertation Award](http://www.acm.org/awards/2015-doctoral-dissertation). 
-More recently, I have been a recipient of the [2017 Sloan Research Fellowship](https://sloan.org/fellowships/2017-Fellows) in Computational & Evolutionary Molecular Biology, the [NSF CAREER award](https://nsf.gov/awardsearch/showAward?AWD_ID=1845967&HistoricalAwards=false), and the [MIRA award from NIGMS at NIH](https://reporter.nih.gov/search/73g1sqOpP0y0A6uXFguibw/project-details/10275055). More recently, the great work of [my students](students.html) has put my name on the list of [Clarivate Highly Cited Researcher of 2023](https://clarivate.com/highly-cited-researchers/?utm_campaign=EM1_Congrats_Winners_Highly_Cited_Researchers_Retention_AG_Global_2023).
+I have been a recipient of the [2017 Sloan Research Fellowship](https://sloan.org/fellowships/2017-Fellows) in Computational & Evolutionary Molecular Biology, the [NSF CAREER award](https://nsf.gov/awardsearch/showAward?AWD_ID=1845967&HistoricalAwards=false), and the [MIRA award from NIGMS at NIH](https://reporter.nih.gov/search/73g1sqOpP0y0A6uXFguibw/project-details/10275055). More recently, the great work of [my students](students.html), including several [award winning contributions]({{ site.url }}/2021/08/10/student-awards.html), has put my name on the list of [Clarivate Highly Cited Researcher of 2023](https://clarivate.com/highly-cited-researchers/?utm_campaign=EM1_Congrats_Winners_Highly_Cited_Researchers_Retention_AG_Global_2023).
 I contribute to many international projects and am part of the counsil of the [Vertebrate Genome Project](https://vertebrategenomesproject.org/who-we-are).
 
 I am not offended by any pronouncination of my name, so, don't worry about it. If you wonder, [here]({{ site.url }}//assets/name.m4a) is how I pronounce it.
@@ -36,7 +37,7 @@ What unites these wide-ranging applications is their reliance on evolutionary tr
 * See our [tools](software.html) though this page is often behind our latest developments. 
 * Here is my (hopefully up-to-date) [**CV**]({{ site.url }}/assets/resume-mirarab.pdf).
 * Most our presentations are available [here](presentations.html).
-* Look  [here](news.html) for miscellaneous information. 
+* Look [here](news.html) for miscellaneous information. 
 
 ### Students
 

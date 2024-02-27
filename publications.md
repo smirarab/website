@@ -16,6 +16,7 @@ For small corrections to published papers, see [this page](2021/10/06/Corrigenda
 0. Ali Osman Berk Şapcı, Eleonora Rachtman, and Siavash Mirarab. “CONSULT-II: Accurate Taxonomic Identification and Profiling Using Locality-Sensitive Hashing.” bioRxiv, January 1, 2023, 2023.11.07.566115. <https://doi.org/10.1101/2023.11.07.566115>.
 0. Shayesteh Arasti, Puoya Tabaghi, Yasamin Tabatabaee, and Siavash Mirarab. “Optimal Tree Metric Matching Enables Phylogenomic Branch Length Reconciliation.” bioRxiv, January 1, 2023, 2023.11.13.566962. <https://doi.org/10.1101/2023.11.13.566962>.
 0. Zhang, Chao, Rasmus Nielsen, and Siavash Mirarab. “CASTER: Direct Species Tree Inference from Whole-Genome Alignments.” bioRxiv, 2023. <https://doi.org/10.1101/2023.10.04.560884>.
+0. Ali Osman Berk Sapci and Siavash Mirarab. “Memory-Bound k-Mer Selection for Large Evolutionary Diverse Reference Libraries.” bioRxiv, January 1, 2024, 2024.02.12.580015. <https://doi.org/10.1101/2024.02.12.580015>.
 
 
 
@@ -24,6 +25,7 @@ For small corrections to published papers, see [this page](2021/10/06/Corrigenda
 	* Preprint available on [arXiv:1904.03826](https://arxiv.org/pdf/1904.03826.pdf)
 0. Warnow, Tandy, and Siavash Mirarab. “Multiple Sequence Alignment for Large Heterogeneous Datasets Using SATé, PASTA, and UPP.” In Multiple Sequence Alignment. Methods in Molecular Biology, Vol 2231, 99–119, 2021. [doi:10.1007/978-1-0716-1036-7_7](https://doi.org/10.1007/978-1-0716-1036-7_7).
 0. Zhu, Qiyun, and Siavash Mirarab. “Assembling a Reference Phylogenomic Tree of Bacteria and Archaea by Summarizing Many Gene Phylogenies.” In Environmental Microbial Evolution: Methods and Protocols, 137–65. New York, NY: Springer US, 2022. [doi:0~10.1007/978-1-0716-2691-7_7.11~](https://doi.org/10.1007/978-1-0716-2691-7_7.1)
+
 
 #### Published Papers (including in press)
 
