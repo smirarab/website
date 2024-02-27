@@ -251,6 +251,12 @@ Balaban, Metin, Shahab Sarmashghi, and Siavash Mirarab. “APPLES: Scalable Dist
 * Available on [Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.78nf7dq)
 
 
+#### SEPP
+
+Mirarab, Siavash, Nam Nguyen, and Tandy Warnow. "SEPP: SATé-enabled phylogenetic placement." Biocomputing 2012. 2012. 247-258.
+
+* Available on <https://doi.org/10.13012/B2IDB-9316702_V1>
+
 ### Skmer (distance calculation)
 
 #### Skmer Support values
@@ -276,7 +282,7 @@ Sarmashghi, Shahab, Kristine Bohmann, M. Thomas P. Gilbert, Vineet Bafna, and Si
 
 ### Taxonomic classification and Contamination removal
 
-#### Impact paper:
+#### Impact of contamination
 Rachtman, Eleonora, Metin Balaban, Vineet Bafna, and Siavash Mirarab. “The Impact of Contaminants on the Accuracy of Genome Skimming and the Effectiveness of Exclusion Read Filters.” Molecular Ecology Resources 20, no. 3 (May 4, 2020): 1755-0998.13135. <https://doi.org/10.1111/1755-0998.13135>.
 
 * Available on Dryad <https://datadryad.org/stash/dataset/doi:10.6076/D1FG62>
@@ -286,6 +292,13 @@ To be added
 
 #### CONSULT
 To be added
+
+#### TIPP
+
+Nguyen, Nam-phuong; Mirarab, Siavash; Bo, Liu; Pop, Mihai; Warnow, Tandy (2014). "TIPP: taxonomic identification and phylogenetic profiling." . Bioinformatics 30.24 (2014): 3548-3555.
+
+
+* Available at UIC <https://doi.org/10.13012/B2IDB-8783447_V1>
 
 ## Branch Length
 
@@ -365,3 +378,7 @@ Moshiri, Niema, Davey M Smith, and Siavash Mirarab. “HIV Care Prioritization U
 ## Obsolete
 
 This [dataset webpage](https://sites.google.com/eng.ucsd.edu/datasets/home?authuser=0) used to host our datasets. We have made an effort to make everything available elsewhere. I provide the link here just in case it becomes useful. 
+
+Here are some old datasets from Tandy's group:
+
+* SuperFine,DACTAL,BeeTLe: <https://doi.org/10.13012/B2IDB-2952208_V1>
