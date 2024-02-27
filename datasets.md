@@ -348,13 +348,16 @@ Mirarab, Siavash, and Tandy Warnow. “FastSP: Linear Time Calculation of Alignm
 
 Nguyen, Nam-phuong, Siavash Mirarab, Keerthana Kumar, and Tandy Warnow. “Ultra-Large Alignments Using Phylogeny-Aware Profiles.” Genome Biology 16, no. 1 (2015): 124. <https://doi.org/10.1186/s13059-015-0688-z>.
 
-* To be added to a public repo. For now, see <https://sites.google.com/eng.ucsd.edu/datasets/alignment/pastaupp?authuser=0>
+* Available at UIUC: <https://doi.org/10.13012/B2IDB-3174395_V1>
+* See also <https://doi.org/10.13012/B2IDB-1614388_V1> and <https://databank.illinois.edu/datasets/IDB-5139418>
 
 #### PASTA
 
 Mirarab, Siavash, Nam Nguyen, Sheng Guo, Li-San Wang, Junhyong Kim, and Tandy Warnow. “PASTA: Ultra-Large Multiple Sequence Alignment for Nucleotide and Amino-Acid Sequences.” Journal of Computational Biology 22, no. 5 (2015): 377–86. <https://doi.org/10.1089/cmb.2014.0156>.
 
-* To be added to a public repo. For now, see <https://sites.google.com/eng.ucsd.edu/datasets/alignment/pastaupp?authuser=0>
+* Available at UIUC: <https://doi.org/10.13012/B2IDB-3174395_V1>
+* Note that this is the same repo as UPP
+* See also <https://doi.org/10.13012/B2IDB-1614388_V1> and <https://databank.illinois.edu/datasets/IDB-5139418>
 
 ## Simulators, Cladogenesis, HIV, etc.
 
