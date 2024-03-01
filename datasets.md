@@ -163,6 +163,14 @@ Zhang, Chao, Yiming Zhao, Edward Louis Braun, and Siavash Mirarab. “TAPER: Pin
 * Github: <https://github.com/yimingnzhao/TAPER-Results>
 * Zenodo: <https://doi.org/10.5281/zenodo.5138561>
 
+#### DISTIQUE
+Sayyari, Erfan, and Siavash Mirarab. “Anchoring Quartet-Based Phylogenetic Distances and Applications to Species Tree Reconstruction.” BMC Genomics 17, no. S10 (2016): 101–13. [doi: 10.1186/s12864-016-3098-z](https://doi.org/10.1186/s12864-016-3098-z).
+
+* <http://esayyari.github.io/DISTIQUE> 
+* Some of the files linked there may be lost, unfortunately. 
+
+
+
 ### Empirical datasets 
 
 #### 1KP
@@ -201,11 +209,14 @@ Erfan Sayyari, James B Whitfield, and Siavash Mirarab, “Fragmentary Gene Seque
 * Most of the data is on [Dryad: doi:10.6076/D14599](https://datadryad.org/stash/dataset/doi:10.6076/D14599)
 
 
-#### DISTIQUE
-Sayyari, Erfan, and Siavash Mirarab. “Anchoring Quartet-Based Phylogenetic Distances and Applications to Species Tree Reconstruction.” BMC Genomics 17, no. S10 (2016): 101–13. [doi: 10.1186/s12864-016-3098-z](https://doi.org/10.1186/s12864-016-3098-z).
+#### Avian
+Jarvis ED, Mirarab S, Aberer AJ, Li B, Houde P, Li C, et al. Whole genome analyses resolve the early branches in the tree of life of modern birds. Science. 2014;346(6215):1320–31. doi: <http://doi.org/10.1126/science.1253451>. 
 
-* <http://esayyari.github.io/DISTIQUE> 
-* Some of the files linked there may be lost, unfortunately. 
+See also:
+
+* Jarvis ED, Mirarab S, Aberer AJ, Li B, Houde P, Li C, Ho SY, Faircloth BC, Nabholz B, Howard JT, Suh A, Weber CC, da Fonseca RR, Alfaro-Núñez A, Narula N, Liu L, Burt D, Ellegren H, Edwards SV, Stamatakis A, Mindell DP, Cracraft J, Braun EL, Warnow T, Jun W, Gilbert MT, Zhang G; Avian Phylogenomics Consortium. Phylogenomic analyses data of the avian phylogenomics project. Gigascience. 2015 Feb 12;4:4. doi: 10.1186/s13742-014-0038-1. PMID: 25741440; PMCID: PMC4349222.
+
+* Data available at <http://dx.doi.org/10.5524/101041>
 
 
 ## Skimming and Microbiome
