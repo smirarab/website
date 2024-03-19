@@ -299,7 +299,15 @@ Rachtman, Eleonora, Metin Balaban, Vineet Bafna, and Siavash Mirarab. “The Imp
 * Available on Dryad <https://datadryad.org/stash/dataset/doi:10.6076/D1FG62>
 
 #### CONSULT-II 
-To be added
+Ali Osman Berk Şapcı, Eleonora Rachtman, Siavash Mirarab, CONSULT-II: Accurate taxonomic identification and profiling using locality-sensitive hashing, Bioinformatics, 2024;, btae150, https://doi.org/10.1093/bioinformatics/btae150
+
+* CONSULT-II reference libraries (built using WoL-v1 archaeal and bacterial genomes): [140Gb (high-sensitivity)](https://ter-trees.ucsd.edu/data/consult/CONSULT-II/library-v020-WoL140G.tar.gz), [32Gb (robust and lightweight)](https://ter-trees.ucsd.edu/data/consult/CONSULT-II/library-v030-WoL32G.tar.gz), [18Gb (lightweight)](https://ter-trees.ucsd.edu/data/consult/CONSULT-II/library-v030-WoL18G.tar.gz).
+
+* Simulated reads used for classification experiments: [reads from bacterial genomes](https://ter-trees.ucsd.edu/data/consult/CONSULT-II/bacteria_queries_sampreads.tar.gz) and [reads from archaeal genomes](https://ter-trees.ucsd.edu/data/consult/CONSULT-II/archaea_queries_sampreads.tar.gz).
+
+* Smaller files (including results, scripts and taxonomy files) are available on [GitHub](https://github.com/bo1929/shared.CONSULT-II).
+
+* All releases of the software and its documentation can be found on [GitHub](https://github.com/bo1929/CONSULT-II).
 
 #### CONSULT
 To be added
