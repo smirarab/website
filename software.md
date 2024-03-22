@@ -59,7 +59,7 @@ title: Tools
         * [qSPR](https://github.com/shayesteh99/QuartetSPR)
         * [TCMM](https://github.com/shayesteh99/TCMM)
     * [Ali Osman Berk Şapcı](https://github.com/bo1929)
-        * [CONSULT-II](https://github.com/bo1929/CONSULT-II)
-        * [KRANK](https://github.com/bo1929/KRANK)
+        * [CONSULT-II](https://github.com/bo1929/CONSULT-II): Accurate taxonomic classification and abundance profiling using locality-sensitive hashing.
+        * [KRANK](https://github.com/bo1929/KRANK): Memory-bound *k*-mer selection for large evolutionary diverse reference libraries.
     * [Yasamin Tabatabee](https://github.com/ytabatabaee)
         * [CASTLES](https://github.com/ytabatabaee/CASTLES)
