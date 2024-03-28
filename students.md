@@ -9,7 +9,7 @@ title: Students
 * [Eduardo Charvel](https://grad.ucsd.edu/diversity/programs-resources/ucem/sloan-scholars-pages/2022-sloan-scholars/charvel-eduardo.html)
 * [Yueyu Jiang](https://github.com/yueyujiang)
 * [Daira Melendez](https://grad.ucsd.edu/diversity/programs-resources/ucem/sloan-scholars-pages/2022-sloan-scholars/melendez-daira.html)
-* [Ali Osman Berk Şapcı](https://github.com/bo1929)
+* [Ali Osman Berk Şapcı](https://github.com/bo1929), [google scholar](https://scholar.google.com/citations?user=LM2uoeUAAAAJ&hl=en)
 
 Postdoctoral researchers:
 
