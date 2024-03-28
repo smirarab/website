@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="assets/02.jpg" width="280" alt="image" align="left" style="padding-right:25px" />
+<img src="assets/40.jpg" width="280" alt="image" align="left" style="padding-right:25px" />
 
 * Associate Professor
 * Joan and Irwin Jacobs Chancellor's Endowed Faculty in Genome Engineering II
