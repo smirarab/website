@@ -79,9 +79,7 @@ Zhang, Chao, Maryam Rabiee, Erfan Sayyari, and Siavash Mirarab. “ASTRAL-III: P
 #### LocalPP
 Sayyari, E., & Mirarab, S. (2016). Fast Coalescent-Based Computation of Local Branch Support from Quartet Frequencies. Molecular Biology and Evolution, 33(7), 1654–1668. <https://doi.org/10.1093/molbev/msw079> 
 
-* <https://esayyari.github.io/FastLocalBranchSupport.html>
-
-* **Note:** This is to be moved to a more permanent place soon. 
+* Available on Dryad: <https://doi.org/doi:10.5061/dryad.wstqjq2tk>
 
 #### ASTRAL-HGT study
 
@@ -310,7 +308,12 @@ Ali Osman Berk Şapcı, Eleonora Rachtman, Siavash Mirarab, CONSULT-II: Accurate
 * All releases of the software and its documentation can be found on [GitHub](https://github.com/bo1929/CONSULT-II).
 
 #### CONSULT
-To be added
+
+Rachtman, Eleonora, Vineet Bafna, and Siavash Mirarab. “CONSULT: Accurate Contamination Removal Using Locality-Sensitive Hashing.” NAR Genomics and Bioinformatics 3, no. 3 (June 23, 2021): 10.1101/2021.03.18.436035. <https://doi.org/10.1093/nargab/lqab071>.
+
+
+*  Data available on Dryad: <https://doi.org/doi:10.6076/D19P44>
+*  Some more on <https://skmer.ucsd.edu/data/consult/>
 
 #### TIPP
 
