@@ -171,6 +171,11 @@ Sayyari, Erfan, and Siavash Mirarab. “Anchoring Quartet-Based Phylogenetic Dis
 
 ### Empirical datasets 
 
+#### 1KP-pilot
+Wickett, Norman J., Siavash Mirarab, Nam Nguyen, Tandy Warnow, Eric J Carpenter, Naim Matasci, Saravanaraj Ayyampalayam, Michael S. Barker, J. Gordon Burleigh, Matthew A. Gitzendanner, Brad R. Ruhfel, Eric Wafula, Joshua P. Der, Sean W. Graham, Sarah Mathews, Michael Melkonian, Douglas E. Soltis, Pamela S. Soltis, Nicholas W. Miles, Carl J. Rothfels, Lisa Pokorny, A. Jonathan Shaw, Lisa DeGironimo, Dennis W. Stevenson, Barbara Surek, Juan Carlos Villarreal, Béatrice Roure, Hervé Philippe, Claude W. DePamphilis, Tao Chen, Michael K. Deyholos, Regina S. Baucom, Toni M. Kutchan, Megan M. Augustin, Jian Jun Wang, Yong Zhang, Zhijian Tian, Zhixiang Yan, Xiaolei Wu, Xiao Sun, Gane Ka-Shu Wong, and James Jim Leebens-Mack. “Phylotranscriptomic Analysis of the Origin and Early Diversification of Land Plants.” Proceedings of the National Academy of Sciences 111, no. 45 (October 29, 2014): E4859-4868. https://doi.org/10.1073/pnas.1323926111.
+
+* <https://datacommons.cyverse.org/browse/iplant/home/shared/onekp_pilot>
+
 #### 1KP
 One Thousand Plant Transcriptomes Initiative Green (a co-first author) “One Thousand Plant Transcriptomes and the Phylogenomics of Green Plants.” Nature, 2019. [doi:10.1038/s41586-019-1693-2](https://www.nature.com/articles/s41586-019-1693-2).
 
