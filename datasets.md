@@ -301,21 +301,28 @@ Rachtman, Eleonora, Metin Balaban, Vineet Bafna, and Siavash Mirarab. “The Imp
 
 * Available on Dryad <https://datadryad.org/stash/dataset/doi:10.6076/D1FG62>
 
-#### CONSULT-II 
-Ali Osman Berk Şapcı, Eleonora Rachtman, Siavash Mirarab, CONSULT-II: Accurate taxonomic identification and profiling using locality-sensitive hashing, Bioinformatics, 2024;, btae150, https://doi.org/10.1093/bioinformatics/btae150
+#### KRANK
+
+Şapcı, A.O.B. and Mirarab, S. (2024) "Memory-bound k-mer selection for large and evolutionary diverse reference libraries", Genome Research, p. gr.279339.124. Available at: <https://doi.org/10.1101/gr.279339.124>.
+
+* All data available on Dryad <https://datadryad.org/stash/dataset/doi:10.5061/dryad.0000000c2>.
+* A catalog of reference libraries are availalbe at <https://ter-trees.ucsd.edu/data/krank>.
+* Simulated reads used for read classification experiments can be found [here](https://ter-trees.ucsd.edu/data/krank/KRANK-queries.tar.gz).
+* Smaller files (including results, and misc data) are available on [GitHub](https://github.com/bo1929/shared.KRANK).
+* All releases of the software and its documentation can be found on [GitHub](https://github.com/bo1929/KRANK).
+
+#### CONSULT-II
+
+Şapcı, A.O.B., Rachtman, E. and Mirarab, S. (2024) "CONSULT-II: Accurate taxonomic identification and profiling using locality-sensitive hashing", Bioinformatics, p. btae150. Available at: <https://doi.org/10.1093/bioinformatics/btae150>.
 
 * CONSULT-II reference libraries (built using WoL-v1 archaeal and bacterial genomes): [140Gb (high-sensitivity)](https://ter-trees.ucsd.edu/data/consult/CONSULT-II/library-v020-WoL140G.tar.gz), [32Gb (robust and lightweight)](https://ter-trees.ucsd.edu/data/consult/CONSULT-II/library-v030-WoL32G.tar.gz), [18Gb (lightweight)](https://ter-trees.ucsd.edu/data/consult/CONSULT-II/library-v030-WoL18G.tar.gz).
-
 * Simulated reads used for classification experiments: [reads from bacterial genomes](https://ter-trees.ucsd.edu/data/consult/CONSULT-II/bacteria_queries_sampreads.tar.gz) and [reads from archaeal genomes](https://ter-trees.ucsd.edu/data/consult/CONSULT-II/archaea_queries_sampreads.tar.gz).
-
 * Smaller files (including results, scripts and taxonomy files) are available on [GitHub](https://github.com/bo1929/shared.CONSULT-II).
-
 * All releases of the software and its documentation can be found on [GitHub](https://github.com/bo1929/CONSULT-II).
 
 #### CONSULT
 
 Rachtman, Eleonora, Vineet Bafna, and Siavash Mirarab. “CONSULT: Accurate Contamination Removal Using Locality-Sensitive Hashing.” NAR Genomics and Bioinformatics 3, no. 3 (June 23, 2021): 10.1101/2021.03.18.436035. <https://doi.org/10.1093/nargab/lqab071>.
-
 
 *  Data available on Dryad: <https://doi.org/doi:10.6076/D19P44>
 *  Some more on <https://skmer.ucsd.edu/data/consult/>
