@@ -11,13 +11,9 @@ For small corrections to published papers, see [this page](2021/10/06/Corrigenda
 
 #### Preprints and  accepted conference papers
 0. Stepanauskas, Ramunas, Julia M Brown, Uyen Mai, Oliver Bezuidt, Maria Pachiadaki, Joe Brown, Steven Biller, Paul M Berube, Nicholas R Record, and Siavash Mirarab. “Gene Exchange Networks Define Species-like Units in Marine Prokaryotes.” BioRxiv, 2020, 2020.09.10.291518. [doi:10.1101/2020.09.10.291518](https://doi.org/10.1101/2020.09.10.291518).
-0. Tabaghi, Puoya,  Michael Khanzadeh, Yusu Wang, Siavash Mirarab. “Principal Component Analysis in Space Forms.” arXiv. 2023.  [doi:10.48550/arxiv.2301.02750](https://doi.org/10.48550/arxiv.2301.02750). 
 0. Shayesteh Arasti, Puoya Tabaghi, Yasamin Tabatabaee, and Siavash Mirarab. “Optimal Tree Metric Matching Enables Phylogenomic Branch Length Reconciliation.” bioRxiv, January 1, 2023, 2023.11.13.566962. <https://doi.org/10.1101/2023.11.13.566962>.
 	* Appeared in RECOMB 2024 as [short abstract](https://link.springer.com/chapter/10.1007/978-1-0716-3989-4_53).
 	* Arasti, Shayesteh, Puoya Tabaghi, Yasamin Tabatabaee, and Siavash Mirarab. “Optimal Tree Metric Matching Enables Phylogenomic Branch Length Estimation.” In Research in Computational Molecular Biology, edited by Jian Ma, 462–65. Cham: Springer Nature Switzerland, 2024.
-0. Ali Osman Berk Sapci and Siavash Mirarab. “Memory-Bound k-Mer Selection for Large Evolutionary Diverse Reference Libraries.” bioRxiv, January 1, 2024, 2024.02.12.580015. <https://doi.org/10.1101/2024.02.12.580015>.
-	* Appear in RECOMB 2024 as [short abstract](https://link.springer.com/chapter/10.1007/978-1-0716-3989-4_26).
-	* Şapcı, Ali Osman Berk, and Siavash Mirarab. “Memory-Bound and Taxonomy-Aware K-Mer Selection for Ultra-Large Reference Libraries.” In Research in Computational Molecular Biology, edited by Jian Ma, 340–43. Cham: Springer Nature Switzerland, 2024.
 0. Zhang, Chao, Rasmus Nielsen, and Siavash Mirarab. “CASTER: Direct Species Tree Inference from Whole-Genome Alignments.” bioRxiv, 2023. <https://doi.org/10.1101/2023.10.04.560884>.
 
 
@@ -32,7 +28,11 @@ For small corrections to published papers, see [this page](2021/10/06/Corrigenda
 
 #### Published Papers (including in press)
 
-{:start="102"}
+{:start="104"}
+0. Tabaghi, Puoya,  Michael Khanzadeh, Yusu Wang, Siavash Mirarab. “Principal Component Analysis in Space Forms.” Transaction on Signal Processing (SP). 2024. Available on arxiv.  [doi:10.48550/arxiv.2301.02750](https://doi.org/10.48550/arxiv.2301.02750). 
+0. Ali Osman Berk Sapci and Siavash Mirarab. “Memory-Bound k-Mer Selection for Large Evolutionary Diverse Reference Libraries.” Genome Research, in press (2024). Available on bioRxiv: <https://doi.org/10.1101/2024.02.12.580015>.
+	* Appear in RECOMB 2024 as [short abstract](https://link.springer.com/chapter/10.1007/978-1-0716-3989-4_26).
+	* Şapcı, Ali Osman Berk, and Siavash Mirarab. “Memory-Bound and Taxonomy-Aware K-Mer Selection for Ultra-Large Reference Libraries.” In Research in Computational Molecular Biology, edited by Jian Ma, 340–43. Cham: Springer Nature Switzerland, 2024.
 0. Mai, Uyen, Eduardo Charvel, and Siavash Mirarab. “Expectation-Maximization Enables Phylogenetic Dating under a Categorical Rate Model.” Systematic Biology, July 5, 2024, syae034. [doi:10.1093/sysbio/syae034](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syae034/7708271?utm_source=authortollfreelink&utm_campaign=sysbio&utm_medium=email&guestAccessKey=5e8d5e6e-adc3-4581-9779-4556bce2f515).
 	* Presented in RECOMB 2023 and appeared as [short abstract](https://link.springer.com/content/pdf/bbm:978-3-031-29119-7/1?pdf=chapter%20toc).
 0. Jiang, Yueyu, Daniel McDonald, Daniela Perry, Rob Knight, and Siavash Mirarab. “Scaling DEPP Phylogenetic Placement to Ultra-Large Reference Trees: A Tree-Aware Ensemble Approach.” Edited by Russell Schwartz. Bioinformatics, 40, no. 6 (June 2024): btae361. [doi:10.1093/bioinformatics/btae361](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btae361/7693069?utm_source=authortollfreelink&utm_campaign=bioinformatics&utm_medium=email&guestAccessKey=df29bd91-3c0e-44b0-88bb-a791e08a6943).

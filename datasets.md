@@ -345,13 +345,14 @@ Tabatabaee, Yasamin, Chao Zhang, Tandy Warnow, and Siavash Mirarab. “Phylogeno
 
 
 ### Rooting, Clustering, Error detection, etc.
+
 #### MinVarRooting
 
 Mai, Uyen, Erfan Sayyari, and Siavash Mirarab. “Minimum Variance Rooting of Phylogenetic Trees and Implications for Species Tree Reconstruction.” Edited by Gabriel Moreno-Hagelsieb. PLOS ONE 12, no. 8 (2017): e0182238. <https://doi.org/10.1371/journal.pone.0182238>.
 
 * For data, see <https://uym2.github.io/MinVar-Rooting/>
 
-##### TreeShrink
+#### TreeShrink
 
 Mai, Uyen, and Siavash Mirarab. “TreeShrink: Fast and Accurate Detection of Outlier Long Branches in Collections of Phylogenetic Trees.” BMC Genomics 19, no. S5 (May 8, 2018): 272. [doi: 10.1186/s12864-018-4620-2](https://doi.org/10.1186/s12864-018-4620-2). 
 
