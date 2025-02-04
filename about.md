@@ -44,7 +44,7 @@ What unites these wide-ranging applications is their reliance on evolutionary tr
 
 I am proud of amazing [students](students.html) who have been in my lab.
 
-* Prospective students are generally discouraged from contacting me directly regarding admissions; those decisions are made by a committee in our department.  
+* Prospective students: note that  decisions are made by a committee in our department.  
   In rare circumstances, if you have done work that is very closely related to my work, you can write to me and bring that to my attention.  
 * Incoming and new students are encouraged to check out [this page]({{ site.url }}/2015/09/12/material-for-prospective-students.html) to learn about the background used in my work 
 * ECE students without sufficient programming background may find [this page]({{ site.url }}/2017/03/26/programming.html) useful. 
