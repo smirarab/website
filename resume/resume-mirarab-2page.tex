@@ -5,6 +5,11 @@
 \usepackage[colorlinks=true,linkcolor=darkblue,citecolor=darkred,urlcolor=blue]{hyperref}
 \usepackage{lipsum}
 \usepackage{soul}
+\usepackage{xr}
+
+\externaldocument{publicationssmall}
+
+
 \makeatletter
 \renewenvironment{thebibliography}[1]
      {\list{\@biblabel{\@arabic\c@enumiv}}%
