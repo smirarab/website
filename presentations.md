@@ -3,10 +3,16 @@ layout: page
 title: Presentations
 ---
 
+### 2025
+* July 15, CGSI, [ILS tutorial](https://drive.google.com/file/d/1pu_GProsWQrYyiSAYgLjYydd1oUoHvAw/view?usp=drive_link)
+* June 20, Evolution, [Quartet-based species trees](https://drive.google.com/file/d/1fdCnqSHsk_I69A-Y_UReMywdGOizF8e7/view?usp=sharing)
+
 ### 2024:
 
+* Nov 19, ICERM, [CASTER](https://drive.google.com/open?id=189HSJUID3P17xs_Xi6tSao5RXBXvRJcu&usp=drive_fs)
+* July 10, SMBE, [metric learning](https://drive.google.com/file/d/1R-t779MnEeiWs6QBwaw-uFjR0N8ZZOWV/view?usp=sharing)
 * March 22, UofT, EEB, [species trees](https://drive.google.com/file/d/1H0ZDGHSOKbJvA92jQAQnqMcj-F1gJ5-i/view?usp=sharing)
-* Jan, 12, 13, PAG, to be uploaded, [Birds](https://drive.google.com/file/d/1GW7QL5u2JQevLOUVf3xqekgHbGFpQ1pm/view?usp=sharing)
+* Jan, 12, 13, PAG, [Birds](https://drive.google.com/file/d/1GW7QL5u2JQevLOUVf3xqekgHbGFpQ1pm/view?usp=sharing)
 
 ### 2023
 

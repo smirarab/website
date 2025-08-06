@@ -14,8 +14,12 @@ For small corrections to published papers, see [this page](2021/10/06/Corrigenda
 0. Shayesteh Arasti, Puoya Tabaghi, Yasamin Tabatabaee, and Siavash Mirarab. “Optimal Tree Metric Matching Enables Phylogenomic Branch Length Reconciliation.” bioRxiv, January 1, 2023, 2023.11.13.566962. <https://doi.org/10.1101/2023.11.13.566962>.
 	* Appeared in RECOMB 2024 as [short abstract](https://link.springer.com/chapter/10.1007/978-1-0716-3989-4_53).
 	* Arasti, Shayesteh, Puoya Tabaghi, Yasamin Tabatabaee, and Siavash Mirarab. “Optimal Tree Metric Matching Enables Phylogenomic Branch Length Estimation.” In Research in Computational Molecular Biology, edited by Jian Ma, 462–65. Cham: Springer Nature Switzerland, 2024.
-0. Sapci, Ali Osman Berk, and Siavash Mirarab. “A K-Mer-Based Maximum Likelihood Method for Estimating Distances of Reads to Genomes Enables Genome-Wide Phylogenetic Placement.” bioRxiv, January 1, 2025, 2025.01.20.633730. https://doi.org/10.1101/2025.01.20.633730.
-	*  Will appear in RECOMB 2025
+0. Sapci, Ali Osman Berk, and Siavash Mirarab. “A K-Mer-Based Maximum Likelihood Method for Estimating Distances of Reads to Genomes Enables Genome-Wide Phylogenetic Placement.” bioRxiv, 2025, 2025.01.20.633730. <https://doi.org/10.1101/2025.01.20.633730>.
+	*  Appeared in RECOMB 2025
+0. Tabatabaee, Yasamin, Chao Zhang, Shayesteh Arasti, and Siavash Mirarab. “Species Tree Branch Length Estimation despite Incomplete Lineage Sorting, Duplication, and Loss.” bioRxiv, 2025, 2025.02.20.639320. <https://doi.org/10.1101/2025.02.20.639320>.
+0. Tabatabaee, Yasamin, Santiago Claramunt, and Siavash Mirarab. “Coalescent-Based Branch Length Estimation Improves Dating of Species Trees.” bioRxiv,  2025, 2025.02.25.640207. <https://doi.org/10.1101/2025.02.25.640207>.
+0. Rachtman, Eleonora, Yueyu Jiang, and Siavash Mirarab. “Machine Learning Enables Alignment-Free Distance Calculation and Phylogenetic Placement Using k-Mer Frequencies,” April, 2025. <https://doi.org/10.22541/au.174539883.30231226/v1>.
+
 
 
 
@@ -24,14 +28,16 @@ For small corrections to published papers, see [this page](2021/10/06/Corrigenda
 0. Mirarab, Siavash. “Species Tree Estimation Using ASTRAL: Practical Considerations.” In Species Tree Inference: A Guide to Methods and Applications. Princeton University Press, 2023.
 	* Preprint available on [arXiv:1904.03826](https://arxiv.org/pdf/1904.03826.pdf)
 0. Warnow, Tandy, and Siavash Mirarab. “Multiple Sequence Alignment for Large Heterogeneous Datasets Using SATé, PASTA, and UPP.” In Multiple Sequence Alignment. Methods in Molecular Biology, Vol 2231, 99–119, 2021. [doi:10.1007/978-1-0716-1036-7_7](https://doi.org/10.1007/978-1-0716-1036-7_7).
-0. Zhu, Qiyun, and Siavash Mirarab. “Assembling a Reference Phylogenomic Tree of Bacteria and Archaea by Summarizing Many Gene Phylogenies.” In Environmental Microbial Evolution: Methods and Protocols, 137–65. New York, NY: Springer US, 2022. [doi:0~10.1007/978-1-0716-2691-7_7.11~](https://doi.org/10.1007/978-1-0716-2691-7_7.1).
+0. Zhu, Qiyun, and Siavash Mirarab. “Assembling a Reference Phylogenomic Tree of Bacteria and Archaea by Summarizing Many Gene Phylogenies.” In Environmental Microbial Evolution: Methods and Protocols, 137–65. New York, NY: Springer US, 2022. [doi:0~10.1007/978-1-0716-2691-7_7](https://doi.org/10.1007/978-1-0716-2691-7_7).
 0. Mirarab, Siavash, and Vineet Bafna. “Analyses of Nuclear Reads Obtained Using Genome Skimming.” In DNA Barcoding, edited by Robert DeSalle, 2744:247–65. Methods in Molecular Biology. New York, NY: Springer US, 2024. [doi:10.1007/978-1-0716-3581-0_16](https://doi.org/10.1007/978-1-0716-3581-0_16).
 
 
 #### Published Papers (including in press)
 
-{:start="105"}
+{:start="107"}
 
+0. Zhang, Chao, Rasmus Nielsen, and Siavash Mirarab. “ASTER: A Package for Large-Scale Phylogenomic Reconstructions.” Molecular Biology and Evolution (2025). <https://doi.org/10.1093/molbev/msaf172>.
+0. Gupta, Anshu, Siavash Mirarab, and Yatish Turakhia. “Accurate, Scalable, and Fully Automated Inference of Species Trees from Raw Genome Assemblies Using ROADIES.” Proceedings of the National Academy of Sciences 122, no. 19 (2025): e2500553122. <https://doi.org/10.1073/pnas.2500553122>.
 0. Zhang, Chao, Rasmus Nielsen, and Siavash Mirarab. “CASTER: Direct Species Tree Inference from Whole-Genome Alignments.” Science (2025), eadk9688. <https://doi.org/10.1126/science.adk9688> [direct link](https://www.science.org/stoken/author-tokens/ST-2373/full).
 0. Tabaghi, Puoya, Michael Khanzadeh, Yusu Wang, and Siavash Mirarab. “Principal Component Analysis in Space Forms.” IEEE Transactions on Signal Processing 72 (2024): 4428–43. <https://doi.org/10.1109/TSP.2024.3457529>.
 0. Sapci, Ali Osman Berk, and Siavash Mirarab. “Memory-Bound k -Mer Selection for Large and Evolutionary Diverse Reference Libraries.” Genome Research, 2024, gr.279339.124. <https://doi.org/10.1101/gr.279339.124>.
@@ -189,6 +195,7 @@ Tandy Warnow, M Thomas P Gilbert, Guojie Zhang, Edward L Braun, Erich D Jarvis. 
 {: reversed="reversed"}
 
 ### MS work
+
 {:start="9"}
 0. Mirarab, Siavash, Soroush Akhlaghi, and Ladan Tahvildari. “Size-Constrained Regression Test Case Selection Using Multicriteria Optimization.” Software Engineering, IEEE Transactions on 38, no. 4 (2012): 936–956.
 
@@ -206,3 +213,5 @@ Tandy Warnow, M Thomas P Gilbert, Guojie Zhang, Edward L Braun, Erich D Jarvis. 
 
 0. Mirarab, Siavash, and Ladan Tahvildari. “A Prioritization Approach for Software Test Cases Based on Bayesian Networks.” In Fundamental Approaches to Software Engineering, 276–290. Springer Berlin Heidelberg, 2007.
 
+0. Amoui, Mehdi, Siavash Mirarab, Sepand Ansari, and Caro Lucas. “A Genetic Algorithm Approach to Design Evolution Using Design Pattern Transformation.” International Journal of Information Technology and Intelligent Computing 1, no. 2 (2006): 235–44.
+{: reversed="reversed"}

@@ -5,7 +5,7 @@ title: About
 
 <img src="assets/40.jpg" width="280" alt="image" align="left" style="padding-right:25px" />
 
-* Associate Professor
+* Professor
 * Joan and Irwin Jacobs Chancellor's Endowed Faculty in Genome Engineering II
 * [ECE](http://ece.ucsd.edu) Department, [University of California, San Diego](http://ucsd.edu)
 * Affiliated with the [CSE department](http://cse.ucsd.edu/), [Bioinformatics](http://bioinformatics.ucsd.edu/faculty_bisb), and [Center for Microbiome Innovation](http://jacobsschool.ucsd.edu/microbiome/faculty.sfe).
