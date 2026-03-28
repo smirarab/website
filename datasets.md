@@ -14,7 +14,7 @@ title: Data
 	
 Zhang, C., & Mirarab, S. (2022). Weighting by Gene Tree Uncertainty Improves Accuracy of Quartet-based Species Trees. Molecular Biology and Evolution, 39(12), msac215. [10.1093/molbev/msac215](https://doi.org/10.1093/molbev/msac215).
 
-- Small files, including scripts: [Gihub](https://github.com/chaoszhang/Weighted-ASTRAL_data) 
+- Small files, including scripts: [GitHub](https://github.com/chaoszhang/Weighted-ASTRAL_data) 
 - Larger files: [Dryad](https://doi.org/10.6076/D1WK5R)
 
 #### ASTRAL-Pro
@@ -227,7 +227,13 @@ See also:
 
 ### Phylogenetic placement
 
+#### krepp
+Şapcı, Ali Osman Berk, and Siavash Mirarab. 2026. “krepp: a k-mer-based maximum pseudo-likelihood method for estimating read distances and genome-wide phylogenetic placement.” Genome Biology 27 (1): 108. https://doi.org/10.1186/s13059-026-03999-y.
 
+* The software and its documentation: [GitHub](https://github.com/bo1929/krepp) and [Bioconda](https://bioconda.github.io/recipes/krepp/README.html)
+* krepp reference indices: [AWS catalogue](https://registry.opendata.aws/kreppref/) and [Wiki](https://github.com/bo1929/krepp/wiki/Available-reference-indexes)
+* Data used in distance estimation and placement experiments: [Dryad](https://datadryad.org/dataset/doi:10.5061/dryad.63xsj3vd3)
+* Results and scripts used for analysis: [GitHub](https://github.com/bo1929/shared.krepp)
 
 #### h-DEPP
 
@@ -304,7 +310,7 @@ Rachtman, Eleonora, Metin Balaban, Vineet Bafna, and Siavash Mirarab. “The Imp
 
 #### KRANK
 
-Şapcı, A.O.B. and Mirarab, S. (2024) "Memory-bound k-mer selection for large and evolutionary diverse reference libraries", Genome Research, p. gr.279339.124. Available at: <https://doi.org/10.1101/gr.279339.124>.
+Şapcı, A.O.B. and Mirarab, S. (2024) "Memory-bound *k*-mer selection for large and evolutionary diverse reference libraries", Genome Research, p. gr.279339.124. Available at: <https://doi.org/10.1101/gr.279339.124>.
 
 * All data available on Dryad <https://datadryad.org/stash/dataset/doi:10.5061/dryad.0000000c2>.
 * A catalog of reference libraries are availalbe at <https://ter-trees.ucsd.edu/data/krank>.
