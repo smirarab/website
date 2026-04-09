@@ -349,13 +349,44 @@ Nguyen, Nam-phuong; Mirarab, Siavash; Bo, Liu; Pop, Mihai; Warnow, Tandy (2014).
 
 Uyen Mai, Siavash Mirarab, Log Transformation Improves Dating of Phylogenies, Molecular Biology and Evolution, msaa222, <https://doi.org/10.1093/molbev/msaa222>.
 
-* <https://uym2.github.io/wLogDate/> 
+* Data: <https://github.com/uym2/LogDate-paper>
+* Software: <https://uym2.github.io/wLogDate/>
+
+#### MD-Cat
+
+Mai, Uyen, Eduardo Charvel, and Siavash Mirarab. “Expectation-Maximization Enables Phylogenetic Dating under a Categorical Rate Model.” Systematic Biology, 2024, syae034. <https://doi:10.1093/sysbio/syae034>.
+
+* Data available on Dryad: <https://doi.org/10.5061/dryad.pk0p2ngs0>
+* Software: <https://github.com/uym2/MD-Cat>
+* Scripts used in analysis: <https://github.com/uym2/MD-Cat-paper>
 
 #### CASTLES
 
 Tabatabaee, Yasamin, Chao Zhang, Tandy Warnow, and Siavash Mirarab. “Phylogenomic Branch Length Estimation Using Quartets.” Bioinformatics 39, no. Supplement_1 (2023): i185–93. <https://doi.org/10.1093/bioinformatics/btad221>.
 
-* <https://github.com/ytabatabaee/CASTLES>
+* Data available on Dryad: <https://doi.org/10.5061/dryad.pg4f4qs3q>
+* Scripts used in analysis: <https://github.com/ytabatabaee/CASTLES-paper>
+
+#### CASTLES-Pro
+
+Tabatabaee, Yasamin, Chao Zhang, Shayesteh Arasti, and Siavash Mirarab. 2025. “Species Tree Branch Length Estimation despite Incomplete Lineage Sorting, Duplication, and Loss.” Genome Biology and Evolution 17 (11): evaf200. https://doi.org/10.1093/gbe/evaf200.
+
+* Data available on Dryad: <https://doi.org/10.5061/dryad.70rxwdcc8>
+* Scripts used in analysis: <https://github.com/ytabatabaee/CASTLES-Pro-paper>
+
+#### TCMM
+
+Arasti, Shayesteh, Puoya Tabaghi, Yasamin Tabatabaee, Alan K Mayer, and Siavash Mirarab. “Branch Length Transforms using Optimal Tree Metric Matching.” Systematic Biology, 2026, syag025. <https://doi.org/10.1093/sysbio/syag025>
+
+* Data: <https://github.com/shayesteh99/TCMM-Data>
+* Software: <https://github.com/shayesteh99/TCMM>
+
+#### CASTLES-Dating
+
+Tabatabaee, Yasamin, Santiago Claramunt, and Siavash Mirarab. “Coalescent-Based Branch Length Estimation Improves Dating of Species Trees.” Systematic Biology (to appear), 2026, <https://doi.org/10.1101/2025.02.25.640207.>
+
+* Data available on Dryad: <https://doi.org/10.5061/dryad.hmgqnk9xv>
+* Scripts used in analysis: <https://github.com/ytabatabaee/coalescent-based-dating>
 
 
 ### Rooting, Clustering, Error detection, etc.
