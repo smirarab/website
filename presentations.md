@@ -3,6 +3,10 @@ layout: page
 title: Presentations
 ---
 
+### 2026
+
+* UIUC [slides](https://drive.google.com/file/d/1tn3tfaVIx-yqMYch-RysTH_aTex3rms-/view?usp=sharing)
+
 ### 2025
 * Oct 1, VGP, [Orginal phylogeny of VGP](https://drive.google.com/file/d/1rIplJiO5QpvsIpI4oYKs0U0DYmFdCMIE/view?usp=drive_link)
 * August 13, IMSI, [k-mer-based distances](https://drive.google.com/file/d/1xBfEjWuoPqpZWLWUC8-z4DWrfpY6v7P9/view?usp=sharing)
