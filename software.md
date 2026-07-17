@@ -61,5 +61,7 @@ title: Tools
     * [Ali Osman Berk Şapcı](https://github.com/bo1929)
         * [CONSULT-II](https://github.com/bo1929/CONSULT-II): Accurate taxonomic classification and abundance profiling using locality-sensitive hashing.
         * [KRANK](https://github.com/bo1929/KRANK): Memory-bound *k*-mer selection for large evolutionary diverse reference libraries.
+        * [krepp](https://github.com/bo1929/krepp): A *k*-mer-based maximum likelihood method for estimating distances of reads to genomes and phylogenetic placement.
+        * [Phlag](https://github.com/bo1929/phlag): Scalable detection of genomics regions with unexplained phylogenetic heterogeneity.
     * [Yasamin Tabatabee](https://github.com/ytabatabaee)
         * [CASTLES](https://github.com/ytabatabaee/CASTLES)
