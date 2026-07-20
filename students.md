@@ -6,7 +6,7 @@ title: Students
 ### PhD Students
 
 * [Shayesteh Arasti](https://scholar.google.com/citations?user=lvoIu08AAAAJ&hl=en), [GitHub](https://github.com/shayesteh99)
-* [Eduardo Charvel](https://grad.ucsd.edu/diversity/programs-resources/ucem/sloan-scholars-pages/2022-sloan-scholars/charvel-eduardo.html)
+* [Eduardo Charvel](https://echarvel3.github.io), [GitHub](https://github.com/echarvel3), [Google Scholar](https://scholar.google.com/citations?user=q5J4kkAAAAAJ&hl=en&oi=ao)
 * [Daira Melendez](https://grad.ucsd.edu/diversity/programs-resources/ucem/sloan-scholars-pages/2022-sloan-scholars/melendez-daira.html)
 * [Ali Osman Berk Şapcı](alisapci.xyz), [GitHub](https://github.com/bo1929), [Google Scholar](https://scholar.google.com/citations?user=LM2uoeUAAAAJ&hl=en)
 
