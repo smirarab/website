@@ -134,6 +134,15 @@ Zimmermann, Théo, Siavash Mirarab, and Tandy Warnow. “BBCA: Improving the Sca
 
 ### Misc methods
 
+#### Phlag
+
+Şapcı, A. O. B., Arasti, S., Braun, E. L., & Mirarab, S. (2026). “Phlag: Scalable detection of genomics regions with unexplained phylogenetic heterogeneity.” Bioinformatics, 42 (Supplement 1), btag273. [https://doi.org/10.1093/bioinformatics/btag273](https://doi.org/10.1093/bioinformatics/btag273)
+
+* Gene trees simulated using msprime and simulation experiments: [phlag-avian-simulations](https://doi.org/10.5281/zenodo.19713355)
+* Analysis conducted on the mammalian phylogeny [(Foley et al., 2023)](https://www.science.org/doi/10.1126/science.abl8189): [phlag-mammalian-analysis](https://doi.org/10.5281/zenodo.19713368)
+* Experiments on the [Stiller et al., 2024](https://www.nature.com/articles/s41586-024-07323-1) avian phylogeny: [phlag-avian-analysis](https://doi.org/10.5281/zenodo.19713363)
+* Phlag benchmarking results, together with the simulated ARGs (experiments E1 and E2), and the supporting data for the avian dataset (experiment E3) and the mammalian dataset (experiment E4): [data-repository](doi.org/10.5061/dryad.g79cnp65h)
+
 #### uDance
 
 Metin Balaban et al., “Generation of Accurate, Expandable Phylogenomic Trees with uDance,” Nature Biotechnology Online (2023), <https://doi.org/10.1038/s41587-023-01868-8>.
