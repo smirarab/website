@@ -11,7 +11,10 @@ For small corrections to published papers, see [this page](2021/10/06/Corrigenda
 
 #### Preprints and  accepted conference papers
 0. Arasti, Shayesteh, Ali Osman Berk Sapci, Eleonora Rachtman, Mohammed El-Kebir, and Siavash Mirarab. 2026. “Deconvolving Phylogenetic Distance Mixtures.” bioRxiv (RECOMB 2026), 2026.01.18.700179. <https://doi.org/10.64898/2026.01.18.700179>.
+	* Part of [RECOMB 2026](https://recomb.org/proceedings/proceedings/2030-2026/2026/)
 0. Sapci, Ali Osman Berk, Shayesteh Arasti, Edward Braun, and Siavash Mirarab. 2026. “Phlag: Scalable Detection of Genomics Regions with Unexplained Phylogenetic Heterogeneity.” Preprint (to appear inISMB 2026). <https://doi.org/10.64898/2026.04.10.717778>.
+0. Charvel, Eduardo, Homėre J. Alves Monteiro, Siavash Mirarab, and Vineet Bafna. 2026. “DipSkmer: Reference-Free Population Genomics with Diploid Genome Skims.” Preprint. <https://doi.org/10.64898/2026.06.05.730460>.
+
 
 
 
@@ -30,6 +33,7 @@ For small corrections to published papers, see [this page](2021/10/06/Corrigenda
 0. Rivas-González, Iker, Siavash Mirarab, and Edward L. Braun. 2026. “Phylogenomics beyond the ‘Bag-of-Genes’ Model.” Trends in Genetics, S0168952526001150. <https://doi.org/10.1016/j.tig.2026.05.003>. free link: <https://authors.elsevier.com/a/1nAUrcQbJIzF%7E>
 0. Charvel, Eduardo, Isaac Thomas, Homère J. Alves Monteiro, et al. 2026. “ReSkmer: Modeling Repeats Allows k-Mer-Based Alignment-Free Methods to Calculate Population Genomic Distances.” Genome Biology, ahead of print. <https://doi.org/10.1186/s13059-026-04108-9>.
 0. Mayer, Alan K., Shayesteh Arasti, and Siavash Mirarab. 2026. “Detecting Outlier Subtrees of Gene Trees Using SPR Moves and Machine Learning.” Pp. 373–91 in Comparative Genomics. Vol. 16569, Lecture Notes in Computer Science, edited by M. Lafond. Cham: Springer Nature Switzerland. [doi:10.1007/978-3-032-26891-4_18](https://doi.org/10.1007/978-3-032-26891-4_18)
+	* RECOMB-CG, 2026
 0. Tabatabaee, Yasamin, Santiago Claramunt, and Siavash Mirarab. 2026. “Coalescent-Based Branch Length Estimation Improves Dating of Species Trees.” Systematic Biology, syag038. <https://doi.org/10.1093/sysbio/syag038> [free access link](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syag038/8690709?utm_source=authortollfreelink&utm_campaign=sysbio&utm_medium=email&guestAccessKey=17a433ce-e3d1-4c97-ac83-8d6863965831).
 0. Melendez, Daira, Ali Osman Berk Şapcı, Vineet Bafna, and Siavash Mirarab. 2026. “SPrUCE : Utilizing Ultraconserved Elements of DNA for Population‐Level Genetic Diversity Estimation.” Molecular Ecology Resources 26 (3): e70145. <https://doi.org/10.1111/1755-0998.70145>.
 0. Shayesteh Arasti, Puoya Tabaghi, Yasamin Tabatabaee, and Siavash Mirarab. “Optimal Tree Metric Matching Enables Phylogenomic Branch Length Reconciliation.” Systematic Biology (in press), syag025. 2026. <https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syag025/8512897?utm_source=authortollfreelink&utm_campaign=sysbio&utm_medium=email&guestAccessKey=558613ed-9406-46af-8c1f-51f861ec919d>.
