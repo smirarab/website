@@ -13,6 +13,7 @@ For small corrections to published papers, see [this page](2021/10/06/Corrigenda
 0. Arasti, Shayesteh, Ali Osman Berk Sapci, Eleonora Rachtman, Mohammed El-Kebir, and Siavash Mirarab. 2026. “Deconvolving Phylogenetic Distance Mixtures.” bioRxiv (RECOMB 2026), 2026.01.18.700179. <https://doi.org/10.64898/2026.01.18.700179>.
 	* Part of [RECOMB 2026](https://recomb.org/proceedings/proceedings/2030-2026/2026/)
 0. Charvel, Eduardo, Homėre J. Alves Monteiro, Siavash Mirarab, and Vineet Bafna. 2026. “DipSkmer: Reference-Free Population Genomics with Diploid Genome Skims.” Preprint. <https://doi.org/10.64898/2026.06.05.730460>.
+0. Gupta, Anshu, Wen-Chieh Lo, Siavash Mirarab, and Yatish Turakhia. 2026. “ROADIES-XP: GPU Acceleration and Phylogenetic Update Improve Scalability of Species Tree Inference from Raw Genomic Assemblies.” doi:10.64898/2026.08.24.745108. <http://biorxiv.org/lookup/doi/10.64898/2026.08.24.745108>
 
 
 #### Book Chapters
