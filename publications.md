@@ -12,10 +12,7 @@ For small corrections to published papers, see [this page](2021/10/06/Corrigenda
 #### Preprints and  accepted conference papers
 0. Arasti, Shayesteh, Ali Osman Berk Sapci, Eleonora Rachtman, Mohammed El-Kebir, and Siavash Mirarab. 2026. “Deconvolving Phylogenetic Distance Mixtures.” bioRxiv (RECOMB 2026), 2026.01.18.700179. <https://doi.org/10.64898/2026.01.18.700179>.
 	* Part of [RECOMB 2026](https://recomb.org/proceedings/proceedings/2030-2026/2026/)
-0. Sapci, Ali Osman Berk, Shayesteh Arasti, Edward Braun, and Siavash Mirarab. 2026. “Phlag: Scalable Detection of Genomics Regions with Unexplained Phylogenetic Heterogeneity.” Preprint (to appear inISMB 2026). <https://doi.org/10.64898/2026.04.10.717778>.
 0. Charvel, Eduardo, Homėre J. Alves Monteiro, Siavash Mirarab, and Vineet Bafna. 2026. “DipSkmer: Reference-Free Population Genomics with Diploid Genome Skims.” Preprint. <https://doi.org/10.64898/2026.06.05.730460>.
-
-
 
 
 #### Book Chapters
@@ -28,10 +25,11 @@ For small corrections to published papers, see [this page](2021/10/06/Corrigenda
 
 #### Published Papers (including in press)
 
-{:start="117"}
+{:start="118"}
  
-0. Rivas-González, Iker, Siavash Mirarab, and Edward L. Braun. 2026. “Phylogenomics beyond the ‘Bag-of-Genes’ Model.” Trends in Genetics, S0168952526001150. <https://doi.org/10.1016/j.tig.2026.05.003>. free link: <https://authors.elsevier.com/a/1nAUrcQbJIzF%7E>
-0. Charvel, Eduardo, Isaac Thomas, Homère J. Alves Monteiro, et al. 2026. “ReSkmer: Modeling Repeats Allows k-Mer-Based Alignment-Free Methods to Calculate Population Genomic Distances.” Genome Biology, ahead of print. <https://doi.org/10.1186/s13059-026-04108-9>.
+0. Şapcı, Ali Osman Berk, Shayesteh Arasti, Edward L. Braun, and Siavash Mirarab. 2026. “Phlag: Scalable Detection of Genomics Regions with Unexplained Phylogenetic Heterogeneity.” Bioinformatics 42(ISMB (Supplement\_1)):btag273. [doi:10.1093/bioinformatics/btag273](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btag273/8726330). [free access](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btag273/8726330?utm_source=authortollfreelink&utm_campaign=bioinformatics&utm_medium=email&guestAccessKey=ce67457e-94a1-4c9c-8ee5-f28c8551f3d1).
+0. Rivas-González, Iker, Siavash Mirarab, and Edward L. Braun. 2026. “Phylogenomics beyond the ‘Bag-of-Genes’ Model.” Trends in Genetics, S0168952526001150. <https://doi.org/10.1016/j.tig.2026.05.003>. [free link](https://authors.elsevier.com/a/1nAUrcQbJIzF%7E)
+0. Charvel, Eduardo, Isaac Thomas, Homère J. Alves Monteiro, Shahab Sarmashghi, Glenn Dunshea, Vineet Bafna, and Siavash Mirarab. 2026. “ReSkmer: Modeling Repeats Allows k-Mer-Based Alignment-Free Methods to Calculate Population Genomic Distances.” Genome Biology 27(1):233. [doi:10.1186/s13059-026-04108-9](https://link.springer.com/10.1186/s13059-026-04108-9).
 0. Mayer, Alan K., Shayesteh Arasti, and Siavash Mirarab. 2026. “Detecting Outlier Subtrees of Gene Trees Using SPR Moves and Machine Learning.” Pp. 373–91 in Comparative Genomics. Vol. 16569, Lecture Notes in Computer Science, edited by M. Lafond. Cham: Springer Nature Switzerland. [doi:10.1007/978-3-032-26891-4_18](https://doi.org/10.1007/978-3-032-26891-4_18)
 	* RECOMB-CG, 2026
 0. Tabatabaee, Yasamin, Santiago Claramunt, and Siavash Mirarab. 2026. “Coalescent-Based Branch Length Estimation Improves Dating of Species Trees.” Systematic Biology, syag038. <https://doi.org/10.1093/sysbio/syag038> [free access link](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syag038/8690709?utm_source=authortollfreelink&utm_campaign=sysbio&utm_medium=email&guestAccessKey=17a433ce-e3d1-4c97-ac83-8d6863965831).
@@ -39,7 +37,7 @@ For small corrections to published papers, see [this page](2021/10/06/Corrigenda
 0. Shayesteh Arasti, Puoya Tabaghi, Yasamin Tabatabaee, and Siavash Mirarab. “Optimal Tree Metric Matching Enables Phylogenomic Branch Length Reconciliation.” Systematic Biology (in press), syag025. 2026. <https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syag025/8512897?utm_source=authortollfreelink&utm_campaign=sysbio&utm_medium=email&guestAccessKey=558613ed-9406-46af-8c1f-51f861ec919d>.
 	* Appeared in RECOMB 2024 as [short abstract](https://link.springer.com/chapter/10.1007/978-1-0716-3989-4_53).
 	* Arasti, Shayesteh, Puoya Tabaghi, Yasamin Tabatabaee, and Siavash Mirarab. “Optimal Tree Metric Matching Enables Phylogenomic Branch Length Estimation.” In Research in Computational Molecular Biology, edited by Jian Ma, 462–65. Cham: Springer Nature Switzerland, 2024.
-0. Şapcı, Ali Osman Berk, and Siavash Mirarab. 2026. “Krepp: A k-Mer-Based Maximum Pseudo-Likelihood Method for Estimating Read Distances and Genome-Wide Phylogenetic Placement.” Genome Biology, ahead of print, 2026,. <https://doi.org/10.1186/s13059-026-03999-y>.
+0. Şapcı, Ali Osman Berk, and Siavash Mirarab. 2026. “Krepp: A k-Mer-Based Maximum Pseudo-Likelihood Method for Estimating Read Distances and Genome-Wide Phylogenetic Placement.” Genome Biology 27(1):108. [doi:10.1186/s13059-026-03999-y](https://link.springer.com/10.1007/978-3-032-26891-4_18).
 	*  Appeared in RECOMB 2025 as:
 	* Şapcı, Ali Osman Berk, and Siavash Mirarab. 2025. “Alignment-Free Estimation of Read to Genome Distances and Its Applications.” In Research in Computational Molecular Biology, edited by Sriram Sankararaman, vol. 15647. Lecture Notes in Computer Science. Springer Nature Switzerland. <https://doi.org/10.1007/978-3-031-90252-9_30>.
 0. Tabatabaee, Yasamin, Chao Zhang, Shayesteh Arasti, and Siavash Mirarab. 2025. “Species Tree Branch Length Estimation despite Incomplete Lineage Sorting, Duplication, and Loss.” Genome Biology and Evolution 17 (11): evaf200. [https://doi.org/10.1093/gbe/evaf200](https://urldefense.com/v3/__https://track.smtpsendmail.com/9032119/c?p=c1XJTvm6OZAofkCqck-7z5wujJpvDflMToVRhd1j0tbLo2CBGzEhwa6q_HmdeKJ93865wv6-y1hPfXm8cv0G4iSKUS_g6wN9rysf-4Pltdh-RVOZvs40OehGQ9LMYNxLhYBxR8SY5xmLa9UgONK-YDtFqxN79U-rnRqUBY6tJrurx-g0o84Rbms_w65qIN87ot1tCaEfOIPJcip2cCop2IE-vx3e6LbkLq7xrzNMYyQSczT_9PtmwPs4OVqxLbDXlROdyPeVwPtT6V-KIBd8yeROtAXw7unizeX6ZQrXQQv4Eh_yIclKH4usYvpQplw9__;!!Mih3wA!AWNglDMl8IlwwhI8zuuJ81wF8A4YhtS-DE_YAnUEfK-BdJEZtgfsZyKXqG_aO8Uamrx13_mEbO72wqTApCf8$).
