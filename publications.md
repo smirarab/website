@@ -14,6 +14,7 @@ For small corrections to published papers, see [this page](2021/10/06/Corrigenda
 	* Part of [RECOMB 2026](https://recomb.org/proceedings/proceedings/2030-2026/2026/)
 0. Charvel, Eduardo, Homėre J. Alves Monteiro, Siavash Mirarab, and Vineet Bafna. 2026. “DipSkmer: Reference-Free Population Genomics with Diploid Genome Skims.” Preprint. <https://doi.org/10.64898/2026.06.05.730460>.
 0. Gupta, Anshu, Wen-Chieh Lo, Siavash Mirarab, and Yatish Turakhia. 2026. “ROADIES-XP: GPU Acceleration and Phylogenetic Update Improve Scalability of Species Tree Inference from Raw Genomic Assemblies.” doi:10.64898/2026.08.24.745108. <http://biorxiv.org/lookup/doi/10.64898/2026.08.24.745108>
+0. Arasti, Shayesteh, and Siavash Mirarab. 2026. “BROOQS: Spectral Methods Resolve Level-1 Hybridization Cycles without Tests of Symmetry.” bioRxiv 2026.08.31.748319. [doi:10.64898/2026.08.31.748319](http://biorxiv.org/content/early/2026/09/04/2026.08.31.748319.abstract).
 
 
 #### Book Chapters
