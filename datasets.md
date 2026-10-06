@@ -372,6 +372,19 @@ Mirarab, Siavash, Nam Nguyen, and Tandy Warnow. "SEPP: SATé-enabled phylogeneti
 
 ### Skmer (distance calculation)
 
+#### DipSkmer
+
+Charvel, E., Homere J. Alves Monteiro, Vineet Bafna, Siavash Mirarab
+PLOS Computational Biology (In Press); doi: <https://doi.org/10.64898/2026.06.05.730460>
+
+* This paper analyzes existing, publicly available data. All original studies are referenced in the main text. Scripts used for simulatons are found here: <https://github.com/echarvel3/dipskmer_scripts>.
+
+#### ReSkmer
+
+Charvel, E., Isaac Thomas, Homere J. Alves Monteiro, Glenn Dunshea, Vineet Bafna, Siavash Mirarab. ReSkmer: modeling repeats allows k-mer-based alignment-free methods to calculate population genomic distances. Genome Biol 27, 233 (2026). <https://doi.org/10.1186/s13059-026-04108-9>.
+
+* This paper analyzes existing, publicly available data. All original studies are referenced in the main text. Results and scripts used for simulatons are found here: <https://github.com/echarvel3/reskmer_data>.
+
 #### Skmer Support values
 Rachtman, Eleonora, Shahab Sarmashghi, Vineet Bafna, and Siavash Mirarab. “Quantifying the Uncertainty of Assembly-Free Genome-Wide Distance Estimates and Phylogenetic Relationships Using Subsampling.” Cell Systems 13, no. 10 (2022): 817-829.e3. <https://doi.org/10.1016/j.cels.2022.06.007>.
 
