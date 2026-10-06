@@ -132,7 +132,14 @@ Zimmermann, Théo, Siavash Mirarab, and Tandy Warnow. “BBCA: Improving the Sca
 
 * Data are made available on [GitHub](https://github.com/smirarab/binning-extra-data/tree/main/bbca); see `bbca` directory there. 
 
-### Misc methods
+### Phylogenetic networks
+
+#### BROOQS
+
+Arasti, Shayesteh, and Siavash Mirarab. 2026. “BROOQS: Spectral Methods Resolve Level-1 Hybridization Cycles without Tests of Symmetry.” bioRxiv 2026.08.31.748319. doi:10.64898/2026.08.31.748319.
+
+* <https://github.com/shayesteh99/BROOQS-Data>
+
 
 #### Phlag
 
@@ -142,6 +149,15 @@ Zimmermann, Théo, Siavash Mirarab, and Tandy Warnow. “BBCA: Improving the Sca
 * Analysis conducted on the mammalian phylogeny [(Foley et al., 2023)](https://www.science.org/doi/10.1126/science.abl8189): [phlag-mammalian-analysis](https://doi.org/10.5281/zenodo.19713368)
 * Experiments on the [Stiller et al., 2024](https://www.nature.com/articles/s41586-024-07323-1) avian phylogeny: [phlag-avian-analysis](https://doi.org/10.5281/zenodo.19713363)
 * Phlag benchmarking results, together with the simulated ARGs (experiments E1 and E2), and the supporting data for the avian dataset (experiment E3) and the mammalian dataset (experiment E4): [data-repository](doi.org/10.5061/dryad.g79cnp65h)
+
+### Misc methods
+
+#### CASTER
+
+Zhang, Chao, Rasmus Nielsen, and Siavash Mirarab. 2025. “CASTER: Direct Species Tree Inference from Whole-Genome Alignments.” Science eadk9688. doi:10.1126/science.adk9688.
+
+
+* Data is available from <https://datadryad.org/dataset/doi:10.5061/dryad.bg79cnph0>
 
 #### uDance
 
@@ -273,6 +289,10 @@ Balaban, Metin, and Siavash Mirarab. “Phylogenetic Double Placement of Mixed S
 * Smaller files on [GitHub](https://github.com/balabanmetin/misa-data)
 * Large files are given on [Dryad](https://datadryad.org/stash/dataset/doi:10.6076/D1QW25)
 
+#### DecoDiPhy
+
+* Data is vailable under <https://github.com/shayesteh99/DecoDiPhy-Data>
+
 #### APPLES-I
 
 Balaban, Metin, Shahab Sarmashghi, and Siavash Mirarab. “APPLES: Scalable Distance-Based Phylogenetic Placement with or without Alignments.” Edited by David Posada. Systematic Biology 69, no. 3 (2020): 566–78. <https://doi.org/10.1093/sysbio/syz063>.
@@ -346,7 +366,6 @@ Rachtman, Eleonora, Vineet Bafna, and Siavash Mirarab. “CONSULT: Accurate Cont
 #### TIPP
 
 Nguyen, Nam-phuong; Mirarab, Siavash; Bo, Liu; Pop, Mihai; Warnow, Tandy (2014). "TIPP: taxonomic identification and phylogenetic profiling." . Bioinformatics 30.24 (2014): 3548-3555.
-
 
 * Available at UIC <https://doi.org/10.13012/B2IDB-8783447_V1>
 
