@@ -100,6 +100,24 @@ Mirarab, Siavash, Rezwana Reaz, Md. Shamsuzzoha Bayzid, Théo Zimmermann, M. S. 
 * Available on Dryad: <https://doi.org/doi:10.5061/dryad.ht76hdrp0>.
 
 
+### Phylogenetic networks
+
+#### BROOQS
+
+Arasti, Shayesteh, and Siavash Mirarab. 2026. “BROOQS: Spectral Methods Resolve Level-1 Hybridization Cycles without Tests of Symmetry.” bioRxiv 2026.08.31.748319. doi:10.64898/2026.08.31.748319.
+
+* <https://github.com/shayesteh99/BROOQS-Data>
+
+
+#### Phlag
+
+Şapcı, A. O. B., Arasti, S., Braun, E. L., & Mirarab, S. (2026). “Phlag: Scalable detection of genomics regions with unexplained phylogenetic heterogeneity.” Bioinformatics, 42 (Supplement 1), btag273. [https://doi.org/10.1093/bioinformatics/btag273](https://doi.org/10.1093/bioinformatics/btag273)
+
+* Gene trees simulated using msprime and simulation experiments: [phlag-avian-simulations](https://doi.org/10.5281/zenodo.19713355)
+* Analysis conducted on the mammalian phylogeny [(Foley et al., 2023)](https://www.science.org/doi/10.1126/science.abl8189): [phlag-mammalian-analysis](https://doi.org/10.5281/zenodo.19713368)
+* Experiments on the [Stiller et al., 2024](https://www.nature.com/articles/s41586-024-07323-1) avian phylogeny: [phlag-avian-analysis](https://doi.org/10.5281/zenodo.19713363)
+* Phlag benchmarking results, together with the simulated ARGs (experiments E1 and E2), and the supporting data for the avian dataset (experiment E3) and the mammalian dataset (experiment E4): [data-repository](doi.org/10.5061/dryad.g79cnp65h)
+
 ### Binning related
 
 #### Statistical Binning
@@ -132,25 +150,7 @@ Zimmermann, Théo, Siavash Mirarab, and Tandy Warnow. “BBCA: Improving the Sca
 
 * Data are made available on [GitHub](https://github.com/smirarab/binning-extra-data/tree/main/bbca); see `bbca` directory there. 
 
-### Phylogenetic networks
-
-#### BROOQS
-
-Arasti, Shayesteh, and Siavash Mirarab. 2026. “BROOQS: Spectral Methods Resolve Level-1 Hybridization Cycles without Tests of Symmetry.” bioRxiv 2026.08.31.748319. doi:10.64898/2026.08.31.748319.
-
-* <https://github.com/shayesteh99/BROOQS-Data>
-
-
-#### Phlag
-
-Şapcı, A. O. B., Arasti, S., Braun, E. L., & Mirarab, S. (2026). “Phlag: Scalable detection of genomics regions with unexplained phylogenetic heterogeneity.” Bioinformatics, 42 (Supplement 1), btag273. [https://doi.org/10.1093/bioinformatics/btag273](https://doi.org/10.1093/bioinformatics/btag273)
-
-* Gene trees simulated using msprime and simulation experiments: [phlag-avian-simulations](https://doi.org/10.5281/zenodo.19713355)
-* Analysis conducted on the mammalian phylogeny [(Foley et al., 2023)](https://www.science.org/doi/10.1126/science.abl8189): [phlag-mammalian-analysis](https://doi.org/10.5281/zenodo.19713368)
-* Experiments on the [Stiller et al., 2024](https://www.nature.com/articles/s41586-024-07323-1) avian phylogeny: [phlag-avian-analysis](https://doi.org/10.5281/zenodo.19713363)
-* Phlag benchmarking results, together with the simulated ARGs (experiments E1 and E2), and the supporting data for the avian dataset (experiment E3) and the mammalian dataset (experiment E4): [data-repository](doi.org/10.5061/dryad.g79cnp65h)
-
-### Misc methods
+### Other species tree inference methods
 
 #### CASTER
 
@@ -172,6 +172,14 @@ Maryam Rabiee and Siavash Mirarab, “QuCo: Quartet-Based Co-Estimation of Speci
 * See <https://gitlab.com/mrabiee/quo-data>
 * Most of the data are on Dryad: <https://datadryad.org/stash/dataset/doi:10.6076/D1CP4R>
 
+#### DISTIQUE
+Sayyari, Erfan, and Siavash Mirarab. “Anchoring Quartet-Based Phylogenetic Distances and Applications to Species Tree Reconstruction.” BMC Genomics 17, no. S10 (2016): 101–13. [doi: 10.1186/s12864-016-3098-z](https://doi.org/10.1186/s12864-016-3098-z).
+
+* <http://esayyari.github.io/DISTIQUE> 
+* Some of the files linked there may be lost, unfortunately. 
+
+### Post/Pre Processing
+
 #### TripVote
 
 Mai, Uyen, and Siavash Mirarab. “Completing Gene Trees without Species Trees in Sub-Quadratic Time.” Edited by Russell Schwartz. Bioinformatics 38, no. 6 (M2022): 1532–41. <https://doi.org/10.1093/bioinformatics/btab875>.
@@ -185,12 +193,6 @@ Zhang, Chao, Yiming Zhao, Edward Louis Braun, and Siavash Mirarab. “TAPER: Pin
 
 * Github: <https://github.com/yimingnzhao/TAPER-Results>
 * Zenodo: <https://doi.org/10.5281/zenodo.5138561>
-
-#### DISTIQUE
-Sayyari, Erfan, and Siavash Mirarab. “Anchoring Quartet-Based Phylogenetic Distances and Applications to Species Tree Reconstruction.” BMC Genomics 17, no. S10 (2016): 101–13. [doi: 10.1186/s12864-016-3098-z](https://doi.org/10.1186/s12864-016-3098-z).
-
-* <http://esayyari.github.io/DISTIQUE> 
-* Some of the files linked there may be lost, unfortunately. 
 
 
 
