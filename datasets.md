@@ -178,6 +178,54 @@ Sayyari, Erfan, and Siavash Mirarab. “Anchoring Quartet-Based Phylogenetic Dis
 * <http://esayyari.github.io/DISTIQUE> 
 * Some of the files linked there may be lost, unfortunately. 
 
+### Branch Length: Dating
+
+#### wLogDate
+
+Uyen Mai, Siavash Mirarab, Log Transformation Improves Dating of Phylogenies, Molecular Biology and Evolution, msaa222, <https://doi.org/10.1093/molbev/msaa222>.
+
+* Data: <https://github.com/uym2/LogDate-paper>
+* Software: <https://uym2.github.io/wLogDate/>
+
+#### MD-Cat
+
+Mai, Uyen, Eduardo Charvel, and Siavash Mirarab. “Expectation-Maximization Enables Phylogenetic Dating under a Categorical Rate Model.” Systematic Biology, 2024, syae034. <https://doi:10.1093/sysbio/syae034>.
+
+* Data available on Dryad: <https://doi.org/10.5061/dryad.pk0p2ngs0>
+* Software: <https://github.com/uym2/MD-Cat>
+* Scripts used in analysis: <https://github.com/uym2/MD-Cat-paper>
+
+### Branch Length: Substitution units
+
+#### CASTLES
+
+Tabatabaee, Yasamin, Chao Zhang, Tandy Warnow, and Siavash Mirarab. “Phylogenomic Branch Length Estimation Using Quartets.” Bioinformatics 39, no. Supplement_1 (2023): i185–93. <https://doi.org/10.1093/bioinformatics/btad221>.
+
+* Data available on Dryad: <https://doi.org/10.5061/dryad.pg4f4qs3q>
+* Scripts used in analysis: <https://github.com/ytabatabaee/CASTLES-paper>
+
+#### CASTLES-Pro
+
+Tabatabaee, Yasamin, Chao Zhang, Shayesteh Arasti, and Siavash Mirarab. 2025. “Species Tree Branch Length Estimation despite Incomplete Lineage Sorting, Duplication, and Loss.” Genome Biology and Evolution 17 (11): evaf200. https://doi.org/10.1093/gbe/evaf200.
+
+* Data available on Dryad: <https://doi.org/10.5061/dryad.70rxwdcc8>
+* Scripts used in analysis: <https://github.com/ytabatabaee/CASTLES-Pro-paper>
+
+#### TCMM
+
+Arasti, Shayesteh, Puoya Tabaghi, Yasamin Tabatabaee, Alan K Mayer, and Siavash Mirarab. “Branch Length Transforms using Optimal Tree Metric Matching.” Systematic Biology, 2026, syag025. <https://doi.org/10.1093/sysbio/syag025>
+
+* Data: <https://github.com/shayesteh99/TCMM-Data>
+* Software: <https://github.com/shayesteh99/TCMM>
+
+#### CASTLES-Dating
+
+Tabatabaee, Yasamin, Santiago Claramunt, and Siavash Mirarab. “Coalescent-Based Branch Length Estimation Improves Dating of Species Trees.” Systematic Biology (to appear), 2026, <https://doi.org/10.1101/2025.02.25.640207.>
+
+* Data available on Dryad: <https://doi.org/10.5061/dryad.hmgqnk9xv>
+* Scripts used in analysis: <https://github.com/ytabatabaee/coalescent-based-dating>
+
+
 ### Post/Pre Processing
 
 #### TripVote
@@ -187,6 +235,19 @@ Mai, Uyen, and Siavash Mirarab. “Completing Gene Trees without Species Trees i
 
 * See <https://uym2.github.io/tripVote/>
 * The actual data are on [Dryad](https://datadryad.org/stash/dataset/doi:10.6076/D1N30V)
+
+#### MinVarRooting
+
+Mai, Uyen, Erfan Sayyari, and Siavash Mirarab. “Minimum Variance Rooting of Phylogenetic Trees and Implications for Species Tree Reconstruction.” Edited by Gabriel Moreno-Hagelsieb. PLOS ONE 12, no. 8 (2017): e0182238. <https://doi.org/10.1371/journal.pone.0182238>.
+
+* For data, see <https://uym2.github.io/MinVar-Rooting/>
+
+#### TreeShrink
+
+Mai, Uyen, and Siavash Mirarab. “TreeShrink: Fast and Accurate Detection of Outlier Long Branches in Collections of Phylogenetic Trees.” BMC Genomics 19, no. S5 (May 8, 2018): 272. [doi: 10.1186/s12864-018-4620-2](https://doi.org/10.1186/s12864-018-4620-2). 
+
+* For dasta, see [https://uym2.github.io/TreeShrink/](https://uym2.github.io/TreeShrink/)
+* Much of the larger datasets are on [Dryad](https://doi.org/doi:10.6076/D1HC71)
 
 #### TAPER
 Zhang, Chao, Yiming Zhao, Edward Louis Braun, and Siavash Mirarab. “TAPER: Pinpointing Errors in Multiple Sequence Alignments despite Varying Rates of Evolution.” Methods in Ecology and Evolution 12, no. 11 (2021), 2145-58. [doi:10.1111/2041-210X.13696](http://doi.org/10.1111/2041-210X.13696). 
@@ -371,74 +432,6 @@ Nguyen, Nam-phuong; Mirarab, Siavash; Bo, Liu; Pop, Mihai; Warnow, Tandy (2014).
 
 * Available at UIC <https://doi.org/10.13012/B2IDB-8783447_V1>
 
-## Branch Length
-
-### Dating and unit conversion
-
-#### wLogDate
-
-Uyen Mai, Siavash Mirarab, Log Transformation Improves Dating of Phylogenies, Molecular Biology and Evolution, msaa222, <https://doi.org/10.1093/molbev/msaa222>.
-
-* Data: <https://github.com/uym2/LogDate-paper>
-* Software: <https://uym2.github.io/wLogDate/>
-
-#### MD-Cat
-
-Mai, Uyen, Eduardo Charvel, and Siavash Mirarab. “Expectation-Maximization Enables Phylogenetic Dating under a Categorical Rate Model.” Systematic Biology, 2024, syae034. <https://doi:10.1093/sysbio/syae034>.
-
-* Data available on Dryad: <https://doi.org/10.5061/dryad.pk0p2ngs0>
-* Software: <https://github.com/uym2/MD-Cat>
-* Scripts used in analysis: <https://github.com/uym2/MD-Cat-paper>
-
-#### CASTLES
-
-Tabatabaee, Yasamin, Chao Zhang, Tandy Warnow, and Siavash Mirarab. “Phylogenomic Branch Length Estimation Using Quartets.” Bioinformatics 39, no. Supplement_1 (2023): i185–93. <https://doi.org/10.1093/bioinformatics/btad221>.
-
-* Data available on Dryad: <https://doi.org/10.5061/dryad.pg4f4qs3q>
-* Scripts used in analysis: <https://github.com/ytabatabaee/CASTLES-paper>
-
-#### CASTLES-Pro
-
-Tabatabaee, Yasamin, Chao Zhang, Shayesteh Arasti, and Siavash Mirarab. 2025. “Species Tree Branch Length Estimation despite Incomplete Lineage Sorting, Duplication, and Loss.” Genome Biology and Evolution 17 (11): evaf200. https://doi.org/10.1093/gbe/evaf200.
-
-* Data available on Dryad: <https://doi.org/10.5061/dryad.70rxwdcc8>
-* Scripts used in analysis: <https://github.com/ytabatabaee/CASTLES-Pro-paper>
-
-#### TCMM
-
-Arasti, Shayesteh, Puoya Tabaghi, Yasamin Tabatabaee, Alan K Mayer, and Siavash Mirarab. “Branch Length Transforms using Optimal Tree Metric Matching.” Systematic Biology, 2026, syag025. <https://doi.org/10.1093/sysbio/syag025>
-
-* Data: <https://github.com/shayesteh99/TCMM-Data>
-* Software: <https://github.com/shayesteh99/TCMM>
-
-#### CASTLES-Dating
-
-Tabatabaee, Yasamin, Santiago Claramunt, and Siavash Mirarab. “Coalescent-Based Branch Length Estimation Improves Dating of Species Trees.” Systematic Biology (to appear), 2026, <https://doi.org/10.1101/2025.02.25.640207.>
-
-* Data available on Dryad: <https://doi.org/10.5061/dryad.hmgqnk9xv>
-* Scripts used in analysis: <https://github.com/ytabatabaee/coalescent-based-dating>
-
-
-### Rooting, Clustering, Error detection, etc.
-
-#### MinVarRooting
-
-Mai, Uyen, Erfan Sayyari, and Siavash Mirarab. “Minimum Variance Rooting of Phylogenetic Trees and Implications for Species Tree Reconstruction.” Edited by Gabriel Moreno-Hagelsieb. PLOS ONE 12, no. 8 (2017): e0182238. <https://doi.org/10.1371/journal.pone.0182238>.
-
-* For data, see <https://uym2.github.io/MinVar-Rooting/>
-
-#### TreeShrink
-
-Mai, Uyen, and Siavash Mirarab. “TreeShrink: Fast and Accurate Detection of Outlier Long Branches in Collections of Phylogenetic Trees.” BMC Genomics 19, no. S5 (May 8, 2018): 272. [doi: 10.1186/s12864-018-4620-2](https://doi.org/10.1186/s12864-018-4620-2). 
-
-* For dasta, see [https://uym2.github.io/TreeShrink/](https://uym2.github.io/TreeShrink/)
-* Much of the larger datasets are on [Dryad](https://doi.org/doi:10.6076/D1HC71)
-
-#### TreeCluster
-Balaban, Metin, Niema Moshiri, Uyen Mai, Xingfan Jia, and Siavash Mirarab. “TreeCluster: Clustering Biological Sequences Using Phylogenetic Trees.” Edited by Serdar Bozdag. PLOS ONE 14, no. 8 (2019): e0221068. [doi:10.1371/journal.pone.0221068](https://doi.org/10.1371/journal.pone.0221068).
-
-* Data deposited on [Zenodo](https://zenodo.org/record/3358386)
-
 ## Alignment
 
 #### FastSP
@@ -480,6 +473,12 @@ Moshiri and Mirarab, Dual-birth: A Two-State Model of Tree Evolution and Its App
 Moshiri, Niema, Davey M Smith, and Siavash Mirarab. “HIV Care Prioritization Using Phylogenetic Branch Length.” JAIDS Journal of Acquired Immune Deficiency Syndromes (2020): 2019.12.20.885202. [doi:10.1097/QAI.000000000000261](https://doi.org/10.1097/QAI.0000000000002612).
 
 * <https://github.com/niemasd/ProACT-Paper-Final>
+
+#### TreeCluster
+Balaban, Metin, Niema Moshiri, Uyen Mai, Xingfan Jia, and Siavash Mirarab. “TreeCluster: Clustering Biological Sequences Using Phylogenetic Trees.” Edited by Serdar Bozdag. PLOS ONE 14, no. 8 (2019): e0221068. [doi:10.1371/journal.pone.0221068](https://doi.org/10.1371/journal.pone.0221068).
+
+* Data deposited on [Zenodo](https://zenodo.org/record/3358386)
+
 
 ## Obsolete
 
