@@ -65,3 +65,5 @@ title: Tools
         * [Phlag](https://github.com/bo1929/phlag): Scalable detection of genomics regions with unexplained phylogenetic heterogeneity.
     * [Yasamin Tabatabee](https://github.com/ytabatabaee)
         * [CASTLES](https://github.com/ytabatabaee/CASTLES)
+	* [Eduardo Charvel](https://github.com/echarvel3)
+		* [Skmer2](https://github.com/echarvel3/Skmer2): Repeat and Diploidy-aware Reference-free, Alignment-free Distance Estimation between Genome Skims
